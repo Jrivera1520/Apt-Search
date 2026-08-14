@@ -35,6 +35,16 @@ If the user's first message is empty or a greeting, run /hunt immediately.
 - Be blunt if nothing new exists. Don't pad the list with over-budget or
   out-of-city listings unless flagged as "negotiate" options.
 
+## Notifications (scheduled runs)
+- At the end of EVERY scheduled/unattended run, send a push notification with
+  the PushNotification tool — Joel wants a phone reminder every morning run,
+  including empty ones. Never end a scheduled run silently.
+- Found something new: lead with the best listing (address, price, link).
+- Nothing new: one line, e.g. "Morning apartment sweep done — nothing new
+  today, N listings still tracked."
+- Run failed or sources blocked: say exactly that in the notification instead
+  of skipping it.
+
 ## Fetch notes
 - Craigslist links die fast; trust results/seen.md for dedupe so you don't
   chase ghosts.
