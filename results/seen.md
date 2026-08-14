@@ -1,0 +1,9 @@
+https://www.craigslist.org/view/d/san-francisco-bed-15-bath-second-floor/bwn75E42zKK7wuzYRmKhrN
+https://www.redfin.com/city/17151/CA/San-Francisco/3-bedroom-houses-for-rent (3624 San Bruno Ave, $4,000)
+https://www.craigslist.org/view/d/san-francisco-bedrooms-flat-for-rent/wJmYQN56io7XBW67RUjqsz (Holly Park, $4,000)
+https://www.craigslist.org/view/d/san-francisco-market-st-3bed-clarendon/vJrC2Heu1c6i9WTcuHqRSf (3412 Market St, Clarendon Heights, $4,000)
+https://www.craigslist.org/view/d/san-francisco-bed-cats-and-small-dogs/pp5cqPJHdgkxuveaGH5dnC (415 Tehama St, SOMA, $4,195 - negotiate)
+https://www.zumper.com/apartment-buildings/p784117/946-stockton-street-san-francisco-ca-94108-hhl-leasing-o-financial-district-san-francisco-ca (946 Stockton St, Chinatown, ~$4,200 - negotiate)
+https://www.zumper.com/address/337-lisbon-st-san-francisco-ca-94112-usa (337 Lisbon St #2, Excelsior, $3,700)
+https://www.craigslist.org/view/d/daly-city-265-lobos-st-san-francisco-ca/3GsKOE-X8RGQFKagpZhyxw (265 Lobos St, Excelsior/Outer Mission, $4,000)
+https://www.craigslist.org/view/d/san-francisco-br-2bath-newly-renovated/3Xo9ut3fCAUnT3Fe6Ud3ca (24th Ave near Ocean Ave, Ingleside/SFSU, $4,000)
