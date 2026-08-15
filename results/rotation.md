@@ -8,9 +8,9 @@
 
 | site | listings URL | last checked | status | note |
 |---|---|---|---|---|
-| Show Mojo | (find via search) | — | never-checked | |
-| RNB | (find via search) | — | never-checked | |
-| Luminor SF | (find via search) | — | never-checked | |
+| Show Mojo | (find via search) | 2026-08-15 | wrong-company? | ShowMojo is leasing/listing-syndication software used by many independent landlords, not a single distinct SF property manager — no SF-specific 3BR inventory found under that name. Flag to Joel: likely a data-entry error, replace with an actual named SF landlord/PM or remove |
+| RNB | (find via search) | 2026-08-15 | no-3br | rnbrentals.com is primarily Marin/San Mateo/Sacramento-focused; no distinct current SF 3BR listings surfaced via search (site itself didn't rank). Recommend a direct fetch of rnbrentals.com/bay-area-rentals.php next time egress allows, before concluding 0-inventory |
+| Luminor SF | luminorsf.com/availability | 2026-08-15 | no-3br | real SF PM company (1792 26th Ave); availability page has bed-count filters but current results surfaced were studios/rooms only (e.g. 5826 Geary Blvd #6, 0bd room) — no 3BR found this check |
 | Progressive | (find via search) | — | never-checked | |
 | West Coast Property Management | (find via search) | — | never-checked | |
 | BanCal | (find via search) | — | never-checked | |
