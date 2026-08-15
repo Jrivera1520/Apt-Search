@@ -22,14 +22,19 @@ Steps:
    short-term, and not-whole-unit verdicts are sticky.
 5. Spot-check the 2–3 stalest non-dead property management sites from
    rotation.md and update their rows (blocked checks don't count).
-6. Apply the criteria and legitimacy filter from CLAUDE.md — extra strict
+6. Re-verify every seen.md ledger row with status active, negotiate, or
+   unconfirmed: one exact-address search each (or a fetch when the Fetch
+   rules allow). Update last-verified, price, and status per the ledger
+   contract; two consecutive no-trace checks mark a row gone. Report
+   every status change as a delta.
+7. Apply the criteria and legitimacy filter from CLAUDE.md — extra strict
    on Craigslist. Run the laundry check as specified in Criteria.
-7. Report per CLAUDE.md Output format: deltas only, evidence tags on every
+8. Report per CLAUDE.md Output format: deltas only, evidence tags on every
    legitimacy note, best first, NEW flagged at the top, bottom-line
    sentence first.
-8. Update seen.md, rejected.md, rotation.md, and state.md; write or append
+9. Update seen.md, rejected.md, rotation.md, and state.md; write or append
    results/YYYY-MM-DD.md using today's actual date.
-9. Commit ("Apartment sweep YYYY-MM-DD") and push to main — EVERY run,
-   manual or scheduled.
-10. If this is a scheduled/unattended run: send the push notification per
+10. Commit ("Apartment sweep YYYY-MM-DD") and push to main — EVERY run,
+    manual or scheduled.
+11. If this is a scheduled/unattended run: send the push notification per
     CLAUDE.md Notifications. Never end a scheduled run silently.

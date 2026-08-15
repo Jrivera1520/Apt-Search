@@ -100,9 +100,20 @@ Additional rules:
   any application fee or deposit."
 
 ## Memory files (read at start of every run, update at end)
-- results/seen.md — every listing ever reported. Dedupe: match by address
-  first, URL second; a new URL for a known address is syndication or a
-  repost, not a new listing.
+- results/seen.md — the LISTING LEDGER: one row per property, the ADDRESS
+  is the primary key (address-less listings use a
+  ~neighborhood+bd/ba+price fingerprint, upgraded in place when the
+  address is learned). An address match means SEEN regardless of URL; a
+  new URL for a known address is syndication or a repost — append it to
+  the row, never add a new row. Never store search-page URLs. Statuses:
+  active / negotiate / unconfirmed / gone / rejected. last-verified only
+  advances on actual re-confirmation, tagged [FETCHED] or [SNIPPET].
+- Re-verification: EVERY run re-checks each active/negotiate/unconfirmed
+  row (one exact-address search, or a fetch when Fetch rules allow) and
+  updates last-verified, price, and status. Two consecutive no-trace
+  checks → gone. Only rows verified today count as available in the
+  report and notification; the tracked count in the bottom line is
+  active+negotiate rows verified today.
 - results/rejected.md — rejected listings and the watch list. Check BEFORE
   evaluating any candidate; skip known rejects unless the price has dropped
   to ≤$4,300 (scam / out-of-city / short-term / not-whole-unit verdicts are

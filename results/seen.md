@@ -1,11 +1,32 @@
-https://www.craigslist.org/view/d/san-francisco-bed-15-bath-second-floor/bwn75E42zKK7wuzYRmKhrN
-https://www.redfin.com/city/17151/CA/San-Francisco/3-bedroom-houses-for-rent (3624 San Bruno Ave, $4,000)
-https://www.craigslist.org/view/d/san-francisco-bedrooms-flat-for-rent/wJmYQN56io7XBW67RUjqsz (Holly Park, $4,000)
-https://www.craigslist.org/view/d/san-francisco-market-st-3bed-clarendon/vJrC2Heu1c6i9WTcuHqRSf (3412 Market St, Clarendon Heights, $4,000)
-https://www.craigslist.org/view/d/san-francisco-bed-cats-and-small-dogs/pp5cqPJHdgkxuveaGH5dnC (415 Tehama St, SOMA, $4,195 - negotiate)
-https://www.zumper.com/apartment-buildings/p784117/946-stockton-street-san-francisco-ca-94108-hhl-leasing-o-financial-district-san-francisco-ca (946 Stockton St, Chinatown, ~$4,200 - negotiate)
-https://www.zumper.com/address/337-lisbon-st-san-francisco-ca-94112-usa (337 Lisbon St #2, Excelsior, $3,700)
-https://www.craigslist.org/view/d/daly-city-265-lobos-st-san-francisco-ca/3GsKOE-X8RGQFKagpZhyxw (265 Lobos St, Excelsior/Outer Mission, $4,000)
-https://www.craigslist.org/view/d/san-francisco-br-2bath-newly-renovated/3Xo9ut3fCAUnT3Fe6Ud3ca (24th Ave near Ocean Ave, Ingleside/SFSU, $4,000 + $120/person × 3 = $4,360 effective — OVER CEILING, reclassified 2026-08-15, see rejected.md)
-https://www.redfin.com/CA/San-Francisco/848-Girard-St-94134/home/1901524 (848 Girard St, Portola, $3,500)
-https://www.redfin.com/CA/San-Francisco/2726-San-Bruno-Ave-94134/unit-2724/apartment/196269305 (2726 San Bruno Ave #2724, Portola, $4,200 - negotiate)
+# Listing ledger
+<!-- Contract (see CLAUDE.md "Memory files"):
+     - One row per PROPERTY. The ADDRESS is the primary key: an address
+       match means SEEN, no matter which site or URL it surfaces on.
+       A new URL for a known address is syndication/repost — append it to
+       the row's URL list, never create a new row.
+     - Address-less listings get a fingerprint key: ~neighborhood+bd/ba+price.
+       Upgrade the row in place if the address is later learned.
+     - Never store search-page URLs as a row's link.
+     - Statuses: active | negotiate (active, $4,001-4,300 effective) |
+       unconfirmed | gone | rejected (reason lives in rejected.md).
+     - last-verified may only advance on actual re-confirmation; tag the
+       evidence [FETCHED] or [SNIPPET].
+     - EVERY run re-verifies each active/negotiate/unconfirmed row (one
+       exact-address search, or a fetch when Fetch rules allow). Two
+       consecutive no-trace checks => status gone. Only rows verified
+       TODAY may be called available in the report/notification. -->
+
+| address | neighborhood | effective cost | bd/ba | laundry | status | first seen | last verified | URLs |
+|---|---|---|---|---|---|---|---|---|
+| 848 Girard St, 94134 | Portola | $3,500–$3,650 (favor $3,500: 5-source corroboration 08-14; one source says $3,650 on 08-15) | 3/1 | in-unit W/D | active | 2026-08-14 | 2026-08-15 [SNIPPET] | https://www.redfin.com/CA/San-Francisco/848-Girard-St-94134/home/1901524, https://sfbay.craigslist.org/sfc/apa/d/san-francisco-available-for-br-ba/7940215480.html, https://www.zillow.com/homedetails/848-Girard-St-San-Francisco-CA-94134/15172290_zpid/, https://www.apartments.com/848-girard-st-san-francisco-ca/jgcdrr5/, https://www.brownsf.com/listings/listing/848-girard-st-san-francisco-ca--426135135/ |
+| 946 Stockton St (Mandarin Tower, 10th fl), 94108 | Chinatown | $3,900–$4,100 — PRICE DROP from ~$4,200 on 08-15 | 3/2 | coin-op same floor | active (low end passes, high end negotiate) | ≤2026-08-10 | 2026-08-15 [SNIPPET] | https://www.zumper.com/apartment-buildings/p784117/946-stockton-street-san-francisco-ca-94108-hhl-leasing-o-financial-district-san-francisco-ca, https://www.rent.com/california/san-francisco-houses/946-stockton-st-4-lv1036870383 |
+| 415 Tehama St, 94103 | SOMA | units: #415 $4,195, #415A $4,295 (in band); #415B/#417B $4,395 (over) | 3/1 | on-site | negotiate — mgr ISM REM, 4 units live | ≤2026-08-10 | 2026-08-15 [SNIPPET] | https://www.craigslist.org/view/d/san-francisco-bed-cats-and-small-dogs/pp5cqPJHdgkxuveaGH5dnC, https://ismrem.com/detail/415-tehama-street-san-francisco-CA-94103/1037, https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bedroom-on-site-laundry/7930594084.html |
+| 2726 San Bruno Ave #2724, 94134 | Portola | $4,200 | 3/2 | coin-op on-site | negotiate — MLS 425054827 | 2026-08-14 | 2026-08-15 [SNIPPET] | https://www.redfin.com/CA/San-Francisco/2726-San-Bruno-Ave-94134/unit-2724/apartment/196269305, https://www.realty.com/rental-listings/1048197509/2726-San-Bruno-Avenue-2724-San-Francisco-CA-94134 |
+| 443 Austin St, 94109 | Lower Pacific Heights | $4,150 corroborated (Zillow + Apartments.com + $4,082 Zestimate; $2,995 HotPads/Trulia figure = stale low outlier, discredited) | 3/1 | unknown — check on tour | negotiate — NEW 2026-08-15 (promoted from watch) | 2026-08-15 | 2026-08-15 [SNIPPET] | https://www.zillow.com/homedetails/443-Austin-St-San-Francisco-CA-94109/2092754969_zpid/, https://www.trulia.com/p/ca/san-francisco/443-austin-st-443-san-francisco-ca-94109--2331831298 |
+| 265 Lobos St, 94112 | Excelsior/Outer Mission | $4,000 | 3/1.5 per listing — property records say 2/1, VERIFY bedroom count on tour | in-unit | active (bed-count discrepancy flagged) | 2026-08-14 | 2026-08-15 [SNIPPET] | https://www.craigslist.org/view/d/daly-city-265-lobos-st-san-francisco-ca/3GsKOE-X8RGQFKagpZhyxw, https://www.redfin.com/CA/San-Francisco/265-Lobos-St-94112/home/829543 |
+| 337 Lisbon St #2, 94112 | Excelsior | $3,700 | 3/2 | in-unit | unconfirmed 08-15 — aggregators show property off-market; PadMapper still indexes unit #2; re-verify (1st no-confirm) | 2026-08-14 | 2026-08-14 [FETCHED] | https://www.zumper.com/address/337-lisbon-st-san-francisco-ca-94112-usa, https://www.padmapper.com/apartments/18671056p/3-bedroom-2-bath-apartment-at-337-lisbon-st-san-francisco-ca-94112 |
+| 3624 San Bruno Ave, 94134 | Portola | $4,000 | 3/2 | in-unit | unconfirmed 08-15 — NO TRACE this check (1st); was only ever a search-page capture, no listing URL known | ≤2026-08-10 | never | (none — captured via a Redfin search page; do not store search URLs) |
+| ~holly-park+3bd+$4,000 (no address) | Bernal/Holly Park | $4,000 | 3/? | unknown | unconfirmed 08-15 — NO TRACE this check (1st) | ≤2026-08-10 | never | https://www.craigslist.org/view/d/san-francisco-bedrooms-flat-for-rent/wJmYQN56io7XBW67RUjqsz |
+| ~bayview+3bd-1.5ba+$3,600 (no address) | Bayview | $3,600 | 3/1.5 | unknown | unconfirmed — a matching CL post appears indexed 08-15 but no address to verify; known to repost under new URLs | ≤2026-08-10 | 2026-08-15 [SNIPPET, weak] | https://www.craigslist.org/view/d/san-francisco-bed-15-bath-second-floor/bwn75E42zKK7wuzYRmKhrN (repost: ct99m5sbUbKnChWPkzYX5y) |
+| 24th Ave near Ocean Ave (no exact address), 94132 | Ingleside/SFSU | $4,000 + $120/person × 3 = $4,360 | 3/2 | in-unit | rejected — over ceiling, see rejected.md | 2026-08-14 | — | https://www.craigslist.org/view/d/san-francisco-br-2bath-newly-renovated/3Xo9ut3fCAUnT3Fe6Ud3ca |
+| 3412 Market St, 94114 | Clarendon Heights | CL post said $4,000; real asking is $8,995 (Zestimate $7,952) | 3/2 | in-unit | rejected — presumed hijacked/scam, see rejected.md | ≤2026-08-10 | 2026-08-15 [SNIPPET] | https://www.craigslist.org/view/d/san-francisco-market-st-3bed-clarendon/vJrC2Heu1c6i9WTcuHqRSf, https://www.apartments.com/3412-market-st-san-francisco-ca/e3rwqhp/ |

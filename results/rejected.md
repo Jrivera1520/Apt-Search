@@ -19,8 +19,9 @@
 - Richmond CA "Beautifully Updated 4 Bed/2 Bath" | out-of-city + 4BR, STICKY | — | 2026-08-14
 - 1566 Newcomb Ave, Bayview | over-ceiling (corroborated $4,290–$4,490; even low figure only fits if it drops) | $4,290–$4,490 | 2026-08-14
 - 24th Ave near Ocean Ave, Ingleside/SFSU (CL 3Xo9ut3fCAUnT3Fe6Ud3ca) | over-ceiling on effective cost: $4,000 + $120/person × 3 = $4,360 — reclassified 2026-08-15, was wrongly reported as an in-budget win on 08-14 | $4,360 effective | 2026-08-15
+- 3412 Market St, Clarendon Heights | presumed hijacked/scam, STICKY — the $4,000 CL post is ~55% below the property's real asking rent ($8,995 on Apartments.com, $7,952 Zestimate), classic hijacked-listing pattern; reclassified 2026-08-15 from active | $4,000 (fake) vs $8,995 (real) | 2026-08-15
 
 ## Watch (re-check price/status each run; promote if it enters range)
-- 443 Austin St, Lower Pacific Heights | corroborated $4,150 (Zillow + Apartments.com + $4,082 Zestimate; HotPads' $2,995 dismissed as stale/mismatched) → NEGOTIATE candidate under the price-disagreement rule; re-verify and promote next run | 2026-08-15
+- 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
 - 2455 29th Ave, Parkside (Zumper) | $3,800 3bd/1.5ba but listing looked stale/delisted (blank price, old availability) — watch for reactivation | 2026-08-14
 - "Sunny and Bright 3-Bedroom Studio", Ingleside/SFSU (CL) | $3,900 — was rejected on its "daly-city" URL slug alone, which the slug rule now forbids; if it resurfaces, verify by stated address/ZIP instead | 2026-08-14
