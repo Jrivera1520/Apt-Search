@@ -6,6 +6,6 @@ https://www.craigslist.org/view/d/san-francisco-bed-cats-and-small-dogs/pp5cqPJH
 https://www.zumper.com/apartment-buildings/p784117/946-stockton-street-san-francisco-ca-94108-hhl-leasing-o-financial-district-san-francisco-ca (946 Stockton St, Chinatown, ~$4,200 - negotiate)
 https://www.zumper.com/address/337-lisbon-st-san-francisco-ca-94112-usa (337 Lisbon St #2, Excelsior, $3,700)
 https://www.craigslist.org/view/d/daly-city-265-lobos-st-san-francisco-ca/3GsKOE-X8RGQFKagpZhyxw (265 Lobos St, Excelsior/Outer Mission, $4,000)
-https://www.craigslist.org/view/d/san-francisco-br-2bath-newly-renovated/3Xo9ut3fCAUnT3Fe6Ud3ca (24th Ave near Ocean Ave, Ingleside/SFSU, $4,000)
+https://www.craigslist.org/view/d/san-francisco-br-2bath-newly-renovated/3Xo9ut3fCAUnT3Fe6Ud3ca (24th Ave near Ocean Ave, Ingleside/SFSU, $4,000 + $120/person × 3 = $4,360 effective — OVER CEILING, reclassified 2026-08-15, see rejected.md)
 https://www.redfin.com/CA/San-Francisco/848-Girard-St-94134/home/1901524 (848 Girard St, Portola, $3,500)
 https://www.redfin.com/CA/San-Francisco/2726-San-Bruno-Ave-94134/unit-2724/apartment/196269305 (2726 San Bruno Ave #2724, Portola, $4,200 - negotiate)
