@@ -63,6 +63,34 @@ Additional rules:
 - Prefer listings from managed buildings, MLS-syndicated sources, or posts
   with many real photos and detailed lease terms.
 
+### Mandatory verification (every NEW candidate, before it enters the ledger)
+Run these checks in order and record the verdict in the ledger's "legit"
+column with the date and evidence (e.g. "✓ 08-15: 3-platform + no-sale +
+mgr verified"). A row with no verdict may only appear as "unverified —
+tour in person before any application fee or deposit", is never ranked
+above verified listings, and is never called a best pick.
+1. Corroboration: the listing must EITHER appear on 2+ independent
+   platforms with agreeing address/beds/price (Zillow-family feeds —
+   Zillow/Trulia/HotPads — count as ONE source) OR come from a verifiable
+   manager/brokerage: an MLS number, or a listings page on the company's
+   own domain.
+2. Contact/company check: one search on the named agent/manager/company.
+   It must resolve to a real firm consistent with where the listing is
+   hosted (e.g. manager name matches the building's ownership/management
+   records). Unfindable or mismatched contact = fail.
+3. Hijack check: one search "<address> San Francisco for sale". An
+   ACTIVE/recent sale listing + below-market rent + mismatched contact =
+   presumed hijacked → reject, sticky. (An old sale, or individual condo
+   units for sale elsewhere in a large building, is NOT a hijack signal
+   by itself — note it and move on. A concurrent for-sale listing for the
+   SAME unit with market-rate rent = note "confirm with agent at tour".)
+4. Price sanity: apply the below-market thresholds above.
+5. If the full listing text was read [FETCHED]: search ONE distinctive
+   quoted phrase from the description. The same text attached to other
+   cities/addresses = listing farm → reject.
+Re-run checks 1 and 3 on a tracked listing whenever its price drops more
+than 10% or its contact/manager changes.
+
 ## Fetch rules (decision ladder)
 1. Read results/state.md before any network call.
 2. Probe: ONE fetch of sfbay.craigslist.org. If it fails with

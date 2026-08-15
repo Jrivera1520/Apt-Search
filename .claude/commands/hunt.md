@@ -28,7 +28,10 @@ Steps:
    contract; two consecutive no-trace checks mark a row gone. Report
    every status change as a delta.
 7. Apply the criteria and legitimacy filter from CLAUDE.md — extra strict
-   on Craigslist. Run the laundry check as specified in Criteria.
+   on Craigslist. Run the laundry check as specified in Criteria. Run the
+   MANDATORY VERIFICATION checklist (CLAUDE.md) on every NEW candidate
+   and record the verdict in the ledger's "legit" column; re-run it on
+   tracked listings whose price dropped >10% or whose contact changed.
 8. Report per CLAUDE.md Output format: deltas only, evidence tags on every
    legitimacy note, best first, NEW flagged at the top, bottom-line
    sentence first.
