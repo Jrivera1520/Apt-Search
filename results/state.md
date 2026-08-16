@@ -21,3 +21,4 @@
 ## Probe log
 - 2026-08-14: sfbay.craigslist.org → EGRESS_BLOCKED (scheduled-run network)
 - 2026-08-15 15:07 UTC: sfbay.craigslist.org → EGRESS_BLOCKED again (scheduled 8am-window run). Whole run ran search-only per Fetch rules. Blocker persists 2 days running — still needs the network-allowlist fix flagged 08-14.
+- 2026-08-16: sfbay.craigslist.org → EGRESS_BLOCKED again (scheduled run). Whole run ran search-only per Fetch rules. Blocker persists 3 days running — network-allowlist fix (env_01X8mXvPBM7u6pBz3odWEPi4) still not applied.
