@@ -26,4 +26,4 @@
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
 - 2455 29th Ave, Parkside (Zumper) | $3,800 3bd/1.5ba but listing looked stale/delisted (blank price, old availability) — watch for reactivation | 2026-08-14
 - "Sunny and Bright 3-Bedroom Studio", Ingleside/SFSU (CL) | $3,900 — was rejected on its "daly-city" URL slug alone, which the slug rule now forbids; if it resurfaces, verify by stated address/ZIP instead | 2026-08-14
-- 2238 Vicente St #2, 94116, Sunset (CL 7941660242 / 1wohG7EbB7jDaVTjZFHJ8F) | 3bd/1.5ba, 950sqft, two-level unit, contact "Sharon Cheung" — price NOT visible via search snippets (craigslist egress-blocked, could not fetch); needs a direct fetch once egress recovers before it can enter the ledger and pass the budget test. 08-16 re-check: search snippets only found a different unit (Apt 4, 2bd/1ba, $3,090-3,826) in the same building — still no price for Unit #2 | price unknown | 2026-08-16
+- 2238 Vicente St #2 | PROMOTED 2026-08-17 to the seen.md ledger as unconfirmed ($4,200 via single-source Zillow/Trulia feed) — no longer on watch | 2026-08-17

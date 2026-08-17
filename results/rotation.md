@@ -14,9 +14,9 @@
 | Progressive | progressivesf.com/availability | 2026-08-16 | 0-inventory | search-only check (site:progressivesf.com) found 0 3BR results on availability page; other current listings are studios/1BR/2BR in SF and Marin |
 | West Coast Property Management | wcpm.com | 2026-08-16 | js-only | search-only check surfaced no site-specific listings (site: query returned generic aggregator results) — likely JS-rendered listings page; needs a direct fetch once egress recovers before concluding inventory |
 | BanCal | bancalsf.com/availability | 2026-08-16 | no-3br | one 3BR found: 348 Hyde St, Unit 11, 94109, 3bd/2.5ba, $4,500/mo — over the $4,300 ceiling, rejected (see rejected.md) |
-| RMC | (find via search) | — | never-checked | |
-| Leading SF | (find via search) | — | never-checked | |
-| Rental Source | (find via search) | — | never-checked | |
+| RMC | rmcsf.com/rentals-1 | 2026-08-17 | no-3br | real SF PM firm (est. 1980, 1234 Castro St, 550+ units) — search-only check of rentals-1 page surfaced no current 3BR listing; needs a direct fetch once egress recovers to confirm inventory |
+| Leading SF | leading-sf.com/rental-search/ | 2026-08-17 | js-only | real SF brokerage/PM (1801 Van Ness Ave) — rental-search page is JS-rendered, search snippets returned no listing data |
+| Rental Source | rentalsource.com/san-francisco-ca | 2026-08-17 | wrong-company? | rentalsource.com is a nationwide listing aggregator (444 SF rentals, avg 3BR $7,138 = market aggregate, not owned inventory), not a distinct SF property manager — same pattern as ShowMojo. Flag to Joel: likely a data-entry error, replace with an actual named SF landlord/PM or remove |
 | HSM | (find via search) | — | never-checked | |
 | Gateway Management | (find via search) | — | never-checked | |
 | Utopia Management | (find via search) | — | never-checked | |
