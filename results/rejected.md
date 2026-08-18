@@ -21,9 +21,12 @@
 - 24th Ave near Ocean Ave, Ingleside/SFSU (CL 3Xo9ut3fCAUnT3Fe6Ud3ca) | over-ceiling on effective cost: $4,000 + $120/person × 3 = $4,360 — reclassified 2026-08-15, was wrongly reported as an in-budget win on 08-14 | $4,360 effective | 2026-08-15
 - 3412 Market St, Clarendon Heights | presumed hijacked/scam, STICKY — the $4,000 CL post is ~55% below the property's real asking rent ($8,995 on Apartments.com, $7,952 Zestimate), classic hijacked-listing pattern; reclassified 2026-08-15 from active | $4,000 (fake) vs $8,995 (real) | 2026-08-15
 - 348 Hyde St, Unit 11, 94109 (BanCal Properties) | over-budget | $4,500 | 2026-08-16
+- 333 Oxford St, 94134 (Portola/McLaren Park) | over-budget | $4,980 | 2026-08-18
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
 - 2455 29th Ave, Parkside (Zumper) | $3,800 3bd/1.5ba but listing looked stale/delisted (blank price, old availability) — watch for reactivation | 2026-08-14
 - "Sunny and Bright 3-Bedroom Studio", Ingleside/SFSU (CL) | $3,900 — was rejected on its "daly-city" URL slug alone, which the slug rule now forbids; if it resurfaces, verify by stated address/ZIP instead | 2026-08-14
 - 2238 Vicente St #2 | PROMOTED 2026-08-17 to the seen.md ledger as unconfirmed ($4,200 via single-source Zillow/Trulia feed) — no longer on watch | 2026-08-17
+- 537 34th Ave, Outer Richmond (Zumper listing 48315684 / Trulia) | 3bd/2ba, in-unit W/D — price data is stale (Trulia listing dated Feb 2024, ~18mo old); current Zillow Zestimate ~$6,071 suggests real current rent is well above budget. Watch for a fresh 2026-dated price before evaluating | $4,250 (stale, unverified current) | 2026-08-18
+- "Visitacion Valley" 3bd/2ba house, no address found | $4,075 quoted in a search snippet but could not relocate the actual listing or an address to verify city/legitimacy — insufficient data to evaluate | $4,075 | 2026-08-18

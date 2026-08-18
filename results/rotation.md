@@ -17,9 +17,9 @@
 | RMC | rmcsf.com/rentals-1 | 2026-08-17 | no-3br | real SF PM firm (est. 1980, 1234 Castro St, 550+ units) — search-only check of rentals-1 page surfaced no current 3BR listing; needs a direct fetch once egress recovers to confirm inventory |
 | Leading SF | leading-sf.com/rental-search/ | 2026-08-17 | js-only | real SF brokerage/PM (1801 Van Ness Ave) — rental-search page is JS-rendered, search snippets returned no listing data |
 | Rental Source | rentalsource.com/san-francisco-ca | 2026-08-17 | wrong-company? | rentalsource.com is a nationwide listing aggregator (444 SF rentals, avg 3BR $7,138 = market aggregate, not owned inventory), not a distinct SF property manager — same pattern as ShowMojo. Flag to Joel: likely a data-entry error, replace with an actual named SF landlord/PM or remove |
-| HSM | (find via search) | — | never-checked | |
-| Gateway Management | (find via search) | — | never-checked | |
-| Utopia Management | (find via search) | — | never-checked | |
+| HSM | hsmsf.com/projects-8 | 2026-08-18 | no-3br | real SF PM company (600 Haight St, since 1954, 360+ units) — search-only check of rentals page (projects-8) surfaced no current 3BR listing; needs a direct fetch once egress recovers to confirm inventory |
+| Gateway Management | gatewaymanagementandrealty.com/rentals/ | 2026-08-18 | no-3br | real SF-focused firm (est. 1980, income-property specialist) — do NOT confuse with "The Gateway" luxury complex at 460 Davis Ct (different company, thegateway.com); search-only check of rentals page surfaced no current 3BR listing, needs direct fetch to confirm |
+| Utopia Management | utopiamanagement.com/rental-list/san-francisco-bay-area | 2026-08-18 | not-SF | real regional PM company but SF office is in South San Francisco (611 Gateway Blvd) and current rental-list results were all outside SF proper (Vallejo, Petaluma, Live Oak, Lawndale) — no SF-city inventory surfaced |
 | GoFiveStarPM | (find via search) | — | never-checked | |
 | Trinity | trinitysf.com | — | never-checked | 08-14 check hit a Central Valley namesake, not the SF company — audit against trinitysf.com |
 | Relisto | relisto.com | 2026-08-10 | no-3br | in-budget options were out-of-city; SF ones $7,600+ |

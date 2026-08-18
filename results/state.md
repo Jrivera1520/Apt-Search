@@ -23,3 +23,4 @@
 - 2026-08-15 15:07 UTC: sfbay.craigslist.org → EGRESS_BLOCKED again (scheduled 8am-window run). Whole run ran search-only per Fetch rules. Blocker persists 2 days running — still needs the network-allowlist fix flagged 08-14.
 - 2026-08-16: sfbay.craigslist.org → EGRESS_BLOCKED again (scheduled run). Whole run ran search-only per Fetch rules. Blocker persists 3 days running — network-allowlist fix (env_01X8mXvPBM7u6pBz3odWEPi4) still not applied.
 - 2026-08-17: sfbay.craigslist.org → EGRESS_BLOCKED again (scheduled run). Whole run ran search-only per Fetch rules. Blocker persists 4 days running — network-allowlist fix (env_01X8mXvPBM7u6pBz3odWEPi4) still not applied.
+- 2026-08-18: sfbay.craigslist.org → EGRESS_BLOCKED again (scheduled run). Whole run ran search-only per Fetch rules. Blocker persists 5 days running — network-allowlist fix (env_01X8mXvPBM7u6pBz3odWEPi4) still not applied.
