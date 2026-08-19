@@ -22,6 +22,7 @@
 - 3412 Market St, Clarendon Heights | presumed hijacked/scam, STICKY — the $4,000 CL post is ~55% below the property's real asking rent ($8,995 on Apartments.com, $7,952 Zestimate), classic hijacked-listing pattern; reclassified 2026-08-15 from active | $4,000 (fake) vs $8,995 (real) | 2026-08-15
 - 348 Hyde St, Unit 11, 94109 (BanCal Properties) | over-budget | $4,500 | 2026-08-16
 - 333 Oxford St, 94134 (Portola/McLaren Park) | over-budget | $4,980 | 2026-08-18
+- 55 Junior Terrace Dr, 94112 (Mission Terrace, via Relisto) | over-budget | $4,800 | 2026-08-19
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -30,3 +31,7 @@
 - 2238 Vicente St #2 | PROMOTED 2026-08-17 to the seen.md ledger as unconfirmed ($4,200 via single-source Zillow/Trulia feed) — no longer on watch | 2026-08-17
 - 537 34th Ave, Outer Richmond (Zumper listing 48315684 / Trulia) | 3bd/2ba, in-unit W/D — price data is stale (Trulia listing dated Feb 2024, ~18mo old); current Zillow Zestimate ~$6,071 suggests real current rent is well above budget. Watch for a fresh 2026-dated price before evaluating | $4,250 (stale, unverified current) | 2026-08-18
 - "Visitacion Valley" 3bd/2ba house, no address found | $4,075 quoted in a search snippet but could not relocate the actual listing or an address to verify city/legitimacy — insufficient data to evaluate | $4,075 | 2026-08-18
+- 2455 29th Ave, Parkside | PROMOTED 2026-08-19 to seen.md ledger as unconfirmed ($3,800, single-source Zumper) — no longer on watch | 2026-08-19
+- 1755 22nd Ave, 94122 (Central Sunset) | conflicting records — Zumper/property records call this a 4bd/2ba house, but a search snippet showed a 3bd/2ba $3,800 unit at the same address (possibly Unit B, separate Zillow/Trulia zpid). Could not confirm a clean 3BR unit match — watch for a clearer listing | $3,800 (unconfirmed unit) | 2026-08-19
+- 3869 26th St, Noe Valley | could not locate this exact address in any listing (only nearby comps on 26th St found); insufficient data to evaluate | — | 2026-08-19
+- 2867 Sacramento St, Pacific Heights ("True Three Bedroom in Pac Heights" CL post) | no current rent price found despite multiple searches; building range runs $2,700-$7,021 across 1-3BR units and Pac Heights skews well over budget — watch for a listing with a stated price before evaluating | unknown | 2026-08-19

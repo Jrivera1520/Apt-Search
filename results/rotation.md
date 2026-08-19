@@ -20,9 +20,9 @@
 | HSM | hsmsf.com/projects-8 | 2026-08-18 | no-3br | real SF PM company (600 Haight St, since 1954, 360+ units) — search-only check of rentals page (projects-8) surfaced no current 3BR listing; needs a direct fetch once egress recovers to confirm inventory |
 | Gateway Management | gatewaymanagementandrealty.com/rentals/ | 2026-08-18 | no-3br | real SF-focused firm (est. 1980, income-property specialist) — do NOT confuse with "The Gateway" luxury complex at 460 Davis Ct (different company, thegateway.com); search-only check of rentals page surfaced no current 3BR listing, needs direct fetch to confirm |
 | Utopia Management | utopiamanagement.com/rental-list/san-francisco-bay-area | 2026-08-18 | not-SF | real regional PM company but SF office is in South San Francisco (611 Gateway Blvd) and current rental-list results were all outside SF proper (Vallejo, Petaluma, Live Oak, Lawndale) — no SF-city inventory surfaced |
-| GoFiveStarPM | (find via search) | — | never-checked | |
-| Trinity | trinitysf.com | — | never-checked | 08-14 check hit a Central Valley namesake, not the SF company — audit against trinitysf.com |
-| Relisto | relisto.com | 2026-08-10 | no-3br | in-budget options were out-of-city; SF ones $7,600+ |
+| GoFiveStarPM | gofivestarpm.com/san-francisco-property-management | 2026-08-19 | js-only | real Bay Area PM firm managing SF properties (confirmed via 2420 Taraval St listing, 650-435-5906) but no dedicated SF listings/inventory page surfaced via search — likely needs a direct fetch once egress recovers |
+| Trinity | trinitysf.com | 2026-08-19 | ok | real SF apartment operator, multiple buildings with 3BR floorplans (215 Upper Terrace/Buena Vista, 1177 Market/SoMa, 1000 Chestnut/Russian Hill, 2000 Broadway/Pac Heights, 6720 Fulton/Richmond) — 215 Upper Terrace shows 3BR "starting at $3,499" (unconfirmed exact unit price), added to seen.md as unconfirmed |
+| Relisto | relisto.com | 2026-08-19 | luxury-only | most 3BRs $4,295-$5,895 (Presidio Heights/Pac Heights/SoMa); one lower find, 55 Junior Terrace Dr (Mission Terrace) $4,800, still over ceiling — rejected |
 | Mosser | (dead — find new URL) | 2026-08-14 | dead-url | old listings URL 404s since site restructure; needs new URL before next check counts |
 | Rentals in SF | rentalsinsf.com | 2026-08-14 | dead-url | listings sub-page 500'd on 08-14; retry, else flag |
 | Rent SF Now | rentsfnow.com | 2026-08-14 | js-only | listings behind interactive filters, no static data |
