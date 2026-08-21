@@ -30,9 +30,9 @@
 | Gaetani Real Estate | gaetanirealestate.com | 2026-08-14 | 0-inventory | 0 vacancies on both checks |
 | Brick + Timber | brickandtimber.com | 2026-08-14 | no-3br | |
 | ZipRent | listings.ziprent.com | 2026-08-14 | js-only | inventory lives at listings.ziprent.com, not the marketing site; JS-rendered |
-| Golden Gate Properties | (verify) | 2026-08-14 | wrong-company? | resolved to "G2 Properties" ($7,950 Sunset 3BR); verify the intended company |
+| Golden Gate Properties | goldengatepropertiesf.com (verify exact domain) | 2026-08-21 | no-3br | RESOLVED 08-21: confirmed real SF PM firm (3001 Market St, Yelp-listed, "premiere" residential PM) — the 08-14 "G2 Properties $7,950" result was a search mismatch, not this company. No 3BR listing surfaced via search this check; needs a direct fetch once egress recovers to confirm inventory |
 | SF Bay Rental Co | sfbayrentalco.com/properties/available | 2026-08-14 | luxury-only | 3BRs $11,800+ |
-| Chandler Properties | chandlerproperties.appfolio.com/listings | 2026-08-14 | no-3br | |
-| Cybus Management | cybus.appfolio.com/listings | 2026-08-14 | 0-inventory | vacancies page showed 0 of 0 |
+| Chandler Properties | chandlerproperties.appfolio.com/listings | 2026-08-21 | no-3br | re-check 08-21 (search-only): 625 Scott St #403 (Alamo Square, bed count unconfirmed) and 1845 Green St #108 (1BR, Cow Hollow) surfaced — no 3BR found; needs a direct fetch once egress recovers to confirm full inventory |
+| Cybus Management | cybus.appfolio.com/listings | 2026-08-21 | js-only | re-check 08-21 (search-only): site: query returned zero indexed pages from cybus.appfolio.com (AppFolio listings are JS-rendered, not search-indexable) — cannot distinguish 0-inventory from unindexed via search; needs a direct fetch once egress recovers |
 | Key Opp | keyopp.managebuilding.com | 2026-08-14 | 0-inventory | 0 active listings per Dwellsy |
 | Amsires | amsires.appfolio.com/listings | 2026-08-14 | luxury-only | closest 3BR $4,650 (rejected) |
