@@ -25,14 +25,14 @@
 | Relisto | relisto.com | 2026-08-19 | luxury-only | most 3BRs $4,295-$5,895 (Presidio Heights/Pac Heights/SoMa); one lower find, 55 Junior Terrace Dr (Mission Terrace) $4,800, still over ceiling — rejected |
 | Mosser | (dead — find new URL) | 2026-08-14 | dead-url | old listings URL 404s since site restructure; needs new URL before next check counts |
 | Rentals in SF | rentalsinsf.com | 2026-08-14 | dead-url | listings sub-page 500'd on 08-14; retry, else flag |
-| Rent SF Now | rentsfnow.com | 2026-08-14 | js-only | listings behind interactive filters, no static data |
+| Rent SF Now | rentsfnow.com | 2026-08-22 | no-3br | RE-CHECK 08-22 (search-only): site is now search-indexed (was js-only). 825 Post St (Lower Nob Hill) shows studio/1BR only, no 3BR. 329/333 Olema results are in Fairfax, Marin — out of scope. No SF 3BR under $4,300 surfaced |
 | J. Wavro Associates | jwavro.com | 2026-08-14 | luxury-only | 3BRs at $9k/$12k both checks |
 | Gaetani Real Estate | gaetanirealestate.com | 2026-08-14 | 0-inventory | 0 vacancies on both checks |
 | Brick + Timber | brickandtimber.com | 2026-08-14 | no-3br | |
-| ZipRent | listings.ziprent.com | 2026-08-14 | js-only | inventory lives at listings.ziprent.com, not the marketing site; JS-rendered |
+| ZipRent | listings.ziprent.com | 2026-08-22 | js-only | re-check 08-22 (search-only): only cross-indexed hit was 1260 Minnesota St (Mission Bay, 3bd/2.5ba condo, no price surfaced, likely well over budget for the neighborhood); still thin search index, needs direct fetch once egress recovers |
 | Golden Gate Properties | goldengatepropertiesf.com (verify exact domain) | 2026-08-21 | no-3br | RESOLVED 08-21: confirmed real SF PM firm (3001 Market St, Yelp-listed, "premiere" residential PM) — the 08-14 "G2 Properties $7,950" result was a search mismatch, not this company. No 3BR listing surfaced via search this check; needs a direct fetch once egress recovers to confirm inventory |
 | SF Bay Rental Co | sfbayrentalco.com/properties/available | 2026-08-14 | luxury-only | 3BRs $11,800+ |
 | Chandler Properties | chandlerproperties.appfolio.com/listings | 2026-08-21 | no-3br | re-check 08-21 (search-only): 625 Scott St #403 (Alamo Square, bed count unconfirmed) and 1845 Green St #108 (1BR, Cow Hollow) surfaced — no 3BR found; needs a direct fetch once egress recovers to confirm full inventory |
 | Cybus Management | cybus.appfolio.com/listings | 2026-08-21 | js-only | re-check 08-21 (search-only): site: query returned zero indexed pages from cybus.appfolio.com (AppFolio listings are JS-rendered, not search-indexable) — cannot distinguish 0-inventory from unindexed via search; needs a direct fetch once egress recovers |
-| Key Opp | keyopp.managebuilding.com | 2026-08-14 | 0-inventory | 0 active listings per Dwellsy |
+| Key Opp | keyopp.managebuilding.com | 2026-08-22 | ok | STATUS CHANGE 08-22: now has live SF 3BR inventory (was 0-inventory) — 251 27th Ave-1, 94121 (Outer Richmond, 3bd/2ba, price unconfirmed, added to seen.md as unconfirmed) and a Cow Hollow 3bd/2ba (listing 52129, address unconfirmed, price unconfirmed). Direct fetch of keyopp.managebuilding.com was attempted and EGRESS_BLOCKED; prices need a direct fetch once egress recovers |
 | Amsires | amsires.appfolio.com/listings | 2026-08-14 | luxury-only | closest 3BR $4,650 (rejected) |
