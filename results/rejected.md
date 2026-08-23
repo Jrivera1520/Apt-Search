@@ -23,6 +23,9 @@
 - 348 Hyde St, Unit 11, 94109 (BanCal Properties) | over-budget | $4,500 | 2026-08-16
 - 333 Oxford St, 94134 (Portola/McLaren Park) | over-budget | $4,980 | 2026-08-18
 - 55 Junior Terrace Dr, 94112 (Mission Terrace, via Relisto) | over-budget | $4,800 | 2026-08-19
+- 41 Dorado Terrace #41, 94112 (West of Twin Peaks) | over-budget | $4,320 | 2026-08-23
+- 1764 Quesada Ave, 94124 (Bayview) | over-budget | $4,400 | 2026-08-23
+- 1830 Alemany Blvd #501, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — specific unit only; building has a #301 unit at $4,150 in the negotiate band, see seen.md | $4,470 | 2026-08-23
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
