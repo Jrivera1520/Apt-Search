@@ -26,6 +26,8 @@
 - 41 Dorado Terrace #41, 94112 (West of Twin Peaks) | over-budget | $4,320 | 2026-08-23
 - 1764 Quesada Ave, 94124 (Bayview) | over-budget | $4,400 | 2026-08-23
 - 1830 Alemany Blvd #501, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — specific unit only; building has a #301 unit at $4,150 in the negotiate band, see seen.md | $4,470 | 2026-08-23
+- 824 Brazil Ave, Excelsior (Amsires/AMSI, agent Gustavo Lopez) | over-budget | $4,995 | 2026-08-24
+- Gorgeous large top-level 3bd/2ba apartment, Westwood Park (CL) | over-budget | $4,400 | 2026-08-24
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -38,3 +40,6 @@
 - 1755 22nd Ave, 94122 (Central Sunset) | conflicting records — Zumper/property records call this a 4bd/2ba house, but a search snippet showed a 3bd/2ba $3,800 unit at the same address (possibly Unit B, separate Zillow/Trulia zpid). Could not confirm a clean 3BR unit match — watch for a clearer listing | $3,800 (unconfirmed unit) | 2026-08-19
 - 3869 26th St, Noe Valley | could not locate this exact address in any listing (only nearby comps on 26th St found); insufficient data to evaluate | — | 2026-08-19
 - 2867 Sacramento St, Pacific Heights ("True Three Bedroom in Pac Heights" CL post) | no current rent price found despite multiple searches; building range runs $2,700-$7,021 across 1-3BR units and Pac Heights skews well over budget — watch for a listing with a stated price before evaluating | unknown | 2026-08-19
+- CL "fully furnished 3 bedroom" Mission District post | no exact address or URL surfaced across repeated searches (only appears in aggregated summaries, not a distinct linkable listing); could not verify whole-unit vs. furnished-corporate-share status — insufficient data to evaluate | $3,900 | 2026-08-24
+- CL "large 3-bedroom near City College/SF State/Balboa Park BART/280" Ingleside-area post | no exact address surfaced; closest matching concrete listing found this search was "Westwood Park - $4400" (already logged above as over-budget) — likely the same listing misquoted at $4,200 in a search summary; insufficient data to evaluate separately | $4,200 (unconfirmed) | 2026-08-24
+- 418 Athens St, 94112 (Excelsior) | search snippets describe a 3bd/2ba house at "$3,700-$3,800" but property records for this exact address show a 10-bedroom/4-bath 1907 building sold 2016 — address/bed-count mismatch suggests search misattribution; insufficient data to evaluate | $3,700-$3,800 (unconfirmed) | 2026-08-24
