@@ -28,6 +28,9 @@
 - 1830 Alemany Blvd #501, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — specific unit only; building has a #301 unit at $4,150 in the negotiate band, see seen.md | $4,470 | 2026-08-23
 - 824 Brazil Ave, Excelsior (Amsires/AMSI, agent Gustavo Lopez) | over-budget | $4,995 | 2026-08-24
 - Gorgeous large top-level 3bd/2ba apartment, Westwood Park (CL) | over-budget | $4,400 | 2026-08-24
+- 129 Sagamore St #129, Ingleside | over-budget | $5,800 | 2026-08-25
+- 400 Wilde Ave, Visitacion Valley (CL) | over-budget | $4,500 | 2026-08-25
+- 1155 Vallejo St | over-budget | $5,960 | 2026-08-25
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -43,3 +46,7 @@
 - CL "fully furnished 3 bedroom" Mission District post | no exact address or URL surfaced across repeated searches (only appears in aggregated summaries, not a distinct linkable listing); could not verify whole-unit vs. furnished-corporate-share status — insufficient data to evaluate | $3,900 | 2026-08-24
 - CL "large 3-bedroom near City College/SF State/Balboa Park BART/280" Ingleside-area post | no exact address surfaced; closest matching concrete listing found this search was "Westwood Park - $4400" (already logged above as over-budget) — likely the same listing misquoted at $4,200 in a search summary; insufficient data to evaluate separately | $4,200 (unconfirmed) | 2026-08-24
 - 418 Athens St, 94112 (Excelsior) | search snippets describe a 3bd/2ba house at "$3,700-$3,800" but property records for this exact address show a 10-bedroom/4-bath 1907 building sold 2016 — address/bed-count mismatch suggests search misattribution; insufficient data to evaluate | $3,700-$3,800 (unconfirmed) | 2026-08-24
+- 333-335 Raymond Ave #333, 94134 (Visitacion Valley) | corroborated (Apartments.com + Trulia) at $3,150-$3,295 (+$50/mo fee, effective ~$3,200-3,345, well in budget) and ~17-21% below Visitacion Valley 3BR median (10-25% band, tour-first eligible) — BUT Apartments.com tags this listing category "Room for Rent in San Francisco, CA," conflicting with CLAUDE.md's hard whole-unit-only requirement; also no named landlord/PM found. Do not promote to seen.md until whole-unit vs. room-share status is resolved — if confirmed a room share, reject sticky (not-whole-unit) | $3,150-$3,295 | 2026-08-25
+- "Modern 3BR San Francisco Apartment with Utilities Included" (CL, posted ~Jan 2026, likely stale/dead) | no price or address surfaced in search snippets; insufficient data to evaluate | unknown | 2026-08-25
+- Unnamed "renovated 3 bedroom / 1.5 bath upper unit," northern Visitacion Valley | described only in an aggregated search summary; no address or distinct listing page located | unknown | 2026-08-25
+- "Noe/Glen Park cottage $3,480" | appeared only in an aggregated search summary; no address or distinct listing found on follow-up | $3,480 (unconfirmed) | 2026-08-25
