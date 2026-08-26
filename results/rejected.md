@@ -50,3 +50,5 @@
 - "Modern 3BR San Francisco Apartment with Utilities Included" (CL, posted ~Jan 2026, likely stale/dead) | no price or address surfaced in search snippets; insufficient data to evaluate | unknown | 2026-08-25
 - Unnamed "renovated 3 bedroom / 1.5 bath upper unit," northern Visitacion Valley | described only in an aggregated search summary; no address or distinct listing page located | unknown | 2026-08-25
 - "Noe/Glen Park cottage $3,480" | appeared only in an aggregated search summary; no address or distinct listing found on follow-up | $3,480 (unconfirmed) | 2026-08-25
+- "3643 25th St," Excelsior | search snippet described a 3bd/2ba $4,100-$4,200 unit here, but property records show only 1BR/2BR units at this address and a mismatched contact number — presumed listing-data error/misattribution; insufficient data to evaluate | $4,100-$4,200 (unconfirmed, likely misattributed) | 2026-08-26
+- 332 Silliman St | conflicting bed-count data (property records show a 6bd/4ba building vs. a search snippet describing a 3bd/2ba $4,100 unit) — could not reconcile; insufficient data to evaluate | $4,100 (unconfirmed) | 2026-08-26
