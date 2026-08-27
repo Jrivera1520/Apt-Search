@@ -31,6 +31,8 @@
 - 129 Sagamore St #129, Ingleside | over-budget | $5,800 | 2026-08-25
 - 400 Wilde Ave, Visitacion Valley (CL) | over-budget | $4,500 | 2026-08-25
 - 1155 Vallejo St | over-budget | $5,960 | 2026-08-25
+- 3436 19th St, 94110 (Mission) | over-budget | $5,995 | 2026-08-27
+- Parkmerced "Modern 3 Bedroom Apartment with En-Suite Bathrooms" (multiple unit-ID CL posts: FO507, SE3556J, etc.) | listing-farm pattern (identical title, different unit codes) + over-budget (complex avg 3BR $7,121), STICKY | ~$7,121 avg | 2026-08-27
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -52,3 +54,5 @@
 - "Noe/Glen Park cottage $3,480" | appeared only in an aggregated search summary; no address or distinct listing found on follow-up | $3,480 (unconfirmed) | 2026-08-25
 - "3643 25th St," Excelsior | search snippet described a 3bd/2ba $4,100-$4,200 unit here, but property records show only 1BR/2BR units at this address and a mismatched contact number — presumed listing-data error/misattribution; insufficient data to evaluate | $4,100-$4,200 (unconfirmed, likely misattributed) | 2026-08-26
 - 332 Silliman St | conflicting bed-count data (property records show a 6bd/4ba building vs. a search snippet describing a 3bd/2ba $4,100 unit) — could not reconcile; insufficient data to evaluate | $4,100 (unconfirmed) | 2026-08-26
+- 1646 Yosemite Ave, 94124 (Bayview) | bed-count conflict — some snippets call it 3bd/1ba $3,600, but Homes.com/property records (1,008 sqft) indicate a 2bd/1ba unit at $3,300; could not resolve to a clean 3BR match — insufficient data to evaluate | $3,600 (unconfirmed) | 2026-08-27
+- 3 undated Craigslist posts ("Comfortable 3BR" 7909601841, "three-bedroom apartment" 7909993007, "Modern 3 bedroom...great neighborhood" 7796535616) | no price/address recoverable via search snippets, craigslist direct-fetch blocked this run — insufficient data to evaluate | unknown | 2026-08-27
