@@ -33,6 +33,9 @@
 - 1155 Vallejo St | over-budget | $5,960 | 2026-08-25
 - 3436 19th St, 94110 (Mission) | over-budget | $5,995 | 2026-08-27
 - Parkmerced "Modern 3 Bedroom Apartment with En-Suite Bathrooms" (multiple unit-ID CL posts: FO507, SE3556J, etc.) | listing-farm pattern (identical title, different unit codes) + over-budget (complex avg 3BR $7,121), STICKY | ~$7,121 avg | 2026-08-27
+- 646 Natoma St, 94103 (SoMa) | over-budget | $4,350–$4,450 | 2026-09-03
+- 856 42nd Ave, 94122 (Sunset) | over-budget | $4,650 | 2026-09-03
+- 2035 Castro St, 94114 (Castro) | over-budget | $6,695 | 2026-09-03
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
