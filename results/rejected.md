@@ -36,6 +36,7 @@
 - 646 Natoma St, 94103 (SoMa) | over-budget | $4,350–$4,450 | 2026-09-03
 - 856 42nd Ave, 94122 (Sunset) | over-budget | $4,650 | 2026-09-03
 - 2035 Castro St, 94114 (Castro) | over-budget | $6,695 | 2026-09-03
+- 4619 Lincoln Way Apt B, 94122 (Outer Sunset) | over-budget | $8,475 | 2026-09-04
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
