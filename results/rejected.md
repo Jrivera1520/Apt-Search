@@ -37,6 +37,7 @@
 - 856 42nd Ave, 94122 (Sunset) | over-budget | $4,650 | 2026-09-03
 - 2035 Castro St, 94114 (Castro) | over-budget | $6,695 | 2026-09-03
 - 4619 Lincoln Way Apt B, 94122 (Outer Sunset) | over-budget | $8,475 | 2026-09-04
+- 2665 Geneva Ave (Pacific Place Apartments), listed in some snippets as "San Francisco" | out-of-city, STICKY — confirmed Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated ZIP not marketing copy) | $3,536-$5,463 (unit varies) | 2026-09-05
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -75,3 +76,4 @@
 - 1552-B Pershing Dr, Presidio (The Presidio Residences) | over-budget | $4,450 | 2026-09-02
 - 1532-C Pershing Dr, Presidio (The Presidio Residences) | over-budget | $5,050 | 2026-09-02
 - 1517-B Pershing Dr, Presidio (The Presidio Residences) | over-budget | $4,800 | 2026-09-02
+- 1445 Mason St, Nob Hill (RentSFNow) | building has only 2 total 3BR units, historical pricing $3,895-$4,195, but 0 currently available per RentSFNow listing search 09-05 ("no 3 bedrooms available at this time") — not a live candidate; watch for a future vacancy | unknown (0 available) | 2026-09-05
