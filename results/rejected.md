@@ -82,3 +82,7 @@
 - "Renovated 3BR/2BA in-law, 2 blocks from City College," Sunnyside area | no address or URL recovered despite repeated queries; "in-law" unit type raises whole-unit-vs-accessory-unit ambiguity (same pattern as the watch-listed Hayes Valley "Westlake in-law" below) — insufficient data to evaluate | $3,800 | 2026-09-08
 - 1935 Jefferson St Unit 2, 94123 (Marina, via Brick+Timber/rentbt.com) | over-budget | $12,700 | 2026-09-08
 - 187 Ralston St, 94132 (Lakeshore) | presumed scam/stale + bed-count mismatch — quoted $1,050-$1,250 is ~75-85% below any plausible SF 3BR median with no stated reason (exceeds 25%-below exclusion threshold outright), and property records show only 2bd/1ba at this address, not 3bd — do not add if it resurfaces | $1,050-$1,250 | 2026-09-08
+- 1074 Union St, 94133 (Russian Hill, Mosser Living) | over-budget | $5,195 | 2026-09-10
+- CL "Spectacular airy, sunny 3 bedroom, bath and 1/2 with bay views," North Beach (7860712620) | top-floor unit in a large corner heritage building, windows in all directions — no price recoverable in any search snippet despite repeated queries, direct fetch blocked (search-only run); insufficient data to evaluate | unknown | 2026-09-10
+
+## Watch (re-check price/status each run; promote if it enters range)
