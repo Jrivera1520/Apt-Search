@@ -39,6 +39,16 @@
 - 4619 Lincoln Way Apt B, 94122 (Outer Sunset) | over-budget | $8,475 | 2026-09-04
 - 2665 Geneva Ave (Pacific Place Apartments), listed in some snippets as "San Francisco" | out-of-city, STICKY — confirmed Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated ZIP not marketing copy) | $3,536-$5,463 (unit varies) | 2026-09-05
 - 3244 22nd St, 94110 (Mission) | below-market, no stated reason — $3,086 is ~40-60% below the Mission 3BR median ($5,200-$7,900 depending on source), exceeds the 25%-below exclusion threshold; corroboration effectively single-source (only Zumper carries this exact price); no landlord/PM contact found; matches the same search-summary-misattribution/farm-price pattern as 3386 Market St and 1249 Kearny St | $3,086 | 2026-09-06
+- 231 Marietta Dr, Excelsior | over-budget | $6,090 | 2026-09-11
+- 5 Italy Ave, 94112 (Excelsior/Outer Mission) | over-budget | starts $4,700 | 2026-09-11
+- 495 32nd Ave (Del Rey Apartments), 94121 (Outer Richmond) | over-budget | $6,268–$11,495 (unit varies) | 2026-09-11
+- 79 Coleridge St, 94110 (Bernal Heights) | over-budget | $8,500–$9,750 | 2026-09-11
+- 606A 2nd Ave, 94118 (Inner Richmond) | over-budget | $4,495 | 2026-09-11
+- 3 Bedroom House, West of Twin Peaks (Zumper) | over-budget | $4,950 | 2026-09-11
+- 66 Bay View St, Silver Terrace | over-budget | $4,995 | 2026-09-11
+- 2 Hawkins Ln, Silver Terrace | over-budget | $5,550 | 2026-09-11
+- 2443 39th Ave #2, 94116 (Parkside) | search-summary misattribution — an aggregated snippet quoted "~$3,600," but the actual corroborated price (Redfin MLS #442987 + Zillow, agreeing) is $6,000; same pattern as 3386 Market St / 1249 Kearny St, logged so the false low figure isn't mistaken for a new find | $3,600 (false) vs $6,000 (real) | 2026-09-11
+- 5519 Mission St, 94112 (Crocker Amazon) | likely scrape/misattribution error — a "$2,395 3bd" figure surfaced but every direct source shows this building as 1BR-only (from $2,695); not a real 3BR match | $2,395 (unconfirmed, likely misattributed) | 2026-09-11
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
