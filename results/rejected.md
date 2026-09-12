@@ -49,6 +49,10 @@
 - 2 Hawkins Ln, Silver Terrace | over-budget | $5,550 | 2026-09-11
 - 2443 39th Ave #2, 94116 (Parkside) | search-summary misattribution — an aggregated snippet quoted "~$3,600," but the actual corroborated price (Redfin MLS #442987 + Zillow, agreeing) is $6,000; same pattern as 3386 Market St / 1249 Kearny St, logged so the false low figure isn't mistaken for a new find | $3,600 (false) vs $6,000 (real) | 2026-09-11
 - 5519 Mission St, 94112 (Crocker Amazon) | likely scrape/misattribution error — a "$2,395 3bd" figure surfaced but every direct source shows this building as 1BR-only (from $2,695); not a real 3BR match | $2,395 (unconfirmed, likely misattributed) | 2026-09-11
+- 312 20th Ave, 94121 (Central Richmond) | over-budget | $6,100 | 2026-09-12
+- 1147-1149 Sanchez St, Noe Valley | over-budget | $9,300–$11,000 | 2026-09-12
+- 489 Guerrero St, Mission Dolores | over-budget | $5,300 | 2026-09-12
+- 898 Templeton Ave - A (via Luminor SF listing search) | out-of-city, STICKY — Daly City, CA 94014, not SF | — | 2026-09-12
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
