@@ -53,6 +53,12 @@
 - 1147-1149 Sanchez St, Noe Valley | over-budget | $9,300–$11,000 | 2026-09-12
 - 489 Guerrero St, Mission Dolores | over-budget | $5,300 | 2026-09-12
 - 898 Templeton Ave - A (via Luminor SF listing search) | out-of-city, STICKY — Daly City, CA 94014, not SF | — | 2026-09-12
+- 4464 23rd St (Noe Valley/Mission area) | over-budget | $7,150 | 2026-09-13
+- 2827 Pine St, Pacific Heights | over-budget | $5,300 | 2026-09-13
+- 845 Pine St | over-budget | $4,595+ | 2026-09-13
+- 2238 Hyde St | over-budget | $12,400 | 2026-09-13
+- 3539 24th St | below-market/stale — quoted $1,200 is far below any plausible SF 3BR price with no stated reason and the listing now reads delisted/stale; do not re-add unless a fresh, corroborated price surfaces | $1,200 (stale) | 2026-09-13
+- "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -98,5 +104,8 @@
 - 187 Ralston St, 94132 (Lakeshore) | presumed scam/stale + bed-count mismatch — quoted $1,050-$1,250 is ~75-85% below any plausible SF 3BR median with no stated reason (exceeds 25%-below exclusion threshold outright), and property records show only 2bd/1ba at this address, not 3bd — do not add if it resurfaces | $1,050-$1,250 | 2026-09-08
 - 1074 Union St, 94133 (Russian Hill, Mosser Living) | over-budget | $5,195 | 2026-09-10
 - CL "Spectacular airy, sunny 3 bedroom, bath and 1/2 with bay views," North Beach (7860712620) | top-floor unit in a large corner heritage building, windows in all directions — no price recoverable in any search snippet despite repeated queries, direct fetch blocked (search-only run); insufficient data to evaluate | unknown | 2026-09-10
+- 985 Capp St, Mission District, 94110 (CL "3BD RENT CONTROLLED... near taquerias, Apple/Google bus") | real 4-unit multi-family building (built 1910), hijack-clear, but NO price could be extracted for this specific unit from search snippets; same-building comparable units quoted at $4,150 and $4,695 (straddles the $4,300 ceiling) — insufficient data to evaluate until an actual asking price for 985 itself surfaces | unknown (comps $4,150-$4,695) | 2026-09-13
+- "Ventana Residences," 99 Ocean Ave, Cayuga/Ingleside, 94112 | real, well-corroborated newer building (built 2023, 193 units, managed by Presidio Bay Ventures) but no confirmed 3BR price found; per-bedroom price progression (studio $2,885 → 1BR $3,867 → 2BR $5,087) strongly implies 3BR runs well over the $4,300 ceiling — do not pursue unless a 3BR price surfaces under ceiling | unknown (implied over-ceiling) | 2026-09-13
+- 121 Quintara St, 94116 (Golden Gate Heights, "3 bedrooms upstairs" family home) | no price or bed/bath confirmation surfaced in snippets; watch for a fuller listing | unknown | 2026-09-13
 
 ## Watch (re-check price/status each run; promote if it enters range)
