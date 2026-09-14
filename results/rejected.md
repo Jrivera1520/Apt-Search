@@ -60,6 +60,9 @@
 - 3539 24th St | below-market/stale — quoted $1,200 is far below any plausible SF 3BR price with no stated reason and the listing now reads delisted/stale; do not re-add unless a fresh, corroborated price surfaces | $1,200 (stale) | 2026-09-13
 - "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
+- 239 Cotter St, 94112 (Mission Terrace/Excelsior) | over-budget after price-disagreement resolution — single-source Zumper $2,900 discredited as a stale/low outlier per price-disagreement rule; corroborated real price (ForRent.com/Apartment Finder) is $5,580; Redfin rent-estimate range $3,536-$5,035 also well above ceiling; hijack check clean (last sold 2015, not for sale) | $5,580 (corroborated) vs $2,900 (discredited) | 2026-09-14
+- 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
+
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
 - 2455 29th Ave, Parkside (Zumper) | $3,800 3bd/1.5ba but listing looked stale/delisted (blank price, old availability) — watch for reactivation | 2026-08-14
