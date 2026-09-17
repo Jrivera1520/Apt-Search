@@ -65,6 +65,15 @@
 - 433-437 Brazil Ave, 94112 (Excelsior) | over-budget after price-disagreement resolution — corroborated real price is $4,685 (TurboTenant direct listing, echoed on Zillow/Redfin/Apartments.com/ForRent.com), discrediting a single-source $3,985 Redfin snippet; ForRent.com additionally shows "Check Back Soon" (no current availability) | $4,685 (corroborated) vs $3,985 (discredited) | 2026-09-15
 - 151 Shawnee Ave, 94112 (Excelsior/Portola) | over-budget | $5,500 | 2026-09-15
 - 66 Mill St, 94134 (Visitacion Valley) | over-budget | $5,500 | 2026-09-16
+- 58 Latona St, 94124 (Bayview/Silver Terrace) | over-budget | $4,995 | 2026-09-17
+- Crocker Amazon "Spacious 3BR/2BA Gated Condo" (CL, excelsior/outer mission area) | over-budget | $4,900 | 2026-09-17
+- Excelsior/Outer Mission house, laundry + views (CL) | over-budget | $5,795 | 2026-09-17
+- 249 Topaz Way, 94131 (Diamond Heights) | over-budget/insufficient-data — property sold Feb 2025; no active rental listing found beyond an address-template page; Redfin rent estimate $6,725/mo, well over ceiling | $6,725 (estimate, not a live listing) | 2026-09-17
+- 1475 Hawes St #B, 94124 (Bayview/Hunters Point) | insufficient-data — unresolved price disagreement across sources for the nominally same unit ($3,175 / $4,175 / $5,050), spread straddles ceiling and contradicts itself; could not resolve to a single confident figure | $3,175-$5,050 (unresolved) | 2026-09-17
+- 3070 24th Ave, 94132 (Lakeside) | insufficient-data/stale — only reference found is a Craigslist post from ~June 2025 at $12,000 (stale); conflicts with property record (4bd/3ba, not 3bd/3ba as claimed) and Zillow rent Zestimate ($3,497); no live current listing located | unknown (stale) | 2026-09-17
+- "23rd Ave" furnished 3bd/4ba (CL, furnished-apartments section) | insufficient-data — no street number or listing URL recoverable; furnished nature also raises whole-unit-vs-corporate-share ambiguity | $3,200 | 2026-09-17
+- Sunnyside "renovated 3bd/2ba, 0.4mi from Glen Park BART" | insufficient-data — no address recoverable across repeated searches | $3,800 | 2026-09-17
+- "2161 N Valley St #A," Excelsior/Outer Mission (ADU) | insufficient-data — this street address could not be confirmed to exist in SF property records; likely a search-summarization error — do not add unless a real, verifiable address surfaces | $3,500 (unconfirmed address) | 2026-09-17
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
