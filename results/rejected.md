@@ -88,7 +88,7 @@
 - "Visitacion Valley" 3bd/2ba house, no address found | $4,075 quoted in a search snippet but could not relocate the actual listing or an address to verify city/legitimacy — insufficient data to evaluate | $4,075 | 2026-08-18
 - 2455 29th Ave, Parkside | PROMOTED 2026-08-19 to seen.md ledger as unconfirmed ($3,800, single-source Zumper) — no longer on watch | 2026-08-19
 - 1755 22nd Ave, 94122 (Central Sunset) | conflicting records — Zumper/property records call this a 4bd/2ba house, but a search snippet showed a 3bd/2ba $3,800 unit at the same address (possibly Unit B, separate Zillow/Trulia zpid). Could not confirm a clean 3BR unit match — watch for a clearer listing | $3,800 (unconfirmed unit) | 2026-08-19
-- 3869 26th St, Noe Valley | could not locate this exact address in any listing (only nearby comps on 26th St found); insufficient data to evaluate | — | 2026-08-19
+- 3869 26th St, Noe Valley | RESOLVED 2026-09-19 — found at $11,000/mo, moved to Rejected as over-budget, no longer on watch | — | 2026-08-19
 - 2867 Sacramento St, Pacific Heights ("True Three Bedroom in Pac Heights" CL post) | no current rent price found despite multiple searches; building range runs $2,700-$7,021 across 1-3BR units and Pac Heights skews well over budget — watch for a listing with a stated price before evaluating | unknown | 2026-08-19
 - CL "fully furnished 3 bedroom" Mission District post | no exact address or URL surfaced across repeated searches (only appears in aggregated summaries, not a distinct linkable listing); could not verify whole-unit vs. furnished-corporate-share status — insufficient data to evaluate | $3,900 | 2026-08-24
 - CL "large 3-bedroom near City College/SF State/Balboa Park BART/280" Ingleside-area post | no exact address surfaced; closest matching concrete listing found this search was "Westwood Park - $4400" (already logged above as over-budget) — likely the same listing misquoted at $4,200 in a search summary; insufficient data to evaluate separately | $4,200 (unconfirmed) | 2026-08-24
@@ -130,5 +130,13 @@
 - "Spacious 3-Bedroom Portola Home with Private Yard & Remodeled Bath" (CL, quoted $2,230) | no address recoverable; $2,230 is far below any plausible Portola 3BR price (median ~$3,800) with no stated reason — presumed misattribution/stale or scam-adjacent; do not add unless a fuller listing with address surfaces | $2,230 (unconfirmed, likely misattributed) | 2026-09-16
 - Bennett Lofts, 530 Brannan St, 94107 (SOMA) | likely over-budget — building floor-plan range $4,359-$5,059 (studios from $3,577); no 3BR-specific price isolated but the range implies 3BR lofts sit above the $4,300 ceiling; watch for a confirmed 3BR digit before evaluating further | unknown (implied over-ceiling) | 2026-09-16
 - 1830 Alemany Blvd #301, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — price rose to $4,325 (2-source corroborated: Redfin + PadMapper, unit-specific 3bd/2ba/900sqft), exceeding the $4,300 ceiling; previously tracked in seen.md as negotiate at $4,150, moved to rejected 09-16; watch for a drop back to ≤$4,300 | $4,325 | 2026-09-16
+- 3869 26th St, Noe Valley | over-budget — resolves the 08-19 watch entry ("could not locate"); now found at $11,000/mo, far over ceiling | $11,000 | 2026-09-19
+- 445 Francisco St, North Beach | over-budget | $8,000 | 2026-09-19
+- Broadway & Franklin St, Pacific Heights | over-budget | $7,500 | 2026-09-19
+- 322 Stanyan St, Richmond District | over-budget | from $4,765 | 2026-09-19
+- 256 Putnam St, Bernal Heights | over-budget | $5,400 | 2026-09-19
+- 16 Montezuma St, Bernal Heights | over-budget | $9,400 | 2026-09-19
 
 ## Watch (re-check price/status each run; promote if it enters range)
+- Visitacion Valley, 94134, 3bd/2ba top-floor unit | $4,100/mo, on-site coin laundry, agent phone (415) 513-3132 (Homes.com snippet) — no street address recoverable via search (homes.com direct-fetch blocked); watch for a fuller listing with an address next run | $4,100 | 2026-09-19
+- "Cozy 3BR Home in Noe Valley – Move-In Ready!" (Craigslist SF, title only) | no address, price, or details surfaced despite search; too thin to evaluate | unknown | 2026-09-19
