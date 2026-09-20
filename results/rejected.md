@@ -136,7 +136,10 @@
 - 322 Stanyan St, Richmond District | over-budget | from $4,765 | 2026-09-19
 - 256 Putnam St, Bernal Heights | over-budget | $5,400 | 2026-09-19
 - 16 Montezuma St, Bernal Heights | over-budget | $9,400 | 2026-09-19
+- 1128 Valencia St, 94110 (Mission) | over-budget | $4,395 (Trulia) / $4,553 (Zillow Zestimate) | 2026-09-20
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - Visitacion Valley, 94134, 3bd/2ba top-floor unit | $4,100/mo, on-site coin laundry, agent phone (415) 513-3132 (Homes.com snippet) — no street address recoverable via search (homes.com direct-fetch blocked); watch for a fuller listing with an address next run | $4,100 | 2026-09-19
 - "Cozy 3BR Home in Noe Valley – Move-In Ready!" (Craigslist SF, title only) | no address, price, or details surfaced despite search; too thin to evaluate | unknown | 2026-09-19
+- SoMa Square, 1 Saint Francis Pl, 94107 (SOMA) | large managed complex (Apartments.com/Zillow/Redfin/Zumper), studio-3BR range quoted inconsistently ($3,858-$6,426 / $3,494-$3,994 / $3,912-$4,793+) but no 3BR-specific price isolated; likely-studio/1BR floors, watch for a pinned 3BR digit | unknown (range implies likely over-ceiling) | 2026-09-20
+- "Classic Crocker Amazon 3 BR/#BA – Hardwood Floors" (Craigslist, title only) | no price or street address recoverable despite follow-up search; too thin to evaluate | unknown | 2026-09-20
