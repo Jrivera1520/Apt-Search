@@ -137,9 +137,15 @@
 - 256 Putnam St, Bernal Heights | over-budget | $5,400 | 2026-09-19
 - 16 Montezuma St, Bernal Heights | over-budget | $9,400 | 2026-09-19
 - 1128 Valencia St, 94110 (Mission) | over-budget | $4,395 (Trulia) / $4,553 (Zillow Zestimate) | 2026-09-20
+- 755 21st Ave, 94121 (Richmond District) | over-budget | $5,450 | 2026-09-21
+- 1810 Polk St #307, 94109 (Nob Hill) | over-budget | $6,190 (Zestimate $6,653) | 2026-09-21
+- 4715 Balboa St, 94121 (Outer Richmond) | over-budget | $4,500 | 2026-09-21
+- 168 Bluxome St ("Loft 168"), 94107 (SOMA) | over-budget | $5,815 (Zestimate) | 2026-09-21
+- The Presidio Residences, 222 Halleck St, 94129 | over-budget — same complex as 3 units already sticky-rejected ($4,450-$5,050); this unit starts $4,850 | $4,850 | 2026-09-21
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - Visitacion Valley, 94134, 3bd/2ba top-floor unit | $4,100/mo, on-site coin laundry, agent phone (415) 513-3132 (Homes.com snippet) — no street address recoverable via search (homes.com direct-fetch blocked); watch for a fuller listing with an address next run | $4,100 | 2026-09-19
 - "Cozy 3BR Home in Noe Valley – Move-In Ready!" (Craigslist SF, title only) | no address, price, or details surfaced despite search; too thin to evaluate | unknown | 2026-09-19
 - SoMa Square, 1 Saint Francis Pl, 94107 (SOMA) | large managed complex (Apartments.com/Zillow/Redfin/Zumper), studio-3BR range quoted inconsistently ($3,858-$6,426 / $3,494-$3,994 / $3,912-$4,793+) but no 3BR-specific price isolated; likely-studio/1BR floors, watch for a pinned 3BR digit | unknown (range implies likely over-ceiling) | 2026-09-20
 - "Classic Crocker Amazon 3 BR/#BA – Hardwood Floors" (Craigslist, title only) | no price or street address recoverable despite follow-up search; too thin to evaluate | unknown | 2026-09-20
+- 1109 Elm St, 94115 (Western Addition) | $3,333/mo, 3bd/1ba, ~1,030 sqft, managed by Sutro Property Management Inc. (real DRE-licensed SF firm, contact check PASS, hijack check PASS) — BUT corroboration FAILS (only Zillow-family carries this price; Zumper/PadMapper show 0 available), price sanity FAILS (~33% below Western Addition 3BR median ~$4,960, no stated reason), and Apartments.com tags the address "Room for Rent" (whole-unit ambiguity unresolved) — stacked flags keep this off the ledger; watch for a corroborating 2nd platform or price update | $3,333 | 2026-09-21
