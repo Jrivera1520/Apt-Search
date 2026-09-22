@@ -78,6 +78,13 @@
 - "23rd Ave" furnished 3bd/4ba (CL, furnished-apartments section) | insufficient-data — no street number or listing URL recoverable; furnished nature also raises whole-unit-vs-corporate-share ambiguity | $3,200 | 2026-09-17
 - Sunnyside "renovated 3bd/2ba, 0.4mi from Glen Park BART" | insufficient-data — no address recoverable across repeated searches | $3,800 | 2026-09-17
 - "2161 N Valley St #A," Excelsior/Outer Mission (ADU) | insufficient-data — this street address could not be confirmed to exist in SF property records; likely a search-summarization error — do not add unless a real, verifiable address surfaces | $3,500 (unconfirmed address) | 2026-09-17
+- 362 Chenery St, Glen Park (Brown & Patki) | over-budget | $7,950 | 2026-09-22
+- 4344 17th St, Corona Heights | over-budget | $5,200 | 2026-09-22
+- 1017 Portola Dr | over-budget | $5,000-$5,200 | 2026-09-22
+- 163 Rae Ave, 94112 (Outer Mission/Cayuga) | over-budget | $4,600 | 2026-09-22
+- 830 Sargent St, 94112 (Outer Mission/Cayuga) | over-budget | $5,500 | 2026-09-22
+- 175 Williams Ave, 94124 (Silver Terrace) | over-budget | $4,700 | 2026-09-22
+- 2547 38th Ave, 94116 (Parkside) | likely bed-count misattribution — Zumper lists as "3 Bedroom House" $3,500/mo, but Redfin and Zillow property records independently show 2bd/1ba, 995 sqft (sold 2020); same pattern as 418 Athens St / 3643 25th St, not a confirmed 3BR | $3,500 (unconfirmed, likely misattributed) | 2026-09-22
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
