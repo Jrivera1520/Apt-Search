@@ -85,6 +85,15 @@
 - 830 Sargent St, 94112 (Outer Mission/Cayuga) | over-budget | $5,500 | 2026-09-22
 - 175 Williams Ave, 94124 (Silver Terrace) | over-budget | $4,700 | 2026-09-22
 - 2547 38th Ave, 94116 (Parkside) | likely bed-count misattribution — Zumper lists as "3 Bedroom House" $3,500/mo, but Redfin and Zillow property records independently show 2bd/1ba, 995 sqft (sold 2020); same pattern as 418 Athens St / 3643 25th St, not a confirmed 3BR | $3,500 (unconfirmed, likely misattributed) | 2026-09-22
+- 55 Apollo St, 94124 (Silver Terrace/Bayview) | over-budget — price rose above the $4,300 ceiling; was tracked in seen.md as negotiate at a $4,288-$4,900 unresolved spread, now AMSI's own-domain listing shows $5,750 and other platforms show $4,800-$4,900, all over ceiling; contact also changed (new agent "Maureen Couture," 415-447-2048, replacing prior 650-796-2584) — mandatory hijack recheck run, came back clean (not for sale) | $4,800-$5,750 | 2026-09-23
+- "Updated and Remodeled 3 bed/2 bath w/Parking," Portola (J. Wavro, CL 7836920980) | over-budget | $4,500 | 2026-09-23
+- 88 Mill St, 94134 (Visitacion Valley) | over-budget/price-conflicted — $4,900 (3bd/2ba/2,200sqft) vs $5,995 (differently-configured 5bd/3ba at same address); either figure is over ceiling | $4,900-$5,995 | 2026-09-23
+- Excelsior/Outer Mission "whole house 3bd/1ba, steps from Mission Street" (CL) | over-budget, no address recoverable | $4,950 | 2026-09-23
+- 57 Dorado Ter, "Unit Downstairs," 94112 (West of Twin Peaks/Mount Davidson Manor) | insufficient-data — conflicting bed-count descriptions across sources (one says 1bd/1ba independent unit, another says 3bd/1ba master+2 rooms shared bath) and conflicting price ($3,500 vs $3,950); could not resolve to a single confident figure. Same street as tracked 59 Dorado Terrace (active) and rejected 41 Dorado Terrace (over-budget) | $3,500-$3,950 (unresolved) | 2026-09-23
+- Silver Terrace "3bd/1ba upstairs unit of SFH near Silver Terrace Playground and San Bruno Ave" | insufficient-data — no street address recoverable | unknown | 2026-09-23
+- J. Wavro Dogpatch "Bright & Spacious Bi-Level 3BR Live/Work Loft" | over-budget | $6,295 | 2026-09-23
+- J. Wavro Pacific Heights (Jackson & Baker) 3BR/2BA condo | over-budget | $9,995 | 2026-09-23
+- J. Wavro Marina District full-floor penthouse 3BR/2BA | over-budget | $8,500 | 2026-09-23
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -151,7 +160,7 @@
 - The Presidio Residences, 222 Halleck St, 94129 | over-budget — same complex as 3 units already sticky-rejected ($4,450-$5,050); this unit starts $4,850 | $4,850 | 2026-09-21
 
 ## Watch (re-check price/status each run; promote if it enters range)
-- Visitacion Valley, 94134, 3bd/2ba top-floor unit | $4,100/mo, on-site coin laundry, agent phone (415) 513-3132 (Homes.com snippet) — no street address recoverable via search (homes.com direct-fetch blocked); watch for a fuller listing with an address next run | $4,100 | 2026-09-19
+- Visitacion Valley, 94134, 3bd/2ba top-floor unit | $4,100/mo, on-site coin laundry, agent phone (415) 513-3132 (Homes.com snippet) — no street address recoverable via search (homes.com direct-fetch blocked); 09-23: resurfaced with the same price/phone/laundry details but this time under a "Portola" neighborhood guess instead — likely the same listing, neighborhood uncertain either way; still no address, watch for a fuller listing next run | $4,100 | 2026-09-19
 - "Cozy 3BR Home in Noe Valley – Move-In Ready!" (Craigslist SF, title only) | no address, price, or details surfaced despite search; too thin to evaluate | unknown | 2026-09-19
 - SoMa Square, 1 Saint Francis Pl, 94107 (SOMA) | large managed complex (Apartments.com/Zillow/Redfin/Zumper), studio-3BR range quoted inconsistently ($3,858-$6,426 / $3,494-$3,994 / $3,912-$4,793+) but no 3BR-specific price isolated; likely-studio/1BR floors, watch for a pinned 3BR digit | unknown (range implies likely over-ceiling) | 2026-09-20
 - "Classic Crocker Amazon 3 BR/#BA – Hardwood Floors" (Craigslist, title only) | no price or street address recoverable despite follow-up search; too thin to evaluate | unknown | 2026-09-20
