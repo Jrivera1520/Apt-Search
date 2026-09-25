@@ -96,6 +96,9 @@
 - J. Wavro Marina District full-floor penthouse 3BR/2BA | over-budget | $8,500 | 2026-09-23
 - 2272 Greenwich St, Cow Hollow | over-budget | $6,295 | 2026-09-24
 - "Sunny Noe 3-BR Sublet," Noe Valley (CL sublets & temporary category, not apa/hhh) | out-of-scope, short-term-adjacent — this is a sublet, not a standard whole-unit lease; falls outside the CL apa/hhh source pool and carries the same temporary character CLAUDE.md's weekly/nightly auto-reject rule is wary of, even though not an explicit weekly/nightly quote; no street address recoverable either; price disagreement $4,190 vs $4,600 across two snippets, unresolved | $4,190-$4,600 | 2026-09-24
+- 1379 Revere Ave #B, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
+- 1743 Revere Ave, Hunters Point, 94124 | over-budget | $4,350 | 2026-09-25
+- 981 Ingerson Ave, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -169,3 +172,8 @@
 - 1109 Elm St, 94115 (Western Addition) | $3,333/mo, 3bd/1ba, ~1,030 sqft, managed by Sutro Property Management Inc. (real DRE-licensed SF firm, contact check PASS, hijack check PASS) — BUT corroboration FAILS (only Zillow-family carries this price; Zumper/PadMapper show 0 available), price sanity FAILS (~33% below Western Addition 3BR median ~$4,960, no stated reason), and Apartments.com tags the address "Room for Rent" (whole-unit ambiguity unresolved) — stacked flags keep this off the ledger; watch for a corroborating 2nd platform or price update | $3,333 | 2026-09-21
 - 1306 6th Ave, 94122 (Inner Sunset) | updated 3bd/2ba Victorian, 1,419 sqft, in-unit W/D, garage, A/C — multiple broker names attached (RE/MAX, Latter & Blum Compass, Coldwell Banker); no rent price recoverable across repeated searches; ~$1.3M property value estimate suggests a high-end unit, plausibly over ceiling — watch for a priced restatement | unknown | 2026-09-24
 - 967 14th St, 94114 (Duboce Triangle) | CL "Spacious 3 bed/2bath Home," 2,487 sqft, attached garage, gas fireplace, formal dining, den/office, sunroom w/ view balcony — clearly high-end/large; search snippets garbled the price ("$48," an extraction artifact, not real); Duboce Triangle 3BR average runs up to $4,653 and this unit is above-typical spec, likely over ceiling but no clean digit recoverable | unknown (extraction artifact) | 2026-09-24
+- 4372 Mission St Unit 4, 94112 (Outer Mission) | managed by JGPM (real SF PM firm) — 3bd/1ba corner unit, no rent price recoverable despite repeated targeted searches | unknown | 2026-09-25
+- 3501 Jennings St, 94124 (Bayview) | no rent price surfaced despite search | unknown | 2026-09-25
+- 1932 Quint St, 94124 (Bayview/Silver Terrace) | $3,500, described as a "bottom-floor in-law unit" with a kitchenette — whole-unit-vs-accessory-unit ambiguity similar to other flagged in-law listings; hijack-clean (sold within past 12mo, not currently for sale) | $3,500 (unit-type ambiguous) | 2026-09-25
+- 711 La Playa St #3, 94121 (Outer Richmond, via Key Opp portal) | 3bd/2ba, 1,479 sqft, top-floor, contact "Austin" 650-520-5893 — hijack-clean (last sale 2009, not for sale) but no rental price recoverable despite repeated searches; needs a direct fetch or phone call to price | unknown | 2026-09-25
+- 1748 Keith St Unit A, 94124 (Bayview) | $3,336, 3bd/1ba — single-source only (Zillow-family), no manager/contact found, too thin to add yet | $3,336 (single-source) | 2026-09-25
