@@ -99,6 +99,8 @@
 - 1379 Revere Ave #B, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
 - 1743 Revere Ave, Hunters Point, 94124 | over-budget | $4,350 | 2026-09-25
 - 981 Ingerson Ave, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
+- 1121 Folsom St, 94103 (SOMA, J. Wavro Associates) | over-budget | $4,995 | 2026-09-26
+- 17 Kiska Rd, 94124 (Bayview) | over-budget | $4,725 | 2026-09-26
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -177,3 +179,10 @@
 - 1932 Quint St, 94124 (Bayview/Silver Terrace) | $3,500, described as a "bottom-floor in-law unit" with a kitchenette — whole-unit-vs-accessory-unit ambiguity similar to other flagged in-law listings; hijack-clean (sold within past 12mo, not currently for sale) | $3,500 (unit-type ambiguous) | 2026-09-25
 - 711 La Playa St #3, 94121 (Outer Richmond, via Key Opp portal) | 3bd/2ba, 1,479 sqft, top-floor, contact "Austin" 650-520-5893 — hijack-clean (last sale 2009, not for sale) but no rental price recoverable despite repeated searches; needs a direct fetch or phone call to price | unknown | 2026-09-25
 - 1748 Keith St Unit A, 94124 (Bayview) | $3,336, 3bd/1ba — single-source only (Zillow-family), no manager/contact found, too thin to add yet | $3,336 (single-source) | 2026-09-25
+- 557 Ellington Ave, 94112 (Crocker Amazon) | appears on Apartments.com (2 listing IDs) but no rent price recoverable via repeated searches | unknown | 2026-09-26
+- 137 Amazon Ave #137, 94112 (Crocker Amazon) | bed-count/price conflict — Zillow/Trulia property record says 4bd/3ba, one source says 3bd/3ba/$4,100, Zumper's own page says 3bd/$3,750 — same bed-count misattribution pattern as other rejected addresses, can't confirm a clean 3BR match | $3,750-$4,100 (unresolved) | 2026-09-26
+- 275 Pope St, 94112 (Outer Mission) | price conflict $4,100 vs $4,700, both single-source (Apartments.com only, no 2nd platform); no named landlord/PM found; range straddles the $4,300 ceiling, not adopted per price-disagreement rule | $4,100-$4,700 (unresolved) | 2026-09-26
+- 1200 Silver Ave, 94134 (Portola) | confirmed 3bd/2ba, built 2010, in-unit W/D, garage — no rent figure recoverable via repeated searches | unknown | 2026-09-26
+- 1741 Geneva Ave, 94134 (Excelsior) | only a Zillow Rent Zestimate ($4,137, an estimate not an ask) surfaced; not for sale; no live rental listing/asking price found — same estimate-only pattern as 249 Topaz Way | $4,137 (estimate, not a listing) | 2026-09-26
+- 6237 Mission St (Crocker Amazon/Excelsior border) | CL post quoting $2,850+utilities, dated ~August 2025 (over a year stale), likely dead; price also well below plausible market with no stated reason | $2,850 (stale) | 2026-09-26
+- Unnamed 2-level Visitacion Valley house, 3bd/3ba ~2,200 sqft (CL "Open House Oct 12") | no address or price recoverable on follow-up search | unknown | 2026-09-26
