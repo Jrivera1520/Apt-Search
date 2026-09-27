@@ -101,6 +101,7 @@
 - 981 Ingerson Ave, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
 - 1121 Folsom St, 94103 (SOMA, J. Wavro Associates) | over-budget | $4,995 | 2026-09-26
 - 17 Kiska Rd, 94124 (Bayview) | over-budget | $4,725 | 2026-09-26
+- ~Excelsior/Outer Mission, 3bd/2ba, "rooftop deck views, BART/Muni access" (no address recoverable) | over-budget | $4,388 | 2026-09-27
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
