@@ -102,6 +102,9 @@
 - 1121 Folsom St, 94103 (SOMA, J. Wavro Associates) | over-budget | $4,995 | 2026-09-26
 - 17 Kiska Rd, 94124 (Bayview) | over-budget | $4,725 | 2026-09-26
 - ~Excelsior/Outer Mission, 3bd/2ba, "rooftop deck views, BART/Muni access" (no address recoverable) | over-budget | $4,388 | 2026-09-27
+- 3165 Mission St #302, 94110 (Bernal Heights/Mission border, Atlas Property Group) | over-budget/price-conflicted — $4,495 (Apartments.com) vs $5,995 (Rentler), both over ceiling either way; also carries a "Room for Rent" tag, moot since over-budget | $4,495-$5,995 | 2026-09-28
+- 405 22nd Ave, 94121 (Outer Richmond) | over-budget | $4,695 | 2026-09-28
+- Unnamed Inner Richmond 3BR/2BA remodeled apartment, in-unit laundry, shared yard (no address recoverable) | over-budget | $4,799 | 2026-09-28
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -187,3 +190,9 @@
 - 1741 Geneva Ave, 94134 (Excelsior) | only a Zillow Rent Zestimate ($4,137, an estimate not an ask) surfaced; not for sale; no live rental listing/asking price found — same estimate-only pattern as 249 Topaz Way | $4,137 (estimate, not a listing) | 2026-09-26
 - 6237 Mission St (Crocker Amazon/Excelsior border) | CL post quoting $2,850+utilities, dated ~August 2025 (over a year stale), likely dead; price also well below plausible market with no stated reason | $2,850 (stale) | 2026-09-26
 - Unnamed 2-level Visitacion Valley house, 3bd/3ba ~2,200 sqft (CL "Open House Oct 12") | no address or price recoverable on follow-up search | unknown | 2026-09-26
+- Bernal Heights, "3 bedroom 2 bath with parking" (CL) | insufficient-data — no street address recoverable across repeated searches; in-budget if it resolves | $3,995 | 2026-09-28
+- "Renovated 3BR in NOPA – In-Unit Laundry & No App Fee!" (CL, Western Addition/NOPA) | insufficient-data — title only, no price/address surfaced | unknown | 2026-09-28
+- "Bright & Spacious 3BR/2BA in Prime Outer Richmond Location!" (CL) | insufficient-data — title only, no price/address surfaced | unknown | 2026-09-28
+- "Updated 3BR Townhome with Private Patio!" (CL, Bayview) | insufficient-data — title only, no price/address surfaced | unknown | 2026-09-28
+- "Bayview Heights Gem" (CL, 3BR) | insufficient-data — title only, no price/address surfaced | unknown | 2026-09-28
+- 10 Quickstep Ln #4, 94115 (St. Francis Square Cooperative, Western Addition/Laurel Heights) | stale/not-a-live-rental — a stale Redfin snapshot quoted $3,800/3bd/2ba, but the unit is not currently listed for sale or rent (last transacted 2014 as a co-op share purchase); this is an owner-occupied cooperative requiring share purchase + board approval, not an open-market rental — low priority, watch only if a current listing with an active asking rent surfaces | $3,800 (stale, inactive) | 2026-09-28
