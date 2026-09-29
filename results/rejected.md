@@ -105,6 +105,8 @@
 - 3165 Mission St #302, 94110 (Bernal Heights/Mission border, Atlas Property Group) | over-budget/price-conflicted — $4,495 (Apartments.com) vs $5,995 (Rentler), both over ceiling either way; also carries a "Room for Rent" tag, moot since over-budget | $4,495-$5,995 | 2026-09-28
 - 405 22nd Ave, 94121 (Outer Richmond) | over-budget | $4,695 | 2026-09-28
 - Unnamed Inner Richmond 3BR/2BA remodeled apartment, in-unit laundry, shared yard (no address recoverable) | over-budget | $4,799 | 2026-09-28
+- 72 Vernon St, San Francisco (Merced Heights) | over-budget | $5,250 | 2026-09-29
+- 66 Delano Ave, San Francisco (Mission Terrace/Glen Park area) | over-budget | $7,800 | 2026-09-29
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
