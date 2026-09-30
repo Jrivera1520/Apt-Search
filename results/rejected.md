@@ -107,6 +107,8 @@
 - Unnamed Inner Richmond 3BR/2BA remodeled apartment, in-unit laundry, shared yard (no address recoverable) | over-budget | $4,799 | 2026-09-28
 - 72 Vernon St, San Francisco (Merced Heights) | over-budget | $5,250 | 2026-09-29
 - 66 Delano Ave, San Francisco (Mission Terrace/Glen Park area) | over-budget | $7,800 | 2026-09-29
+- 1431 Quesada Ave, 94124 (Bayview) | presumed hijacked/bed-count mismatch, STICKY — property actively FOR SALE ($895,000 MLS, 2bd/1.5ba per county record, listed by Compass agents Trudi Michael/D Paul Brown); a rental ad for "the same address" at $3,875 describes conflicting configurations across sources (3bd/2ba/2,407sqft vs 3bd/1ba condo) that don't match the real record or each other, and contact resolves only to the sale-listing agents, not a rental PM — classic hijack-pattern profile | $3,875 (rental ad) vs $895,000 (real sale) | 2026-09-30
+- 2936 Cesar Chavez St, 94110 (Mission/Noe Valley border) | insufficient-data/misattribution — search snippets quoted a "3bd/1ba, $4,000" rental, but the actual property is a triplex FOR SALE at $1,795,000 configured 2bd+2bd+1bd; no unit matches the claimed 3bd/1ba rental — same search-summary-misattribution pattern as 3386 Market St / 1249 Kearny St | $4,000 (unconfirmed, likely misattributed) | 2026-09-30
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
