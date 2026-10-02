@@ -111,6 +111,22 @@
 - 2936 Cesar Chavez St, 94110 (Mission/Noe Valley border) | insufficient-data/misattribution — search snippets quoted a "3bd/1ba, $4,000" rental, but the actual property is a triplex FOR SALE at $1,795,000 configured 2bd+2bd+1bd; no unit matches the claimed 3bd/1ba rental — same search-summary-misattribution pattern as 3386 Market St / 1249 Kearny St | $4,000 (unconfirmed, likely misattributed) | 2026-09-30
 - Lantern Lofts, 1168 Folsom St, 94103 (SOMA) | below-market, no stated reason — $3,900 is ~48% below the SOMA 3BR median ($7,495, Zumper), exceeds the 25%-below exclusion threshold with no explanation given (not deed-restricted/affordable); 2-platform corroborated (Redfin + marketapts.com), hijack-clean, but fails price sanity outright | $3,900 | 2026-10-01
 - Glasdore Lofts, 30 Dore St, 94103 (SOMA) | below-market, no stated reason — $4,100 is ~45% below the SOMA 3BR median ($7,495), exceeds the 25%-below exclusion threshold with no explanation given; same leasing office as Lantern Lofts above (likely sister property); 2-platform corroborated, hijack-clean, but fails price sanity outright | $4,100 | 2026-10-01
+- 2062 22nd Ave, 94116 (Outer Sunset) | over-budget | $4,500 | 2026-10-02
+- 1910 32nd Ave, 94116 (Sunset) | over-budget | $4,400 | 2026-10-02
+- 2518 30th Ave, 94116 (Parkside) | over-budget | $5,950 | 2026-10-02
+- 60 Bessie St, 94110 (Bernal Heights) | over-budget | $7,795+ | 2026-10-02
+- 262 Rutledge St, 94110 (Bernal Heights) | over-budget | $11,000 | 2026-10-02
+- 49 Cortland Ave, 94110 (Bernal Heights) | over-budget | $8,250 | 2026-10-02
+- 17 Kronquist Court, 94114 (Noe Valley) | over-budget | $8,500 | 2026-10-02
+- 2031 Castro St, 94114 (Castro/Noe border) | over-budget | $6,995 | 2026-10-02
+- Unnamed Victorian flat, Castro/Upper Market | over-budget, no address recoverable | $9,000 | 2026-10-02
+- 339 Texas St, 94107 (Potrero Hill) | over-budget | $9,995 | 2026-10-02
+- Delphine on Diamond, 5285 Diamond Heights Blvd, 94131 | over-budget | $5,345 | 2026-10-02
+- 41 Dellbrook Ave, 94131 (West of Twin Peaks) | over-budget | $7,850 | 2026-10-02
+- 518 Staples Ave, 94112 (Westwood Park) | over-budget — matches rotation.md's Progressive PM listing | $7,500 | 2026-10-02
+- 1 Marview Way, 94131 (West of Twin Peaks) | over-budget + wrong bed count (4BR) | $14,000 | 2026-10-02
+- 1035 Noe St, 94114 (Noe Valley) | over-budget + short-term-adjacent — furnished, 1-12 month flexible terms | $5,500 | 2026-10-02
+- "Spacious & Sunny 3 bed/2b modern Flat," Mission District | over-budget + presumed short-term/vacation-rental — listed on trip.com/Expedia/Travelocity hotel-booking sites | $4,500 | 2026-10-02
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -204,3 +220,9 @@
 - 10 Quickstep Ln #4, 94115 (St. Francis Square Cooperative, Western Addition/Laurel Heights) | stale/not-a-live-rental — a stale Redfin snapshot quoted $3,800/3bd/2ba, but the unit is not currently listed for sale or rent (last transacted 2014 as a co-op share purchase); this is an owner-occupied cooperative requiring share purchase + board approval, not an open-market rental — low priority, watch only if a current listing with an active asking rent surfaces | $3,800 (stale, inactive) | 2026-09-28
 - 1780 23rd Ave #1, 94122 (Outer Sunset/Parkside) | corroboration FAILED — only HotPads carries this $4,200/3bd listing, no 2nd independent platform found despite repeated searches; hijack check PASS; price borderline (~26% below Outer Sunset 3BR avg $5,676, right at the 25% threshold) — needs a 2nd source before it can be evaluated further | $4,200 (single-source) | 2026-10-01
 - 3163 Mission St, 94110 (Mission) | likely search-summary misattribution — a "$3,800 3bd/1.5ba" figure surfaced, but this address sits immediately adjacent to the already-rejected 3165 Mission St #302 ($4,495-$5,995, price-conflicted); could not corroborate on a 2nd platform across several attempts, matches the same misattribution pattern as 3386 Market St/1249 Kearny St/2936 Cesar Chavez St | $3,800 (unconfirmed, likely misattributed) | 2026-10-01
+- 671 & 673 7th Avenue, 94118 (Inner Richmond, Belong Home) | insufficient-data — 3bd/2ba triplex, in-unit laundry, looks legitimate (same verified Belong Home firm as the new 421 Nevada St find) but no monthly rent figure recoverable despite repeated searches (only deposit/fee figures surfaced) | unknown | 2026-10-02
+- 661 Ashbury St, 94117 (Haight-Ashbury) | insufficient-data — 3bd/1ba, utilities included, no price recoverable; neighborhood average cited ($8,074) suggests likely over-budget but unconfirmed | unknown | 2026-10-02
+- 2590 3rd St, 94107 (Dogpatch) | insufficient-data/price-conflicted — one source shows "Unit D" 3bd at $2,995-$3,195, another shows "apartments start at $3,950"; corroboration fails (single-source for either figure); if the low figure is real it would be >25% below plausible Dogpatch 3BR comps with no stated reason | $2,995-$3,950 (unresolved) | 2026-10-02
+- 2010A Lombard St, 94123 (Marina) | insufficient-data — only found framed as "58% less than Marina 3BR average ($9,500 median)," no actual dollar figure recoverable | unknown (implied below-market) | 2026-10-02
+- 1240 Sanchez Street, 94114 (Noe Valley) | insufficient-data — 3BR, hardwood, laundry, private deck, no price recoverable | unknown | 2026-10-02
+- Unnamed Inner Sunset "new building 3BR/2BA, in-unit W/D, steps from Golden Gate Park" | insufficient-data — no address or price recoverable | unknown | 2026-10-02
