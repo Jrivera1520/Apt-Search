@@ -226,3 +226,46 @@
 - 2010A Lombard St, 94123 (Marina) | insufficient-data — only found framed as "58% less than Marina 3BR average ($9,500 median)," no actual dollar figure recoverable | unknown (implied below-market) | 2026-10-02
 - 1240 Sanchez Street, 94114 (Noe Valley) | insufficient-data — 3BR, hardwood, laundry, private deck, no price recoverable | unknown | 2026-10-02
 - Unnamed Inner Sunset "new building 3BR/2BA, in-unit W/D, steps from Golden Gate Park" | insufficient-data — no address or price recoverable | unknown | 2026-10-02
+- 778 & 780 30th Ave, Central Richmond, 94121 | over-budget (twin listings, same agent) | $4,790 each | 2026-10-03
+- 2643 42nd Ave, Outer Sunset | over-budget | $4,645 | 2026-10-03
+- 1254 25th Ave, Sunset | over-budget | $4,650 | 2026-10-03
+- 1367 38th Ave, Outer Sunset | wrong-bed-count (4BR not 3BR) + over-budget | $4,295 | 2026-10-03
+- 901 Rivera St, Central Sunset | over-budget | $4,500 | 2026-10-03
+- 2358 14th Ave, West Portal | over-budget | $7,250 | 2026-10-03
+- 185 Eucalyptus Dr, West Portal | over-budget | $6,400 | 2026-10-03
+- 174 Granville Way, West Portal/Laguna Honda | wrong-bed-count (4BR) + over-budget | $6,895 | 2026-10-03
+- 512 Arballo Dr (Arballo Collection), Stonestown, 94132 | over-budget | $6,889-$7,539 | 2026-10-03
+- 3050 25th Ave, Lakeshore | over-budget | $7,500 | 2026-10-03
+- 329 Grafton Ave, Lakeshore/Ingleside, 94112 | over-budget | $5,500 | 2026-10-03
+- 178 Montana St, Lakeshore | over-budget | $5,150-$5,495 | 2026-10-03
+- 126 Shields St, Merced Heights | over-budget | $5,000 | 2026-10-03
+- 279 Ramsell St, Merced Heights | over-budget | $5,495 | 2026-10-03
+- 3301 Mission St #301, Mission | over-budget | $5,800 | 2026-10-03
+- 540 Griffith St, Hunters Point/Bayview, 94124 | over-budget | $6,500 | 2026-10-03
+- 1670 Kirkwood Ave Unit B, Bayview | over-budget | $4,395 | 2026-10-03
+- 351 Winding Way, Crocker Amazon/Excelsior, 94112 | over-budget | $4,500 | 2026-10-03
+- 352 Stoneridge Lane | over-budget | $4,995 | 2026-10-03
+- 767 Portola Street, 94129 (Presidio, not Portola neighborhood) | over-budget | $7,850 | 2026-10-03
+- 651 University St, Portola | over-budget | $5,995 | 2026-10-03
+- 1301 Indiana St Unit 405, Dogpatch | over-budget | $5,800 | 2026-10-03
+- 696 De Haro St #1611, Dogpatch | over-budget | $7,040 | 2026-10-03
+- 1021 Lincoln Way, Inner Sunset | over-budget | $4,800 | 2026-10-03
+- 862 Pacheco St, Golden Gate Heights | over-budget + short-term-flavored (lease only through 3/1/27) | $11,999 | 2026-10-03
+- 2430 33rd Ave, Parkside | over-budget | $4,600 | 2026-10-03
+- 2186 12th Ave, Golden Gate Heights | over-budget | $7,050 | 2026-10-03
+- Unnamed Golden Gate Heights 3bd/2.5ba (no address recoverable) | over-budget | $7,995 | 2026-10-03
+- "Lone Mountain" 3BR near USF Law | wrong-bed-count (actually 2BR + bonus room per listing's own text) + over-budget | $4,495 | 2026-10-03
+- 18 Colonial Way, Mission Terrace, 94112 | over-budget | $4,690 | 2026-10-03
+- 1874 Donner Ave Unit B, Portola/Silver Terrace, 94134 | over-budget | $4,900 | 2026-10-03
+- Unnamed Silver Terrace SFH (no address recoverable) | over-budget | $5,700+ | 2026-10-03
+- 151 Friedell St Unit 103, Hunters Point Block 52/54, 94124 | out-of-scope — DAHLIA income-restricted affordable-housing unit, not an open-market rental | $1,674 (not comparable) | 2026-10-03
+- 646 Natoma St, 94103 (SOMA) | note update to the existing 2026-09-03 over-budget reject ($4,350-$4,450): a conflicting $3,395 single-source figure surfaced 2026-10-03 (aptsearch.northeastern.edu, no 2nd-platform corroboration) — discredited per the price-disagreement rule, NOT adopted; original over-budget verdict stands | $3,395 (discredited single-source) vs $4,350-$4,450 (governing) | 2026-10-03
+
+## Watch (added 2026-10-03)
+- "Point Lobos Ave & 45th Ave," Outer Richmond | insufficient-data — Zumper snippet implies ~$4,295 (20% below Outer Richmond 3BR avg, 10-25% tour-first band) but only a cross-street, no street number recoverable | ~$4,295 (unconfirmed address) | 2026-10-03
+- 1383-1383 24th Ave Unit 1381 (Abacus Property Mgmt) | insufficient-data — 3bd/1ba/950sqft confirmed present, only a $3,800 deposit figure surfaced, no monthly rent recoverable | unknown | 2026-10-03
+- 2792 35th Ave, Pine Lake Park/Stonestown | insufficient-data — 3bd/2ba remodeled home confirmed present (Geebo), no price recoverable | unknown | 2026-10-03
+- 2034 46th Ave, Outer Parkside | insufficient-data/bed-count-conflicted — one source says 3bd/2ba (open house scheduled), GoFiveStarPM's own Rentler syndication says 2bd/2ba; no price recoverable either way | unknown | 2026-10-03
+- 151 Russ St, SOMA | insufficient-data — 3bd/1ba, W/D in unit, 12-mo lease, no price recoverable | unknown | 2026-10-03
+- Windsor at Dogpatch, 2660 3rd St | insufficient-data — managed community, studio-3BR range quoted $4,017-$7,379, not unit-specific/dated; needs a direct 3BR floorplan price | unknown | 2026-10-03
+- The Martin Apartments, 2051 3rd St, Dogpatch | insufficient-data — has 3BR homes per Greystar, no price isolated | unknown | 2026-10-03
