@@ -127,6 +127,8 @@
 - 1 Marview Way, 94131 (West of Twin Peaks) | over-budget + wrong bed count (4BR) | $14,000 | 2026-10-02
 - 1035 Noe St, 94114 (Noe Valley) | over-budget + short-term-adjacent — furnished, 1-12 month flexible terms | $5,500 | 2026-10-02
 - "Spacious & Sunny 3 bed/2b modern Flat," Mission District | over-budget + presumed short-term/vacation-rental — listed on trip.com/Expedia/Travelocity hotel-booking sites | $4,500 | 2026-10-02
+- 5800 3rd St #1119 / #1418, 94124 (Hunters Point/Bayview) | over-budget | $4,725-$5,200 | 2026-10-05
+- 1447 Lombard St, 94109 (Russian Hill/Union St, "Leading Properties") | below-market, no stated reason + stale — $3,700 is ~42% below the SF 3BR average per the listing's own framing, exceeds the 25%-below exclusion threshold with no explanation; listing itself flagged "updated over a month ago" (stale); no source link/corroborating platform ever found despite repeated searches across multiple runs (first flagged as an uncorroborated claim 10-01 via rotation.md's Leading SF row) — upgrading from "discarded, not adopted" to a firm reject | $3,700 | 2026-10-05
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -278,6 +280,7 @@
 
 ## Watch (added 2026-10-04)
 - "Spacious 3 Bed 2 Bath in Prime Ingleside Location near Ocean Ave" (offcampushousing.usfca.edu/l0cqrdd) | insufficient-data, PROMISING if resolved — $4,200 plus fees, in-unit W/D, hardwood floors, steps to Ocean Ave — a direct WebFetch attempt on the listing page was EGRESS_BLOCKED, and repeated follow-up searches could not recover a street address; cannot run the hijack check or confirm SF city limits without one — watch for a fuller listing with an address | $4,200 (unconfirmed address) | 2026-10-04
+- 936 Hollister Ave, 94124 (Bayview) | insufficient-data/below-market flag — a search snippet characterized this unit as "~28% below the SF-wide 3BR median" but no actual dollar price was recoverable; if a figure surfaces, apply the below-market threshold against the Bayview-specific median (not SF-wide) before evaluating | unknown (no price recovered) | 2026-10-05
 - "Outer Richmond Spacious 3BR/2BA Flat" (offcampushousing.usfca.edu/qrpzqew) | insufficient-data — $4,100 plus fees, 1,250 sqft, recently renovated, hardwood floors, shared laundry, tandem garage parking near Golden Gate Park — no street address recoverable via repeated searches | $4,100 (unconfirmed address) | 2026-10-04
 - 186 Ripley St, Bernal Heights (Geebo) | insufficient-data — 3bd/1ba, recently renovated, contemporary finishes — no rent price recoverable despite repeated searches | unknown | 2026-10-04
 - 1601 Treat Ave, Bernal Heights/Mission border (USFCA off-campus housing) | insufficient-data — described as a charming 3BR, but no clear 3BR price recoverable (only an adjacent 1BR $5,600 figure surfaced in the same snippet) | unknown | 2026-10-04
