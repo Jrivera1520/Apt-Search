@@ -129,6 +129,9 @@
 - "Spacious & Sunny 3 bed/2b modern Flat," Mission District | over-budget + presumed short-term/vacation-rental — listed on trip.com/Expedia/Travelocity hotel-booking sites | $4,500 | 2026-10-02
 - 5800 3rd St #1119 / #1418, 94124 (Hunters Point/Bayview) | over-budget | $4,725-$5,200 | 2026-10-05
 - 1447 Lombard St, 94109 (Russian Hill/Union St, "Leading Properties") | below-market, no stated reason + stale — $3,700 is ~42% below the SF 3BR average per the listing's own framing, exceeds the 25%-below exclusion threshold with no explanation; listing itself flagged "updated over a month ago" (stale); no source link/corroborating platform ever found despite repeated searches across multiple runs (first flagged as an uncorroborated claim 10-01 via rotation.md's Leading SF row) — upgrading from "discarded, not adopted" to a firm reject | $3,700 | 2026-10-05
+- 103 Stoneridge Ln, Crocker Amazon, 94112 | over-budget — adjacent/possibly-same street as the already-rejected 352 Stoneridge Lane ($4,995, 10-03), different unit number and price, logged separately | $4,900+fees | 2026-10-06
+- 5032 Anza St, 94121 (Outer Richmond) | over-budget | $5,500 | 2026-10-06
+- 8100 Oceanview Ter #104, 94112 (Oceanview) | over-budget | $4,995 | 2026-10-06
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
