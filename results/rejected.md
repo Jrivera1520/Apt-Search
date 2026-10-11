@@ -282,6 +282,7 @@
 - 1506 Leavenworth St, 94109 (Nob Hill) | below-market, no stated reason that can be externally verified — $4,099 is ~53% below Zumper's quoted Nob Hill 3BR average, far exceeding the 25%-below exclusion threshold; listing's own "rent-controlled" framing is a self-reported claim, not an externally verifiable fact (a listing's statements about itself are never a legitimacy positive per CLAUDE.md), and SF's vacancy-decontrol rules mean a fresh tenancy would not typically be priced this far below market on rent-control grounds alone; 2-platform corroborated (Zumper + Rentable) and manager "Progressive Property Group, Inc." named but unverified as managing this specific building — price-sanity fails outright regardless of corroboration | $4,099 | 2026-10-08
 - 790 Church St, 94114 (Glen Park) | over-budget | $4,325 | 2026-10-09
 - 363 6th St, 94103 (SOMA) | over-budget | $4,595 | 2026-10-10
+- 542 Vienna St, 94112 (Excelsior) | over-budget — price disagreement across sources ($4,600 Rentler/Zumper vs $5,400 ApartmentList) but even the low figure exceeds the ceiling | $4,600-$5,400 | 2026-10-11
 
 ## Watch (added 2026-10-03)
 - "Point Lobos Ave & 45th Ave," Outer Richmond | insufficient-data — Zumper snippet implies ~$4,295 (20% below Outer Richmond 3BR avg, 10-25% tour-first band) but only a cross-street, no street number recoverable | ~$4,295 (unconfirmed address) | 2026-10-03
@@ -312,3 +313,8 @@
 - 810 45th Ave & 722 34th Ave, 94121 (Outer Richmond) | not-a-live-rental — both for-sale only (MLS/Trulia/Elliman), no rental listing found at either address; logged so a future aggregator snippet isn't mistaken for a new find | n/a | 2026-10-10
 - 35 Guttenberg St, 94112 (Crocker Amazon) | not-a-live-rental — for-sale only ($949,000 MLS), no rental listing found | n/a | 2026-10-10
 - 190 8th St, 94103 (SOMA) | insufficient-data — address page exists but no unit-level price/bed count recoverable | unknown | 2026-10-10
+
+## Watch (added 2026-10-11)
+- "Three-bedroom house in Visitacion Valley" (aptsearch.northeastern.edu) | insufficient-data — 3bd/1ba, ~1,200 sqft, $3,600 plus fees, available now; no street address recoverable despite repeated searches | $3,600 plus fees (unconfirmed address) | 2026-10-11
+- 360 Chester Ave, Ingleside Heights (offcampushousing.usfca.edu) | insufficient-data/possible address error — 3bd/1ba, $3,300 plus fees; Redfin's own Chester Ave street directory lists 88 addresses on the street and 360 is NOT among them (364, 368, 359 are) — the house number may be misreported by the aggregator; no 2nd source, no contact found; do not adopt until a correct, independently-findable address surfaces | $3,300 plus fees (unconfirmed address) | 2026-10-11
+- "Spacious 3BR/2BA" near Homestead St & 24th St, Noe Valley (USF off-campus housing) | insufficient-data — in-unit laundry, shared backyard mentioned; no rent price recoverable despite repeated searches | unknown | 2026-10-11
