@@ -283,6 +283,7 @@
 - 790 Church St, 94114 (Glen Park) | over-budget | $4,325 | 2026-10-09
 - 363 6th St, 94103 (SOMA) | over-budget | $4,595 | 2026-10-10
 - 542 Vienna St, 94112 (Excelsior) | over-budget — price disagreement across sources ($4,600 Rentler/Zumper vs $5,400 ApartmentList) but even the low figure exceeds the ceiling | $4,600-$5,400 | 2026-10-11
+- 668 Capp St, 94110 (Mission) | over-budget | $4,795 | 2026-10-12
 
 ## Watch (added 2026-10-03)
 - "Point Lobos Ave & 45th Ave," Outer Richmond | insufficient-data — Zumper snippet implies ~$4,295 (20% below Outer Richmond 3BR avg, 10-25% tour-first band) but only a cross-street, no street number recoverable | ~$4,295 (unconfirmed address) | 2026-10-03
@@ -313,6 +314,10 @@
 - 810 45th Ave & 722 34th Ave, 94121 (Outer Richmond) | not-a-live-rental — both for-sale only (MLS/Trulia/Elliman), no rental listing found at either address; logged so a future aggregator snippet isn't mistaken for a new find | n/a | 2026-10-10
 - 35 Guttenberg St, 94112 (Crocker Amazon) | not-a-live-rental — for-sale only ($949,000 MLS), no rental listing found | n/a | 2026-10-10
 - 190 8th St, 94103 (SOMA) | insufficient-data — address page exists but no unit-level price/bed count recoverable | unknown | 2026-10-10
+
+## Watch (added 2026-10-12)
+- 159 Wool St, 94110 (Bernal Heights) | insufficient-data — address confirmed to exist on Redfin's street directory but no rent price, bed count, or listing recoverable despite repeated searches | unknown | 2026-10-12
+- 29 Auburn St, 94133 (Nob Hill/Chinatown border) | insufficient-data — address confirmed to exist on Redfin's street directory (quoted $4,200/3bd/1ba in an aggregated search snippet) but no distinct listing page or corroborating source recoverable | $4,200 (unconfirmed) | 2026-10-12
 
 ## Watch (added 2026-10-11)
 - "Three-bedroom house in Visitacion Valley" (aptsearch.northeastern.edu) | insufficient-data — 3bd/1ba, ~1,200 sqft, $3,600 plus fees, available now; no street address recoverable despite repeated searches | $3,600 plus fees (unconfirmed address) | 2026-10-11
