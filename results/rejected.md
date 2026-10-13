@@ -284,6 +284,11 @@
 - 363 6th St, 94103 (SOMA) | over-budget | $4,595 | 2026-10-10
 - 542 Vienna St, 94112 (Excelsior) | over-budget — price disagreement across sources ($4,600 Rentler/Zumper vs $5,400 ApartmentList) but even the low figure exceeds the ceiling | $4,600-$5,400 | 2026-10-11
 - 668 Capp St, 94110 (Mission) | over-budget | $4,795 | 2026-10-12
+- 147 Forest View Drive, Lakeshore | over-budget | $4,995 | 2026-10-13
+- 333 18th Ave, Central Richmond | over-budget | $4,950 plus fees | 2026-10-13
+- 479 24th Ave #3, Central Richmond | over-budget | $6,900 | 2026-10-13
+- "Curtis St," Crocker Amazon (furnished SFH) | over-budget + bed-count ambiguous (described as 2bd + bonus room, not a confirmed 3bd) | $4,995 | 2026-10-13
+- 1240 Sanchez Street, Noe Valley | over-budget — resolves the 2026-10-02 watch entry ("insufficient-data, no price recoverable"); now priced | $7,495 | 2026-10-13
 
 ## Watch (added 2026-10-03)
 - "Point Lobos Ave & 45th Ave," Outer Richmond | insufficient-data — Zumper snippet implies ~$4,295 (20% below Outer Richmond 3BR avg, 10-25% tour-first band) but only a cross-street, no street number recoverable | ~$4,295 (unconfirmed address) | 2026-10-03
@@ -323,3 +328,9 @@
 - "Three-bedroom house in Visitacion Valley" (aptsearch.northeastern.edu) | insufficient-data — 3bd/1ba, ~1,200 sqft, $3,600 plus fees, available now; no street address recoverable despite repeated searches | $3,600 plus fees (unconfirmed address) | 2026-10-11
 - 360 Chester Ave, Ingleside Heights (offcampushousing.usfca.edu) | insufficient-data/possible address error — 3bd/1ba, $3,300 plus fees; Redfin's own Chester Ave street directory lists 88 addresses on the street and 360 is NOT among them (364, 368, 359 are) — the house number may be misreported by the aggregator; no 2nd source, no contact found; do not adopt until a correct, independently-findable address surfaces | $3,300 plus fees (unconfirmed address) | 2026-10-11
 - "Spacious 3BR/2BA" near Homestead St & 24th St, Noe Valley (USF off-campus housing) | insufficient-data — in-unit laundry, shared backyard mentioned; no rent price recoverable despite repeated searches | unknown | 2026-10-11
+
+## Watch (added 2026-10-13)
+- 936 Hayes St (unit #29, cross-listed as 940 Hayes St), Hayes Valley | insufficient-data — 3bd/2ba, remodeled, in-unit laundry, small-pet-friendly, tenant pays all utilities; no rent price recoverable despite search | unknown | 2026-10-13
+- 512 Cole St Unit 512, Upper Haight | insufficient-data — "starts at $3,200/month" but bedroom count not clearly stated as 3BR (described only as a rear bedroom + two flexible rooms); bed-count unconfirmed | $3,200 (unconfirmed bed count) | 2026-10-13
+- 4065 24th St, Noe Valley | insufficient-data — 1906 Victorian triplex, 3bd, own washer/dryer + utility sink, small pets ok; no rent price recoverable | unknown | 2026-10-13
+- 4079 Cesar Chavez St, Noe Valley | insufficient-data — 3bd/2ba, 2-level, in-unit laundry, separate living room; no rent price recoverable | unknown | 2026-10-13
