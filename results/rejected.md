@@ -289,6 +289,9 @@
 - 479 24th Ave #3, Central Richmond | over-budget | $6,900 | 2026-10-13
 - "Curtis St," Crocker Amazon (furnished SFH) | over-budget + bed-count ambiguous (described as 2bd + bonus room, not a confirmed 3bd) | $4,995 | 2026-10-13
 - 1240 Sanchez Street, Noe Valley | over-budget — resolves the 2026-10-02 watch entry ("insufficient-data, no price recoverable"); now priced | $7,495 | 2026-10-13
+- 76 Los Palmos Dr, Miraloma Park, 94127 | over-budget | $4,950 | 2026-10-15
+- 730 Myra Way, Miraloma Park, 94127 | over-budget | $6,500 | 2026-10-15
+- 1430 Stockton St, North Beach/Chinatown border, 94133 | over-budget | $4,350 | 2026-10-15
 
 ## Watch (added 2026-10-03)
 - "Point Lobos Ave & 45th Ave," Outer Richmond | insufficient-data — Zumper snippet implies ~$4,295 (20% below Outer Richmond 3BR avg, 10-25% tour-first band) but only a cross-street, no street number recoverable | ~$4,295 (unconfirmed address) | 2026-10-03
@@ -337,3 +340,8 @@
 
 ## Watch (added 2026-10-14)
 - "Top-Floor 3BR with Renovated Kitchen Across from Golden Gate Park," Inner Richmond (KeyOpp, syndicated to USF/Northeastern off-campus housing portals, contact "KeyOpp Team / Austin") | over-budget + address-less — $4,495+fees, ~1,170 sqft, available now; confirms KeyOpp has live 3BR inventory, but exceeds the $4,300 ceiling and no street address recoverable despite search, so not actionable even if it dropped in price without an address | $4,495+fees | 2026-10-14
+
+## Watch (added 2026-10-15)
+- 724 Teresita Blvd, Miraloma Park, 94127 | insufficient-data — 3bd/2ba house confirmed to exist (Redfin street directory, USF off-campus housing listing) but no rent price recoverable despite repeated searches; same area as the rejected 76 Los Palmos Dr and watch-listed 108 Marietta Dr (Miraloma Park 3BRs in this ledger run $3,255-$6,500) | unknown | 2026-10-15
+- 1895 Page St, Panhandle/NOPA, 94117 | insufficient-data — 3bd/1ba confirmed via USF off-campus housing (income requirement >2x rent, security deposit = 1 month's rent, pre-leasing), no monthly rent figure recoverable; a sibling listing at 1881 Page St (4BR, wrong bed count) reuses similar text | unknown | 2026-10-15
+- 425 Hyde St | likely search-summary misattribution — a RentCafe snippet quoted "$3,150 3bd" at this address, but every other source (Crexi sale listing, PadMapper, HotPads) shows this building as studio/1BR/2BR-only, with 2BR at $3,500; same pattern as 3386 Market St/1249 Kearny St — not a real 3BR | $3,150 (unconfirmed, likely misattributed) | 2026-10-15
