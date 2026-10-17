@@ -140,6 +140,11 @@
 - 103 Stoneridge Ln, Crocker Amazon, 94112 | over-budget — adjacent/possibly-same street as the already-rejected 352 Stoneridge Lane ($4,995, 10-03), different unit number and price, logged separately | $4,900+fees | 2026-10-06
 - 5032 Anza St, 94121 (Outer Richmond) | over-budget | $5,500 | 2026-10-06
 - 8100 Oceanview Ter #104, 94112 (Oceanview) | over-budget | $4,995 | 2026-10-06
+- 4303 24th St, Noe Valley | over-budget | $5,950 | 2026-10-17
+- 642 Mississippi St, Potrero Hill | over-budget | $12,850 | 2026-10-17
+- 2290 3rd St, Potrero Hill/Dogpatch border | over-budget | $6,000 | 2026-10-17
+- 857 Lombard St, Russian Hill (diggz.co) | over-budget | $4,895 | 2026-10-17
+- 2707 23rd St #3, Mission (cross-listed Potrero Hill) | over-budget | $12,500 | 2026-10-17
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -345,3 +350,7 @@
 - 724 Teresita Blvd, Miraloma Park, 94127 | insufficient-data — 3bd/2ba house confirmed to exist (Redfin street directory, USF off-campus housing listing) but no rent price recoverable despite repeated searches; same area as the rejected 76 Los Palmos Dr and watch-listed 108 Marietta Dr (Miraloma Park 3BRs in this ledger run $3,255-$6,500) | unknown | 2026-10-15
 - 1895 Page St, Panhandle/NOPA, 94117 | insufficient-data — 3bd/1ba confirmed via USF off-campus housing (income requirement >2x rent, security deposit = 1 month's rent, pre-leasing), no monthly rent figure recoverable; a sibling listing at 1881 Page St (4BR, wrong bed count) reuses similar text | unknown | 2026-10-15
 - 425 Hyde St | likely search-summary misattribution — a RentCafe snippet quoted "$3,150 3bd" at this address, but every other source (Crexi sale listing, PadMapper, HotPads) shows this building as studio/1BR/2BR-only, with 2BR at $3,500; same pattern as 3386 Market St/1249 Kearny St — not a real 3BR | $3,150 (unconfirmed, likely misattributed) | 2026-10-15
+
+## Watch (added 2026-10-17)
+- 169 Putnam St, Bernal Heights, 94110 (Geebo, "remodeled mid-century modern 3bd/2ba home") | insufficient-data — no rent price recoverable despite repeated search; not the same address as the already-rejected 256 Putnam St ($5,400) | unknown | 2026-10-17
+- 656 Missouri St, Potrero Hill, 94107 (Zumper, pet-friendly, dishwasher, rooftop deck, gas fireplace) | insufficient-data — no price recoverable; Potrero Hill 3BR comps this run ran $6,000-$12,850, likely over budget even if a price surfaces | unknown | 2026-10-17
