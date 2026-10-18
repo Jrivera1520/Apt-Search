@@ -145,6 +145,8 @@
 - 2290 3rd St, Potrero Hill/Dogpatch border | over-budget | $6,000 | 2026-10-17
 - 857 Lombard St, Russian Hill (diggz.co) | over-budget | $4,895 | 2026-10-17
 - 2707 23rd St #3, Mission (cross-listed Potrero Hill) | over-budget | $12,500 | 2026-10-17
+- 226 10th Ave, Inner Richmond | over-budget | $4,400 | 2026-10-18
+- 445 Scott St #3, Lower Haight | over-budget | $7,400 | 2026-10-18
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
