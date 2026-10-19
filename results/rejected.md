@@ -147,6 +147,16 @@
 - 2707 23rd St #3, Mission (cross-listed Potrero Hill) | over-budget | $12,500 | 2026-10-17
 - 226 10th Ave, Inner Richmond | over-budget | $4,400 | 2026-10-18
 - 445 Scott St #3, Lower Haight | over-budget | $7,400 | 2026-10-18
+- 2518 46th Ave, 94116 (Outer Sunset) | over-budget | $5,700 | 2026-10-19
+- 1064 Carolina St, Potrero Hill | over-budget | $6,900 | 2026-10-19
+- 1575 Oak St, Haight-Ashbury | over-budget | $6,500 | 2026-10-19
+- 2935 16th St, Mission | over-budget | $4,497 | 2026-10-19
+- 1 Gaviota Way, Miraloma Park | over-budget | $5,900 | 2026-10-19
+- 601 Van Ness Ave #69 (Opera Plaza), AMSI listing | over-budget + internally inconsistent (headline says "2BR+office," body text says 3bd/2ba — flag if revisited) | $6,500 | 2026-10-19
+- Unnamed Potrero Hill 3bd/2.5ba ~2,000sqft (no address recoverable) | over-budget | $7,450 | 2026-10-19
+- Unnamed Inner Richmond 3BR + in-law combo unit (no address recoverable) | over-budget | $4,800 | 2026-10-19
+- 108 Marietta Dr, 94127 (Miraloma Park) | RESOLVED from 10-07 watch — below-market, no stated reason: $3,255 is ~45-50% below today's Miraloma Park 3BR comps ($5,900-$6,500), exceeding the 25%-below exclusion threshold; listing also shows "Date available: Not Available" (likely stale) and the unusual $6,255 move-in-fee caution remains unresolved | $3,255 | 2026-10-19
+- 656 Missouri St, Potrero Hill, 94107 | RESOLVED from 10-17 watch — price surfaced at $6,740+fees (Zumper), over the $4,300 ceiling | $6,740+fees | 2026-10-19
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -355,4 +365,3 @@
 
 ## Watch (added 2026-10-17)
 - 169 Putnam St, Bernal Heights, 94110 (Geebo, "remodeled mid-century modern 3bd/2ba home") | insufficient-data — no rent price recoverable despite repeated search; not the same address as the already-rejected 256 Putnam St ($5,400) | unknown | 2026-10-17
-- 656 Missouri St, Potrero Hill, 94107 (Zumper, pet-friendly, dishwasher, rooftop deck, gas fireplace) | insufficient-data — no price recoverable; Potrero Hill 3BR comps this run ran $6,000-$12,850, likely over budget even if a price surfaces | unknown | 2026-10-17
