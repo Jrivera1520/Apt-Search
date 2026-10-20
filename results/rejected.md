@@ -261,6 +261,8 @@
 - 1254 25th Ave, Sunset | over-budget | $4,650 | 2026-10-03
 - 1367 38th Ave, Outer Sunset | wrong-bed-count (4BR not 3BR) + over-budget | $4,295 | 2026-10-03
 - 901 Rivera St, Central Sunset | over-budget | $4,500 | 2026-10-03
+- 1339 23rd Ave, Sunset | over-budget | $5,200 | 2026-10-20
+- 15 Garfield St, Ingleside Heights | over-budget + wrong-bed-count (4BR not 3BR) | $4,800 | 2026-10-20
 - 2358 14th Ave, West Portal | over-budget | $7,250 | 2026-10-03
 - 185 Eucalyptus Dr, West Portal | over-budget | $6,400 | 2026-10-03
 - 174 Granville Way, West Portal/Laguna Honda | wrong-bed-count (4BR) + over-budget | $6,895 | 2026-10-03
