@@ -367,3 +367,10 @@
 
 ## Watch (added 2026-10-17)
 - 169 Putnam St, Bernal Heights, 94110 (Geebo, "remodeled mid-century modern 3bd/2ba home") | insufficient-data — no rent price recoverable despite repeated search; not the same address as the already-rejected 256 Putnam St ($5,400) | unknown | 2026-10-17
+
+## Rejected (added 2026-10-21)
+- 40 Valdez Ave, St. Francis Wood, 94127 | over-budget | $4,950 | 2026-10-21
+- 133 Granville Way, St. Francis Wood, 94127 | over-budget (different unit/street number from the already-rejected 174 Granville Way) | $7,500 | 2026-10-21
+- 141 Juanita Way, St. Francis Wood, 94127 | over-budget | $6,100 | 2026-10-21
+- 491 Madrid St, Sunnyside, 94112 | wrong-bed-count (4BR not 3BR) + over-budget | $7,200 | 2026-10-21
+- 3051 San Bruno Ave #201, 94134 (Portola) | over-budget | $4,900 | 2026-10-21
