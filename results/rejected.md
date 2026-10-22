@@ -374,3 +374,11 @@
 - 141 Juanita Way, St. Francis Wood, 94127 | over-budget | $6,100 | 2026-10-21
 - 491 Madrid St, Sunnyside, 94112 | wrong-bed-count (4BR not 3BR) + over-budget | $7,200 | 2026-10-21
 - 3051 San Bruno Ave #201, 94134 (Portola) | over-budget | $4,900 | 2026-10-21
+
+## Rejected (added 2026-10-22)
+- 1685 Sutter St, 94115 (Lower Pacific Heights/Japantown edge) | over-budget | $5,000 | 2026-10-22
+- 1302 Divisadero St, 94115 (Western Addition) | over-budget | $8,000 | 2026-10-22
+- Vara Apartments, 1600 15th St, 94103 (Mission/SOMA border) | over-budget | $4,463 | 2026-10-22
+
+## Watch (added 2026-10-22)
+- "Lombard Street & Buchanan Street," Marina, 94123 | insufficient-data/bed-count-ambiguous — $4,150, listing describes it as "a 2 bedroom with a dining room that can be used as 3rd bedroom" — not a confirmed 3BR; no street number recoverable either | $4,150 (unconfirmed bed count) | 2026-10-22
