@@ -382,3 +382,9 @@
 
 ## Watch (added 2026-10-22)
 - "Lombard Street & Buchanan Street," Marina, 94123 | insufficient-data/bed-count-ambiguous — $4,150, listing describes it as "a 2 bedroom with a dining room that can be used as 3rd bedroom" — not a confirmed 3BR; no street number recoverable either | $4,150 (unconfirmed bed count) | 2026-10-22
+
+## Rejected (added 2026-10-23)
+- 2400 39th Ave #5, Parkside, 94116 (Better Invested Property Mgmt) | likely bed-count misattribution — one aggregated snippet implied a 3BR at $3,850, but the actual unit (confirmed via PadMapper/HotPads) is a 2bd/1ba, ~800 sqft at $3,850; same building's #4 is a 1bd/1ba $3,150 — no 3BR unit found at this address; same pattern as 2547 38th Ave/418 Athens St | $3,850 (unconfirmed, likely misattributed) | 2026-10-23
+
+## Watch (added 2026-10-23)
+- 901 Holyoke Street, Portola/Visitacion Valley area | insufficient-data/likely nonexistent address — surfaced via a Rentler listing at $4,900/3bd-2ba (stale, availability date 12/8/2024) but Redfin's own Holyoke St street directory (119 addresses, all 94134) does not include a "901" house number; the nearest real numbers run 400s-915+; likely an aggregator numbering error — do not adopt unless a correct, independently-findable address surfaces | $4,900 (unconfirmed address, likely stale/misnumbered) | 2026-10-23
