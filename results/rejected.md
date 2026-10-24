@@ -6,28 +6,11 @@
      Format: address-or-pattern | verdict | last-seen price | date -->
 
 ## Rejected
-- 4007 Folsom St, Bernal Heights | over-budget | $5,200–$5,400 | 2026-08-14
-- 4058 20th St, Eureka Valley | over-budget | $10,400–$13,975 | 2026-08-14
-- 1702 20th Ave, Sunset (G2/Golden Gate Properties) | over-budget | $7,950 | 2026-08-14
-- 1390 Revere Ave #TOP, Excelsior (Amsires) | over-budget | $4,650 | 2026-08-14
-- 301 Executive Park Blvd (Ashton SF) | over-budget | $4,625+ | 2026-08-14
-- J. Wavro 3BRs: Eureka Valley + Mission | over-budget | $9,000 / $12,000 | 2026-08-14
-- SF Bay Rental Co 3BRs: North Beach + Nob Hill | over-budget | $11,800+ | 2026-08-14
 - Bernal Heights "3-Bed 2.5-Bath Single Family Home for Short Term Rental" (CL) | short-term, STICKY | $2,500/WEEK | 2026-08-14
 - "Recycling and compost service..." CL posts, SOMA | settled verdict: templated reposts of 415 Tehama St ($4,195, already in seen.md) — never count as new; treat any further nonsense-title reposts at this price point as the same building | $4,195 | 2026-08-14
 - 2501 Judah St (Zumper) | not-whole-unit (furnished SRO room), STICKY | $1,350 | 2026-08-14
 - Richmond CA "Beautifully Updated 4 Bed/2 Bath" | out-of-city + 4BR, STICKY | — | 2026-08-14
-- 1566 Newcomb Ave, Bayview | over-ceiling (corroborated $4,290–$4,490; even low figure only fits if it drops) | $4,290–$4,490 | 2026-08-14
-- 24th Ave near Ocean Ave, Ingleside/SFSU (CL 3Xo9ut3fCAUnT3Fe6Ud3ca) | over-ceiling on effective cost: $4,000 + $120/person × 3 = $4,360 — reclassified 2026-08-15, was wrongly reported as an in-budget win on 08-14 | $4,360 effective | 2026-08-15
 - 3412 Market St, Clarendon Heights | presumed hijacked/scam, STICKY — the $4,000 CL post is ~55% below the property's real asking rent ($8,995 on Apartments.com, $7,952 Zestimate), classic hijacked-listing pattern; reclassified 2026-08-15 from active | $4,000 (fake) vs $8,995 (real) | 2026-08-15
-- 348 Hyde St, Unit 11, 94109 (BanCal Properties) | over-budget | $4,500 | 2026-08-16
-- 333 Oxford St, 94134 (Portola/McLaren Park) | over-budget | $4,980 | 2026-08-18
-- 55 Junior Terrace Dr, 94112 (Mission Terrace, via Relisto) | over-budget | $4,800 | 2026-08-19
-- 41 Dorado Terrace #41, 94112 (West of Twin Peaks) | over-budget | $4,320 | 2026-08-23
-- 1764 Quesada Ave, 94124 (Bayview) | over-budget | $4,400 | 2026-08-23
-- 1830 Alemany Blvd #501, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — specific unit only; building has a #301 unit at $4,150 in the negotiate band, see seen.md | $4,470 | 2026-08-23
-- 824 Brazil Ave, Excelsior (Amsires/AMSI, agent Gustavo Lopez) | over-budget | $4,995 | 2026-08-24
-- Gorgeous large top-level 3bd/2ba apartment, Westwood Park (CL) | over-budget | $4,400 | 2026-08-24
 - 129 Sagamore St #129, Ingleside | over-budget | $5,800 | 2026-08-25
 - 400 Wilde Ave, Visitacion Valley (CL) | over-budget | $4,500 | 2026-08-25
 - 1155 Vallejo St | over-budget | $5,960 | 2026-08-25
@@ -343,7 +326,7 @@
 - 190 8th St, 94103 (SOMA) | insufficient-data — address page exists but no unit-level price/bed count recoverable | unknown | 2026-10-10
 
 ## Watch (added 2026-10-12)
-- 159 Wool St, 94110 (Bernal Heights) | insufficient-data — address confirmed to exist on Redfin's street directory but no rent price, bed count, or listing recoverable despite repeated searches | unknown | 2026-10-12
+- 159 Wool St, 94110 (Bernal Heights) | insufficient-data — address confirmed to exist on Redfin's street directory but no rent price, bed count, or listing recoverable despite repeated searches; re-checked 10-24: an aggregator comparison snippet implied a $4,200/3bd-1ba figure for this address, but a dedicated follow-up search found no direct listing or source actually naming 159 Wool St at that price — not adopted, still insufficient-data | unknown | 2026-10-12
 - 29 Auburn St, 94133 (Nob Hill/Chinatown border) | insufficient-data — address confirmed to exist on Redfin's street directory (quoted $4,200/3bd/1ba in an aggregated search snippet) but no distinct listing page or corroborating source recoverable | $4,200 (unconfirmed) | 2026-10-12
 
 ## Watch (added 2026-10-11)
