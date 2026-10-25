@@ -11,9 +11,6 @@
 - 2501 Judah St (Zumper) | not-whole-unit (furnished SRO room), STICKY | $1,350 | 2026-08-14
 - Richmond CA "Beautifully Updated 4 Bed/2 Bath" | out-of-city + 4BR, STICKY | — | 2026-08-14
 - 3412 Market St, Clarendon Heights | presumed hijacked/scam, STICKY — the $4,000 CL post is ~55% below the property's real asking rent ($8,995 on Apartments.com, $7,952 Zestimate), classic hijacked-listing pattern; reclassified 2026-08-15 from active | $4,000 (fake) vs $8,995 (real) | 2026-08-15
-- 129 Sagamore St #129, Ingleside | over-budget | $5,800 | 2026-08-25
-- 400 Wilde Ave, Visitacion Valley (CL) | over-budget | $4,500 | 2026-08-25
-- 1155 Vallejo St | over-budget | $5,960 | 2026-08-25
 - 3436 19th St, 94110 (Mission) | over-budget | $5,995 | 2026-08-27
 - Parkmerced "Modern 3 Bedroom Apartment with En-Suite Bathrooms" (multiple unit-ID CL posts: FO507, SE3556J, SE35510K [seen again 09-18 quoting $4,195], etc.) | listing-farm pattern (identical title, different unit codes) + over-budget (complex avg 3BR $7,121; own-domain floor now $4,485+) + unexplained-below-market on the $4,195 quote, STICKY | ~$7,121 avg | 2026-08-27
 - "Outer Mission Gem: Inviting 3 BR," Ventana Residences, 99 Ocean Ave, Cayuga/Ingleside, 94112 | over-budget — own-domain PM (ventanaresidences.com, Ventana Property Services, real firm) + hijack-clear, but corroborated official 3BR pricing is $5,463/mo, well over ceiling; the unstated-price CL ad is presumed to reference a smaller/promo unit, not a genuine sub-$4,300 3BR | $5,463 | 2026-09-18
@@ -371,3 +368,6 @@
 
 ## Watch (added 2026-10-23)
 - 901 Holyoke Street, Portola/Visitacion Valley area | insufficient-data/likely nonexistent address — surfaced via a Rentler listing at $4,900/3bd-2ba (stale, availability date 12/8/2024) but Redfin's own Holyoke St street directory (119 addresses, all 94134) does not include a "901" house number; the nearest real numbers run 400s-915+; likely an aggregator numbering error — do not adopt unless a correct, independently-findable address surfaces | $4,900 (unconfirmed address, likely stale/misnumbered) | 2026-10-23
+
+## Watch (added 2026-10-25)
+- 4343 3rd St, 94124 (Bayview/Mission Bay border) | insufficient-data — a USF off-campus-housing/TurboTenant listing describes a "spacious, light-filled" 3-bedroom condo with 1 parking spot, income requirement 3.5x rent; no monthly rent figure recoverable from search snippets; note the building also has below-market affordable-ownership units (unrelated program, not comparable to open-market rent) — watch for a priced restatement | unknown | 2026-10-25
