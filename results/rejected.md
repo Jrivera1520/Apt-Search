@@ -203,6 +203,8 @@
 - The Presidio Residences, 222 Halleck St, 94129 | over-budget — same complex as 3 units already sticky-rejected ($4,450-$5,050); this unit starts $4,850 | $4,850 | 2026-09-21
 
 ## Watch (re-check price/status each run; promote if it enters range)
+- 167 Skyview Way, Midtown Terrace (near Twin Peaks) | insufficient-data — 3bd home with a bonus room/office and 2 full baths described in search snippets, but no rent price recoverable despite a dedicated search; boutique Twin Peaks-area location suggests likely over-budget but unconfirmed | unknown | 2026-10-26
+- 2801 Octavia St #3, Cow Hollow, 94123 | insufficient-data — top-floor, full-floor 3bd/2ba flat described as available now, but no rent price recoverable in search snippets | unknown | 2026-10-26
 - Visitacion Valley, 94134, 3bd/2ba top-floor unit | $4,100/mo, on-site coin laundry, agent phone (415) 513-3132 (Homes.com snippet) — no street address recoverable via search (homes.com direct-fetch blocked); 09-23: resurfaced with the same price/phone/laundry details but this time under a "Portola" neighborhood guess instead — likely the same listing, neighborhood uncertain either way; still no address, watch for a fuller listing next run | $4,100 | 2026-09-19
 - "Cozy 3BR Home in Noe Valley – Move-In Ready!" (Craigslist SF, title only) | no address, price, or details surfaced despite search; too thin to evaluate | unknown | 2026-09-19
 - SoMa Square, 1 Saint Francis Pl, 94107 (SOMA) | large managed complex (Apartments.com/Zillow/Redfin/Zumper), studio-3BR range quoted inconsistently ($3,858-$6,426 / $3,494-$3,994 / $3,912-$4,793+) but no 3BR-specific price isolated; likely-studio/1BR floors, watch for a pinned 3BR digit | unknown (range implies likely over-ceiling) | 2026-09-20
