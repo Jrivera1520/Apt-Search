@@ -137,6 +137,7 @@
 - Unnamed Inner Richmond 3BR + in-law combo unit (no address recoverable) | over-budget | $4,800 | 2026-10-19
 - 108 Marietta Dr, 94127 (Miraloma Park) | RESOLVED from 10-07 watch — below-market, no stated reason: $3,255 is ~45-50% below today's Miraloma Park 3BR comps ($5,900-$6,500), exceeding the 25%-below exclusion threshold; listing also shows "Date available: Not Available" (likely stale) and the unusual $6,255 move-in-fee caution remains unresolved | $3,255 | 2026-10-19
 - 656 Missouri St, Potrero Hill, 94107 | RESOLVED from 10-17 watch — price surfaced at $6,740+fees (Zumper), over the $4,300 ceiling | $6,740+fees | 2026-10-19
+- 480 Castro St #488, Castro | over-budget — a search snippet quoted $4,295, but the actual corroborated listing (Redfin, Unit 488, 3bd/1.5ba) is $4,995/mo; the $4,295 figure was a misattribution, not adopted | $4,995 (corroborated) vs $4,295 (misattributed) | 2026-10-28
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -261,6 +262,10 @@
 - 352 Stoneridge Lane | over-budget | $4,995 | 2026-10-03
 - 767 Portola Street, 94129 (Presidio, not Portola neighborhood) | over-budget | $7,850 | 2026-10-03
 - 651 University St, Portola | over-budget | $5,995 | 2026-10-03
+
+## Watch (re-check price/status each run; promote if it enters range)
+- 200 Willard St N, Lone Mountain | insufficient-data/likely-stale — a Time Out "best affordable" roundup quoted $3,960, but the article's year is not shown and comparable Lone Mountain 3BRs run $4,495-$5,299 per other sources; too likely stale to adopt without a dated corroborating source | $3,960 (unconfirmed, likely stale) | 2026-10-28
+- Unaddressed Haight-Ashbury 3bd/2ba, PadMapper snippet | insufficient-data — no street address recoverable despite a follow-up search | $3,690 (unconfirmed, no address) | 2026-10-28
 - 1301 Indiana St Unit 405, Dogpatch | over-budget | $5,800 | 2026-10-03
 - 696 De Haro St #1611, Dogpatch | over-budget | $7,040 | 2026-10-03
 - 1021 Lincoln Way, Inner Sunset | over-budget | $4,800 | 2026-10-03
