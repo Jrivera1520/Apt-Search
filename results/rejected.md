@@ -381,3 +381,13 @@
 
 ## Watch (added 2026-10-27)
 - 29 Auburn St, 94133 (Nob Hill/Chinatown border) | insufficient-data, carried over from 2026-10-12 watch — address confirmed to exist (Redfin street directory, 16 addresses on Auburn St) but still no rent listing, price, or contact recoverable despite a dedicated re-search this run; nearby addresses on the same street are for-sale TIC condos (45/47/49A Auburn, $568K-$598K), not comparable | $4,200 (unconfirmed, carried from a prior aggregated snippet) | 2026-10-27
+
+## Rejected (added 2026-10-29)
+- 23 Boardman Pl, 94103 (SOMA) | below-market, no stated reason — $3,800-$3,955 (Zillow/Apartments.com, Unit BP23B / Unit F) is ~42-48% below the SOMA 3BR median (~$6,816-$7,495 per prior corroborated SOMA comps in this ledger), exceeding the 25%-below exclusion threshold with no stated reason; building also carries a studio at $1,500 and a ground-floor commercial space, an unusual mix; no named landlord/PM found | $3,800-$3,955 | 2026-10-29
+- 1538 Howard St, 94103 (SOMA) | below-market, no stated reason + stale — $3,500/3bd/1ba (Apartments.com) is ~37-38% below the SOMA 3BR average (~$5,549-$5,670), exceeding the 25%-below threshold with no stated reason; listing also shows "Check Back Soon for Upcoming Availability," no current availability confirmed | $3,500 | 2026-10-29
+- 1100 Gough St (Carillon Tower), 94109 (Cathedral Hill/Lower Pacific Heights) | over-budget | $4,495-$4,500 | 2026-10-29
+- 425 39th Avenue, 94121 (Outer Richmond) | over-budget | $4,950 | 2026-10-29
+- 2401 32nd Ave, 94116 (Parkside) | over-budget | $6,700 | 2026-10-29
+
+## Watch (added 2026-10-29)
+- 135 Valencia St, 94103 (SOMA/Mid-Market) | insufficient-data/bed-count-ambiguous — a large multi-unit building with wildly conflicting reports (Unit A407 $5,795/3bd-1.5ba over ceiling; Unit 102A $3,600 with no bed count stated; Unit A401 confirmed 2bd+loft, not 3bd); no clean, corroborated 3BR under the $4,300 ceiling found this pass | $3,600 (unconfirmed bed count) | 2026-10-29
