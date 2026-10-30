@@ -11,7 +11,6 @@
 - 2501 Judah St (Zumper) | not-whole-unit (furnished SRO room), STICKY | $1,350 | 2026-08-14
 - Richmond CA "Beautifully Updated 4 Bed/2 Bath" | out-of-city + 4BR, STICKY | — | 2026-08-14
 - 3412 Market St, Clarendon Heights | presumed hijacked/scam, STICKY — the $4,000 CL post is ~55% below the property's real asking rent ($8,995 on Apartments.com, $7,952 Zestimate), classic hijacked-listing pattern; reclassified 2026-08-15 from active | $4,000 (fake) vs $8,995 (real) | 2026-08-15
-- 3436 19th St, 94110 (Mission) | over-budget | $5,995 | 2026-08-27
 - Parkmerced "Modern 3 Bedroom Apartment with En-Suite Bathrooms" (multiple unit-ID CL posts: FO507, SE3556J, SE35510K [seen again 09-18 quoting $4,195], etc.) | listing-farm pattern (identical title, different unit codes) + over-budget (complex avg 3BR $7,121; own-domain floor now $4,485+) + unexplained-below-market on the $4,195 quote, STICKY | ~$7,121 avg | 2026-08-27
 - "Outer Mission Gem: Inviting 3 BR," Ventana Residences, 99 Ocean Ave, Cayuga/Ingleside, 94112 | over-budget — own-domain PM (ventanaresidences.com, Ventana Property Services, real firm) + hijack-clear, but corroborated official 3BR pricing is $5,463/mo, well over ceiling; the unstated-price CL ad is presumed to reference a smaller/promo unit, not a genuine sub-$4,300 3BR | $5,463 | 2026-09-18
 - "Well maintained 3BD & 2BR for rent," "Southern Hill, San Francisco" (CL 7841698794 / 7849305525, reposted) | insufficient-data — "Southern Hill" is not a recognized SF neighborhood name and no street address surfaced across repeated searches; cannot evaluate city/legitimacy without an address | $4,198 | 2026-09-18
@@ -304,7 +303,15 @@
 - 1383-1383 24th Ave Unit 1381 (Abacus Property Mgmt) | insufficient-data — 3bd/1ba/950sqft confirmed present, only a $3,800 deposit figure surfaced, no monthly rent recoverable | unknown | 2026-10-03
 - 2792 35th Ave, Pine Lake Park/Stonestown | insufficient-data — 3bd/2ba remodeled home confirmed present (Geebo), no price recoverable | unknown | 2026-10-03
 - 2034 46th Ave, Outer Parkside | insufficient-data/bed-count-conflicted — one source says 3bd/2ba (open house scheduled), GoFiveStarPM's own Rentler syndication says 2bd/2ba; no price recoverable either way | unknown | 2026-10-03
-- 151 Russ St, SOMA | insufficient-data — 3bd/1ba, W/D in unit, 12-mo lease, no price recoverable | unknown | 2026-10-03
+- 151 Russ St, SOMA | insufficient-data/likely-stale — re-checked 10-30: a price finally surfaced ($4,095, Apartments.com + Diggz, 3bd/1ba, 2-platform corroborated) but availability signals conflict (Diggz shows a Feb-2026 move-in date already past, a 2nd Apartments.com unit page says "Check Back Soon") — likely filled/stale, not promoted; watch for a fresh listing | $4,095 (unconfirmed availability) | 2026-10-30
+
+## Watch (added 2026-10-30)
+- 338 11th Ave Unit #3, 94118 (Inner Richmond) | insufficient-data — $4,300/mo, 3bd/2ba, 1,900 sqft top-floor flat (Avail.com); single-source only, no 2nd platform corroboration and no named landlord/PM found — do not promote until corroborated | $4,300 (single-source) | 2026-10-30
+- 3125 Noriega St, 94122 (Outer Sunset) | insufficient-data/price-conflicted — two Apartments.com pages for the same address disagree ($4,300 vs $4,795, different contact phone numbers on each), straddling the $4,300 ceiling; per the price-disagreement rule neither figure is adopted without a 2nd corroborating source | $4,300-$4,795 (unresolved) | 2026-10-30
+- 516 Natoma St Unit 3, 94103 (SOMA) | insufficient-data — $4,100/mo, 3bd/2ba, 1,200 sqft condo (Apartments.com); single-source only, no 2nd platform corroboration, no named landlord/PM found, listed availability date unclear (Jun 1, year unstated) | $4,100 (single-source) | 2026-10-30
+
+## Rejected (added 2026-10-30)
+- 3301 Mission St #301, 94110 (Bernal Heights/Mission border) | over-budget | $4,400 | 2026-10-30
 - Windsor at Dogpatch, 2660 3rd St | insufficient-data — managed community, studio-3BR range quoted $4,017-$7,379, not unit-specific/dated; needs a direct 3BR floorplan price | unknown | 2026-10-03
 - The Martin Apartments, 2051 3rd St, Dogpatch | insufficient-data — has 3BR homes per Greystar, no price isolated | unknown | 2026-10-03
 
