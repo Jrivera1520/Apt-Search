@@ -356,7 +356,6 @@
 
 ## Watch (added 2026-10-15)
 - 724 Teresita Blvd, Miraloma Park, 94127 | insufficient-data — 3bd/2ba house confirmed to exist (Redfin street directory, USF off-campus housing listing) but no rent price recoverable despite repeated searches; same area as the rejected 76 Los Palmos Dr and watch-listed 108 Marietta Dr (Miraloma Park 3BRs in this ledger run $3,255-$6,500) | unknown | 2026-10-15
-- 1895 Page St, Panhandle/NOPA, 94117 | insufficient-data — 3bd/1ba confirmed via USF off-campus housing (income requirement >2x rent, security deposit = 1 month's rent, pre-leasing), no monthly rent figure recoverable; a sibling listing at 1881 Page St (4BR, wrong bed count) reuses similar text | unknown | 2026-10-15
 - 425 Hyde St | likely search-summary misattribution — a RentCafe snippet quoted "$3,150 3bd" at this address, but every other source (Crexi sale listing, PadMapper, HotPads) shows this building as studio/1BR/2BR-only, with 2BR at $3,500; same pattern as 3386 Market St/1249 Kearny St — not a real 3BR | $3,150 (unconfirmed, likely misattributed) | 2026-10-15
 
 ## Watch (added 2026-10-17)
@@ -398,3 +397,26 @@
 
 ## Watch (added 2026-10-29)
 - 135 Valencia St, 94103 (SOMA/Mid-Market) | insufficient-data/bed-count-ambiguous — a large multi-unit building with wildly conflicting reports (Unit A407 $5,795/3bd-1.5ba over ceiling; Unit 102A $3,600 with no bed count stated; Unit A401 confirmed 2bd+loft, not 3bd); no clean, corroborated 3BR under the $4,300 ceiling found this pass | $3,600 (unconfirmed bed count) | 2026-10-29
+
+## Rejected (added 2026-10-31)
+- 198 Andover St, Bernal Heights, 94110 | over-budget | $4,500 | 2026-10-31
+- 360 Baltimore Way, Crocker Amazon, 94112 | over-budget | $4,800 | 2026-10-31
+- 150 Cole St, NOPA/Cole Valley, 94117 | over-budget | $4,950 | 2026-10-31
+- 643 Cole St, Cole Valley, 94117 | over-budget — availability date (May 2026) already past, likely stale too | $5,245 | 2026-10-31
+- 1465 Waller St, Haight-Ashbury, 94117 | over-budget | $7,700 | 2026-10-31
+- 1345 Cole St, Cole Valley, 94117 | over-budget | $6,500 | 2026-10-31
+- 119 Downey St, Cole Valley/Haight, 94117 | over-budget | $7,950 | 2026-10-31
+- 305 Dellbrook Ave, West of Twin Peaks, 94131 | over-budget — different unit/number from the already-rejected 41 Dellbrook Ave ($7,850, 2026-10-02) | $4,695 | 2026-10-31
+- 76 Clairview Ct, West Portal/Twin Peaks area, 94127 | over-budget | $4,500 | 2026-10-31
+- 170 Oak Park Drive, Forest Knolls, 94131 | over-budget | $5,995 | 2026-10-31
+- 2942 Franklin St (units 1 & 4), Russian Hill, 94109 | over-budget | $4,495-$4,795 | 2026-10-31
+- 422 Cole St Unit B, Cole Valley, 94117 | wrong-bed-count — Apartments.com confirms this unit is 2bd/1ba, not a 3BR | $4,250 | 2026-10-31
+- 1895 Page St, Panhandle/NOPA, 94117 | RESOLVED from the 2026-10-15 watch item — a price finally surfaced (USF off-campus housing) and it's over-budget | $5,995 | 2026-10-31
+- 10 Tucker Ave, San Francisco | over-budget | $5,500 | 2026-10-31
+
+## Watch (added 2026-10-31)
+- 1288 Green St, Russian Hill/Polk Gulch, 94109 | insufficient-data — $3,995, top-floor 3bd/1ba split flat (Geebo-sourced); single-source only, no 2nd platform corroboration, no named landlord/PM found | $3,995 (single-source) | 2026-10-31
+- 825 Filbert St, Russian Hill/North Beach border, 94133 | insufficient-data — $4,200, remodeled 3bd/1ba full-floor flat, shared laundry at no charge (Apartments.com); single-source only, no 2nd platform corroboration, no named landlord/PM found | $4,200 (single-source) | 2026-10-31
+- 1038 Clay St, Lower Nob Hill, 94108 | insufficient-data — $4,300, 3bd/1ba flat, ~1,500 sqft (Avail.com), exactly at the ceiling; single-source only, no 2nd platform corroboration, no named landlord/PM found | $4,300 (single-source, at ceiling) | 2026-10-31
+- 191 Henry St, Duboce Triangle, 94114 | insufficient-data/price-conflicted — two Apartments.com pages disagree ($3,750 general-address page vs $5,050 "Unit 191" page), straddling the $4,300 ceiling; per the price-disagreement rule neither figure is adopted without a 2nd corroborating source or unit-level clarification | $3,750-$5,050 (unresolved) | 2026-10-31
+- 102 Marview Way, Midtown Terrace, 94131 | insufficient-data — $4,000, 3bd/2ba, 2,800 sqft (Avail.com); single-source only, no 2nd platform corroboration, no named landlord/PM found; not the same address as the already-rejected 1 Marview Way ($14,000, wrong-bed-count, 2026-10-02) | $4,000 (single-source) | 2026-10-31
