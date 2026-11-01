@@ -265,6 +265,13 @@
 ## Watch (re-check price/status each run; promote if it enters range)
 - 200 Willard St N, Lone Mountain | insufficient-data/likely-stale — a Time Out "best affordable" roundup quoted $3,960, but the article's year is not shown and comparable Lone Mountain 3BRs run $4,495-$5,299 per other sources; too likely stale to adopt without a dated corroborating source | $3,960 (unconfirmed, likely stale) | 2026-10-28
 - Unaddressed Haight-Ashbury 3bd/2ba, PadMapper snippet | insufficient-data — no street address recoverable despite a follow-up search | $3,690 (unconfirmed, no address) | 2026-10-28
+
+## Rejected (added 2026-11-01)
+- 819 Capp St, 94110 (Mission) | over-budget after price-disagreement resolution — corroborated real price $4,895 (Rentler+Zillow, 2-source, 3bd/1.5ba), discrediting a single-source $4,000 Redfin "Unit A" figure (mismatched spec, 3bd/1ba/1,850sqft) | $4,895 (corroborated) vs $4,000 (discredited) | 2026-11-01
+
+## Watch (added 2026-11-01)
+- 3484 Mission St, 94110 (Mission Terrace) | insufficient-data — $4,000, 3bd/1ba/850sqft; single-source (MLS ML82012572/theboutiquere.com), no 2nd platform corroboration | $4,000 (single-source) | 2026-11-01
+- 1531 46th Ave, 94122 (Outer Sunset) | insufficient-data/likely-stale — $3,700, 3bd/2ba house, single-source (Apartments.com), page shows "Check Back Soon for Upcoming Availability" | $3,700 (unconfirmed availability) | 2026-11-01
 - 1301 Indiana St Unit 405, Dogpatch | over-budget | $5,800 | 2026-10-03
 - 696 De Haro St #1611, Dogpatch | over-budget | $7,040 | 2026-10-03
 - 1021 Lincoln Way, Inner Sunset | over-budget | $4,800 | 2026-10-03
