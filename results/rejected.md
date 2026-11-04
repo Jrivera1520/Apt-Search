@@ -16,10 +16,6 @@
 - "Well maintained 3BD & 2BR for rent," "Southern Hill, San Francisco" (CL 7841698794 / 7849305525, reposted) | insufficient-data — "Southern Hill" is not a recognized SF neighborhood name and no street address surfaced across repeated searches; cannot evaluate city/legitimacy without an address | $4,198 | 2026-09-18
 - "Spacious, quiet, safe, & remodeled house w/parking, laundry, backyard," Excelsior/Outer Mission (CL) | insufficient-data — no street address recoverable via search | $4,200 | 2026-09-18
 - Furnished house "back of Stern Grove Park" (CL) | insufficient-data — no address, bedroom count unconfirmed, furnished nature raises short-term/corporate-share ambiguity | $4,000 | 2026-09-18
-- 646 Natoma St, 94103 (SoMa) | over-budget | $4,350–$4,450 | 2026-09-03
-- 856 42nd Ave, 94122 (Sunset) | over-budget | $4,650 | 2026-09-03
-- 2035 Castro St, 94114 (Castro) | over-budget | $6,695 | 2026-09-03
-- 4619 Lincoln Way Apt B, 94122 (Outer Sunset) | over-budget | $8,475 | 2026-09-04
 - 2665 Geneva Ave (Pacific Place Apartments), listed in some snippets as "San Francisco" | out-of-city, STICKY — confirmed Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated ZIP not marketing copy) | $3,536-$5,463 (unit varies) | 2026-09-05
 - 3244 22nd St, 94110 (Mission) | below-market, no stated reason — $3,086 is ~40-60% below the Mission 3BR median ($5,200-$7,900 depending on source), exceeds the 25%-below exclusion threshold; corroboration effectively single-source (only Zumper carries this exact price); no landlord/PM contact found; matches the same search-summary-misattribution/farm-price pattern as 3386 Market St and 1249 Kearny St | $3,086 | 2026-09-06
 - 231 Marietta Dr, Excelsior | over-budget | $6,090 | 2026-09-11
@@ -295,7 +291,7 @@
 - 790 Church St, 94114 (Glen Park) | over-budget | $4,325 | 2026-10-09
 - 363 6th St, 94103 (SOMA) | over-budget | $4,595 | 2026-10-10
 - 542 Vienna St, 94112 (Excelsior) | over-budget — price disagreement across sources ($4,600 Rentler/Zumper vs $5,400 ApartmentList) but even the low figure exceeds the ceiling | $4,600-$5,400 | 2026-10-11
-- 668 Capp St, 94110 (Mission) | over-budget | $4,795 | 2026-10-12
+- 668 Capp St, 94110 (Mission) | over-budget — re-checked 2026-11-04: cleanly reconfirmed unchanged ($4,795, Apartments.com+ForRent+ApartmentList, MLS figure $4,700); a conflicting single-source "$3,800" figure surfaced via a Chandler Properties PM-site spot-check, discredited per the price-disagreement rule (stale/misattributed, not adopted) | $4,795 | 2026-10-12
 - 147 Forest View Drive, Lakeshore | over-budget | $4,995 | 2026-10-13
 - 333 18th Ave, Central Richmond | over-budget | $4,950 plus fees | 2026-10-13
 - 479 24th Ave #3, Central Richmond | over-budget | $6,900 | 2026-10-13
@@ -344,7 +340,7 @@
 - 190 8th St, 94103 (SOMA) | insufficient-data — address page exists but no unit-level price/bed count recoverable | unknown | 2026-10-10
 
 ## Watch (added 2026-10-12)
-- 159 Wool St, 94110 (Bernal Heights) | insufficient-data — address confirmed to exist on Redfin's street directory but no rent price, bed count, or listing recoverable despite repeated searches; re-checked 10-24: an aggregator comparison snippet implied a $4,200/3bd-1ba figure for this address, but a dedicated follow-up search found no direct listing or source actually naming 159 Wool St at that price — not adopted, still insufficient-data | unknown | 2026-10-12
+- 159 Wool St, 94110 (Bernal Heights) | insufficient-data — address confirmed to exist on Redfin's street directory but no rent price, bed count, or listing recoverable despite repeated searches; re-checked 10-24: an aggregator comparison snippet implied a $4,200/3bd-1ba figure for this address, but a dedicated follow-up search found no direct listing or source actually naming 159 Wool St at that price — not adopted, still insufficient-data; re-checked 2026-11-04 (resurfaced via a Chandler Properties PM-site spot-check): same result, Zillow confirms the building exists with "available units" but no price recoverable | unknown | 2026-10-12
 - 29 Auburn St, 94133 (Nob Hill/Chinatown border) | insufficient-data — address confirmed to exist on Redfin's street directory (quoted $4,200/3bd/1ba in an aggregated search snippet) but no distinct listing page or corroborating source recoverable | $4,200 (unconfirmed) | 2026-10-12
 
 ## Watch (added 2026-10-11)
@@ -438,3 +434,11 @@
 ## Watch (added 2026-11-03)
 - 183 Yale St, 94112 (Portola) | insufficient-data — $3,600 total monthly price (Apartments.com), bed count not confirmed as 3BR in snippet, washer/dryer + fireplace + hardwood; page shows "Check Back Soon for Upcoming Availability" — not currently available | $3,600 (unconfirmed bed count/availability) | 2026-11-03
 - 1818 Silver Ave, 94112 (Excelsior) | insufficient-data/likely misattribution — a search snippet described a 3bd condo at $3,300-$3,500, but a dedicated follow-up search found no listing, property record, or any source confirming this house number exists on Silver Ave (nearby real addresses: 1421, 1667-1669, 1812) — same pattern as other search-summary misattributions in this ledger; do not adopt unless a real, independently-findable listing surfaces | $3,300-$3,500 (unconfirmed, likely misattributed) | 2026-11-03
+
+## Rejected (added 2026-11-04)
+- 804 Avalon Ave, 94112 (Excelsior) | over-budget — corroborated 2-source (Apartments.com + Redfin, 3bd/2ba/1,500sqft, avail. 12/15) | $6,000 | 2026-11-04
+- 1230 36th Ave, 94122 (Outer Sunset) | wrong-bed-count — Apartments.com confirms this unit is 2bd/1ba, not a 3BR | $4,300 | 2026-11-04
+
+## Watch (added 2026-11-04)
+- 435 3rd St, 94107 (SOMA/Mission Bay border) | insufficient-data/likely-stale — $4,000, 3bd/2ba (Apartments.com); page shows "Check Back Soon for Upcoming Availability" (not currently available) and carries an inconsistent neighborhood tag ("3rd Avenue at Geary Blvd") on one aggregator — data-quality flag, confirm address/availability before any re-evaluation | $4,000 (unconfirmed availability) | 2026-11-04
+- 5800 3rd St, "3rd Fl" unit, 94124 (Hunters Point/Bayview) | insufficient-data — $3,850, 3bd/2ba, Twin Peaks views (search-snippet only); no specific unit number recoverable, same building as the already-rejected #1119/#1418 units ($4,725-$5,200, 2026-10-05) — cannot confirm this is a distinct, currently-available unit or just a stale echo of the same listings | $3,850 (single-source, ambiguous unit) | 2026-11-04
