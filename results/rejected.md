@@ -193,6 +193,9 @@
 - 4715 Balboa St, 94121 (Outer Richmond) | over-budget | $4,500 | 2026-09-21
 - 168 Bluxome St ("Loft 168"), 94107 (SOMA) | over-budget | $5,815 (Zestimate) | 2026-09-21
 - The Presidio Residences, 222 Halleck St, 94129 | over-budget — same complex as 3 units already sticky-rejected ($4,450-$5,050); this unit starts $4,850 | $4,850 | 2026-09-21
+- 1311 Palou Ave, 94124 (Bayview) | over-budget | $4,800, 3bd/2ba, in-unit W/D, annual lease | 2026-11-06
+- 823 Ingerson Ave, 94124 (Bayview) | over-budget | $4,900, 3bd/2ba remodeled | 2026-11-06
+- 8 Milton St, 94112 (Excelsior/Crocker Amazon) | over-budget/stale | $4,950 (Rentable), 3bd/2ba, 2,140 sqft, page shows "0 Available" | 2026-11-06
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 167 Skyview Way, Midtown Terrace (near Twin Peaks) | insufficient-data — 3bd home with a bonus room/office and 2 full baths described in search snippets, but no rent price recoverable despite a dedicated search; boutique Twin Peaks-area location suggests likely over-budget but unconfirmed | unknown | 2026-10-26
@@ -442,3 +445,6 @@
 ## Watch (added 2026-11-05)
 - 5301 Mission St, Unit APT 2, 94112 (Crocker Amazon/Mission Terrace border) | insufficient-data — $3,675, 3bd/2ba, 1,192sqft (ForRentUniversity only, no 2nd platform corroboration); no named landlord/PM found (contact check fails); a different unit at the same address (#1, condo) is listed for sale at $749,999 but with a different unit number and no below-market/mismatched-contact pattern, so not treated as a hijack signal per CLAUDE.md's condo-building exception | $3,675 (single-source) | 2026-11-05
 - 1600 Clement St, Unit 205, 94121 (Inner Richmond) | insufficient-data — $4,200, 3bd/1ba (Avail.com only, no 2nd platform corroboration); listing itself flags "not currently available" (stale); building carries an independent review alleging deceptive 3BR advertising for units that are actually 2BR/1BR — bed-count credibility concern on top of being single-source and stale | $4,200 (single-source, stale, bed-count concern) | 2026-11-05
+
+## Watch (added 2026-11-06)
+- 4272 23rd St, 94114 (Noe Valley/Mission border) | insufficient-data — $3,795, 3bd/1ba condo (Apartments.com only, no 2nd platform corroboration); page shows "Check Back Soon for Upcoming Availability" (stale) | $3,795 (single-source, stale) | 2026-11-06
