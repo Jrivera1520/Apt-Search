@@ -466,3 +466,9 @@
 ## Watch (added 2026-11-09)
 - 3301 Mission St #301, 94110 (Bernal Heights/Mission border, Gordon Property Management cited) | insufficient-data/price-conflicted — one source quotes $4,600 (3bd/2ba, available now) while another shows a building range of $3,200-$4,400 with one unit already rented; spread straddles the $4,300 ceiling and the two figures can't be confidently tied to the same unit; not the same listing as the already-rejected 3165 Mission St #302 (Atlas Property Group, different address/manager) — watch for a unit-specific price before evaluating further | $3,200-$4,600 (unresolved) | 2026-11-09
 - 22 Arleta Avenue, 94134 (Visitacion Valley) | insufficient-data — furnished 3bd/2ba flat listed for lease, no rent price recoverable across searches | unknown | 2026-11-09
+
+## Rejected (added 2026-11-10)
+- 1340 Taylor St, 94108 (Lower Nob Hill, marketed as "SoMa" on one aggregator) | over-budget | $4,685 | 2026-11-10
+
+## Watch (added 2026-11-10)
+- 2035 Castro St, Unit 31, Noe Valley, 94131 | insufficient-data — 3bd/2ba, private deck, in-unit laundry, utilities not included; no rent price recoverable despite search; different unit from the already-rejected 2031 Castro St ($6,995, 2026-10-02) | unknown | 2026-11-10
