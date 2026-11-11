@@ -18,14 +18,6 @@
 - Furnished house "back of Stern Grove Park" (CL) | insufficient-data — no address, bedroom count unconfirmed, furnished nature raises short-term/corporate-share ambiguity | $4,000 | 2026-09-18
 - 2665 Geneva Ave (Pacific Place Apartments), listed in some snippets as "San Francisco" | out-of-city, STICKY — confirmed Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated ZIP not marketing copy) | $3,536-$5,463 (unit varies) | 2026-09-05
 - 3244 22nd St, 94110 (Mission) | below-market, no stated reason — $3,086 is ~40-60% below the Mission 3BR median ($5,200-$7,900 depending on source), exceeds the 25%-below exclusion threshold; corroboration effectively single-source (only Zumper carries this exact price); no landlord/PM contact found; matches the same search-summary-misattribution/farm-price pattern as 3386 Market St and 1249 Kearny St | $3,086 | 2026-09-06
-- 231 Marietta Dr, Excelsior | over-budget | $6,090 | 2026-09-11
-- 5 Italy Ave, 94112 (Excelsior/Outer Mission) | over-budget | starts $4,700 | 2026-09-11
-- 495 32nd Ave (Del Rey Apartments), 94121 (Outer Richmond) | over-budget | $6,268–$11,495 (unit varies) | 2026-09-11
-- 79 Coleridge St, 94110 (Bernal Heights) | over-budget | $8,500–$9,750 | 2026-09-11
-- 606A 2nd Ave, 94118 (Inner Richmond) | over-budget | $4,495 | 2026-09-11
-- 3 Bedroom House, West of Twin Peaks (Zumper) | over-budget | $4,950 | 2026-09-11
-- 66 Bay View St, Silver Terrace | over-budget | $4,995 | 2026-09-11
-- 2 Hawkins Ln, Silver Terrace | over-budget | $5,550 | 2026-09-11
 - 2443 39th Ave #2, 94116 (Parkside) | search-summary misattribution — an aggregated snippet quoted "~$3,600," but the actual corroborated price (Redfin MLS #442987 + Zillow, agreeing) is $6,000; same pattern as 3386 Market St / 1249 Kearny St, logged so the false low figure isn't mistaken for a new find | $3,600 (false) vs $6,000 (real) | 2026-09-11
 - 5519 Mission St, 94112 (Crocker Amazon) | likely scrape/misattribution error — a "$2,395 3bd" figure surfaced but every direct source shows this building as 1BR-only (from $2,695); not a real 3BR match | $2,395 (unconfirmed, likely misattributed) | 2026-09-11
 - 312 20th Ave, 94121 (Central Richmond) | over-budget | $6,100 | 2026-09-12
@@ -472,3 +464,14 @@
 
 ## Watch (added 2026-11-10)
 - 2035 Castro St, Unit 31, Noe Valley, 94131 | insufficient-data — 3bd/2ba, private deck, in-unit laundry, utilities not included; no rent price recoverable despite search; different unit from the already-rejected 2031 Castro St ($6,995, 2026-10-02) | unknown | 2026-11-10
+
+## Rejected (added 2026-11-11)
+- 1566 Newcomb Ave, 94124 (Bayview) | over-budget/price-conflicted — $4,995 (Apartments.com, 3bd/2ba/1,200sqft, 12-mo lease, confirmed bed count) is the governing figure; a conflicting $4,490 echo (Apartments.com+Zumper) has no confirmed bed count, not adopted as the governing 3BR price per price-disagreement rule — either figure is over ceiling | $4,995 (confirmed 3bd) vs $4,490 (bed-count unconfirmed) | 2026-11-11
+- 1838 Grant Ave, 94133 (North Beach/Telegraph Hill) | over-budget — full-building rental, 3bd/2ba, 1,900sqft, agent Peter Iskandar/Trident Real Estate | $12,500 | 2026-11-11
+- 763 Andover St, 94110 (Bernal Heights, via BanCal PM spot-check) | over-budget | $7,200 | 2026-11-11
+
+## Watch (added 2026-11-11)
+- 1242 Howard St, Unit 6, 94103 (SOMA, Atlas Property Group) | insufficient-data/stale — $4,100, 3bd/2ba/850sqft; single-source (Rentable only), stated availability date (Oct 27, 2026) has already passed as of today | $4,100 (single-source, stale) | 2026-11-11
+- 157 Thrift St, 94124 (Bayview, Gordon Property Management — real firm, confirmed via poyst.com + gordon.appfolio.com) | insufficient-data/stale — $4,200, 3bd/2ba/1,124sqft; one page shows available now, a different page for the same address shows "Off The Market" (last updated 2025-07-22) — conflicting availability status, not adopted | $4,200 (unconfirmed availability) | 2026-11-11
+- 4747 Geary Blvd, 94118 (Outer Richmond) | insufficient-data — building-wide "from $4,100" starting price (2 full-floor units, 3bd/1-2ba/1,500sqft per Point2Homes/RentCafe); no unit-specific 3BR price isolated | $4,100 (unconfirmed, building "from" price) | 2026-11-11
+- 144 Hugo St, Unit 2, 94122 (Inner Sunset) | insufficient-data/stale — $4,295, 3bd/1ba; single-source (Apartments.com), page shows "Check Back Soon for Upcoming Availability" and references a past open house (March 31) | $4,295 (single-source, stale) | 2026-11-11
