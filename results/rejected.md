@@ -485,3 +485,9 @@
 - 576 19th Ave, 94121 (Inner Richmond) | insufficient-data/likely-stale [SNIPPET-ONLY] — $3,900, 3bd/2ba; multiple sources agree on price but all dated 2024-early 2025 (over a year stale); hijack-clear (confirmed "For Rent," not a sale) | $3,900 (stale) | 2026-11-12
 - 442 Tehama St, 94103 (SOMA) | insufficient-data/bed-count ambiguous [SNIPPET-ONLY] — sources disagree whether this is a 3BR or 4BR ($2,700-$3,900 base rent range); Apartments.com shows "Check Back Soon" | $2,700-$3,900 (unconfirmed bed count) | 2026-11-12
 - 3125 Turk St, 94115 (NOPA) | insufficient-data [SNIPPET-ONLY] — $3,995, single-source (ApartmentIQ); the only other platform (Rentable) marks this building's units "rented," no live 2nd-source confirmation | $3,995 (single-source) | 2026-11-12
+
+## Rejected (added 2026-11-13)
+- 8 Locksley Ave (Avalon Sunset Towers), Inner Sunset | not-a-3BR-match — building confirmed to offer only studio/1BR/2BR floorplans, no 3BR unit exists | — | 2026-11-13
+
+## Watch (added 2026-11-13)
+- 27 Harriet St, 94103 (SOMA) | insufficient-data/price-conflicted [SNIPPET-ONLY] — two single-source Rentler figures for what may be the same or a related unit: $3,550 ("27 Harriet St") vs $4,245 ("220 6th St/25A-27 Harriet St"); neither 2-source corroborated; hijack-clean (no for-sale listing found); both figures are in-budget but could not resolve to one confident price/unit | $3,550-$4,245 (unresolved) | 2026-11-13
