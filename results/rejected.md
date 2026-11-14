@@ -20,18 +20,10 @@
 - 3244 22nd St, 94110 (Mission) | below-market, no stated reason — $3,086 is ~40-60% below the Mission 3BR median ($5,200-$7,900 depending on source), exceeds the 25%-below exclusion threshold; corroboration effectively single-source (only Zumper carries this exact price); no landlord/PM contact found; matches the same search-summary-misattribution/farm-price pattern as 3386 Market St and 1249 Kearny St | $3,086 | 2026-09-06
 - 2443 39th Ave #2, 94116 (Parkside) | search-summary misattribution — an aggregated snippet quoted "~$3,600," but the actual corroborated price (Redfin MLS #442987 + Zillow, agreeing) is $6,000; same pattern as 3386 Market St / 1249 Kearny St, logged so the false low figure isn't mistaken for a new find | $3,600 (false) vs $6,000 (real) | 2026-09-11
 - 5519 Mission St, 94112 (Crocker Amazon) | likely scrape/misattribution error — a "$2,395 3bd" figure surfaced but every direct source shows this building as 1BR-only (from $2,695); not a real 3BR match | $2,395 (unconfirmed, likely misattributed) | 2026-09-11
-- 312 20th Ave, 94121 (Central Richmond) | over-budget | $6,100 | 2026-09-12
-- 1147-1149 Sanchez St, Noe Valley | over-budget | $9,300–$11,000 | 2026-09-12
-- 489 Guerrero St, Mission Dolores | over-budget | $5,300 | 2026-09-12
 - 898 Templeton Ave - A (via Luminor SF listing search) | out-of-city, STICKY — Daly City, CA 94014, not SF | — | 2026-09-12
-- 4464 23rd St (Noe Valley/Mission area) | over-budget | $7,150 | 2026-09-13
-- 2827 Pine St, Pacific Heights | over-budget | $5,300 | 2026-09-13
-- 845 Pine St | over-budget | $4,595+ | 2026-09-13
-- 2238 Hyde St | over-budget | $12,400 | 2026-09-13
 - 3539 24th St | below-market/stale — quoted $1,200 is far below any plausible SF 3BR price with no stated reason and the listing now reads delisted/stale; do not re-add unless a fresh, corroborated price surfaces | $1,200 (stale) | 2026-09-13
 - "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
-- 239 Cotter St, 94112 (Mission Terrace/Excelsior) | over-budget after price-disagreement resolution — single-source Zumper $2,900 discredited as a stale/low outlier per price-disagreement rule; corroborated real price (ForRent.com/Apartment Finder) is $5,580; Redfin rent-estimate range $3,536-$5,035 also well above ceiling; hijack check clean (last sold 2015, not for sale) | $5,580 (corroborated) vs $2,900 (discredited) | 2026-09-14
 - 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
 - 433-437 Brazil Ave, 94112 (Excelsior) | over-budget after price-disagreement resolution — corroborated real price is $4,685 (TurboTenant direct listing, echoed on Zillow/Redfin/Apartments.com/ForRent.com), discrediting a single-source $3,985 Redfin snippet; ForRent.com additionally shows "Check Back Soon" (no current availability) | $4,685 (corroborated) vs $3,985 (discredited) | 2026-09-15
 - 151 Shawnee Ave, 94112 (Excelsior/Portola) | over-budget | $5,500 | 2026-09-15
@@ -491,3 +483,9 @@
 
 ## Watch (added 2026-11-13)
 - 27 Harriet St, 94103 (SOMA) | insufficient-data/price-conflicted [SNIPPET-ONLY] — two single-source Rentler figures for what may be the same or a related unit: $3,550 ("27 Harriet St") vs $4,245 ("220 6th St/25A-27 Harriet St"); neither 2-source corroborated; hijack-clean (no for-sale listing found); both figures are in-budget but could not resolve to one confident price/unit | $3,550-$4,245 (unresolved) | 2026-11-13
+
+## Watch (added 2026-11-14)
+- 3135 Laguna St, 94123 (Cow Hollow/Marina) | insufficient-data [SNIPPET-ONLY] — $3,900, 3bd/1ba, ~1,000sqft, "available now"; 2-platform corroboration (Apartments.com + Zillow building page agree address/beds/price); contact check FAILS — manager "Hunter Peyton Inc" has only one unrelated directory listing, no website/license/reviews found; hijack check PASS; price sanity UNRESOLVED — Cow Hollow 3BR comps disagree wildly (one source implies ~12% below median, another ~44% below) | $3,900 (single-source contact, unresolved price band) | 2026-11-14
+- 2622 Franklin St, 94109/94123 (Cow Hollow/Russian Hill border) | insufficient-data/price-conflicted [SNIPPET-ONLY] — ForRent shows $4,300/3bd-1.5ba, Apartments.com shows $4,400/3bd-1ba for the same address; differing bath counts suggest possibly different units, neither 2nd-source corroborated on its own spec; both show stale/"check back soon" signals; straddles the ceiling either way, not adopted per price-disagreement rule | $4,300-$4,400 (unresolved) | 2026-11-14
+- 2760 19th Ave, 94132 (West Portal) | insufficient-data/bed-count-conflicted [SNIPPET-ONLY] — Apartments.com $4,250 (no bed count given), ForRent Unit 13 $4,300 but states 2bd/2ba (not 3BR), RentHop's 3bd/2ba listing status is "Expired" — no clean current 3BR match | $4,250-$4,300 (unconfirmed bed count) | 2026-11-14
+- 522 Lyon St Unit 522, 94117 (NOPA) | insufficient-data [SNIPPET-ONLY] — $4,195, 3bd/1ba; single-source only (Apartments.com), page flagged "Check Back Soon for Upcoming Availability" (stale/possibly already gone), no 2nd platform found | $4,195 (single-source, stale) | 2026-11-14
