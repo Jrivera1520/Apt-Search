@@ -25,8 +25,6 @@
 - "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
 - 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
-- 433-437 Brazil Ave, 94112 (Excelsior) | over-budget after price-disagreement resolution — corroborated real price is $4,685 (TurboTenant direct listing, echoed on Zillow/Redfin/Apartments.com/ForRent.com), discrediting a single-source $3,985 Redfin snippet; ForRent.com additionally shows "Check Back Soon" (no current availability) | $4,685 (corroborated) vs $3,985 (discredited) | 2026-09-15
-- 151 Shawnee Ave, 94112 (Excelsior/Portola) | over-budget | $5,500 | 2026-09-15
 - 66 Mill St, 94134 (Visitacion Valley) | over-budget | $5,500 | 2026-09-16
 - 58 Latona St, 94124 (Bayview/Silver Terrace) | over-budget | $4,995 | 2026-09-17
 - Crocker Amazon "Spacious 3BR/2BA Gated Condo" (CL, excelsior/outer mission area) | over-budget | $4,900 | 2026-09-17
@@ -117,6 +115,10 @@
 - 108 Marietta Dr, 94127 (Miraloma Park) | RESOLVED from 10-07 watch — below-market, no stated reason: $3,255 is ~45-50% below today's Miraloma Park 3BR comps ($5,900-$6,500), exceeding the 25%-below exclusion threshold; listing also shows "Date available: Not Available" (likely stale) and the unusual $6,255 move-in-fee caution remains unresolved | $3,255 | 2026-10-19
 - 656 Missouri St, Potrero Hill, 94107 | RESOLVED from 10-17 watch — price surfaced at $6,740+fees (Zumper), over the $4,300 ceiling | $6,740+fees | 2026-10-19
 - 480 Castro St #488, Castro | over-budget — a search snippet quoted $4,295, but the actual corroborated listing (Redfin, Unit 488, 3bd/1.5ba) is $4,995/mo; the $4,295 figure was a misattribution, not adopted | $4,995 (corroborated) vs $4,295 (misattributed) | 2026-10-28
+- 170 Naples St, 94112 (Excelsior) | over-budget | $4,680 | 2026-11-15
+- 901 Holyoke Street, 94134 (Portola) | over-budget | $4,900 | 2026-11-15
+- 290 Holyoke Street, 94134 (Portola) | over-budget | $6,250 | 2026-11-15
+- 144 Laidley St, 94131 (Glen Park) | over-budget | $6,800 | 2026-11-15
 
 ## Watch (re-check price/status each run; promote if it enters range)
 - 443 Austin St | PROMOTED 2026-08-15 to the seen.md ledger as a negotiate listing ($4,150 corroborated) — no longer on watch | 2026-08-15
@@ -248,6 +250,9 @@
 ## Watch (added 2026-11-01)
 - 3484 Mission St, 94110 (Mission Terrace) | insufficient-data — $4,000, 3bd/1ba/850sqft; single-source (MLS ML82012572/theboutiquere.com), no 2nd platform corroboration | $4,000 (single-source) | 2026-11-01
 - 1531 46th Ave, 94122 (Outer Sunset) | insufficient-data/likely-stale — $3,700, 3bd/2ba house, single-source (Apartments.com), page shows "Check Back Soon for Upcoming Availability" | $3,700 (unconfirmed availability) | 2026-11-01
+- 87 Maddux Ave, Bayview | insufficient-data — does not appear to exist as a real listing; only neighboring 107/135/2 Maddux Ave surfaced on a direct search; likely an aggregator-summary artifact — do not add unless a real listing with this exact address surfaces | unknown | 2026-11-15
+- 719 Anderson St, San Francisco (Geebo) | insufficient-data — bed count/price not isolated this pass; watch for a fuller listing | unknown | 2026-11-15
+- 5840 Mission St | insufficient-data/stale — stale 2023 snapshot, no current confirmation; watch only if it resurfaces fresh | $3,700 (stale) | 2026-11-15
 - 1301 Indiana St Unit 405, Dogpatch | over-budget | $5,800 | 2026-10-03
 - 696 De Haro St #1611, Dogpatch | over-budget | $7,040 | 2026-10-03
 - 1021 Lincoln Way, Inner Sunset | over-budget | $4,800 | 2026-10-03
