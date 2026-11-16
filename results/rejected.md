@@ -25,7 +25,6 @@
 - "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
 - 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
-- 66 Mill St, 94134 (Visitacion Valley) | over-budget | $5,500 | 2026-09-16
 - 58 Latona St, 94124 (Bayview/Silver Terrace) | over-budget | $4,995 | 2026-09-17
 - Crocker Amazon "Spacious 3BR/2BA Gated Condo" (CL, excelsior/outer mission area) | over-budget | $4,900 | 2026-09-17
 - Excelsior/Outer Mission house, laundry + views (CL) | over-budget | $5,795 | 2026-09-17
@@ -262,6 +261,9 @@
 - 1914 Judah St #2, 94122 (Outer Sunset) | over-budget | $5,000 | 2026-10-04
 - 2167 40th Ave, 94116 (Outer Sunset) | over-budget | $6,995 | 2026-10-04
 - 1293 34th Ave, 94122 (Outer Sunset) | over-budget | $5,600 | 2026-10-04
+
+## Rejected (added 2026-11-16)
+- 29 Auburn St, 94133 (Nob Hill/Chinatown border) | over-budget — resolves the 2026-10-12/2026-10-27 insufficient-data watch item; now found at $4,995/3bd-1ba via a Redfin aggregator | $4,995 | 2026-11-16
 - 1866 36th Avenue, 94122 (Outer Sunset) | over-budget | $6,950 | 2026-10-04
 - 2430 33rd Ave, Parkside | over-budget | $4,600 | 2026-10-03
 - 2186 12th Ave, Golden Gate Heights | over-budget | $7,050 | 2026-10-03
@@ -325,11 +327,10 @@
 
 ## Watch (added 2026-10-12)
 - 159 Wool St, 94110 (Bernal Heights) | insufficient-data — address confirmed to exist on Redfin's street directory but no rent price, bed count, or listing recoverable despite repeated searches; re-checked 10-24: an aggregator comparison snippet implied a $4,200/3bd-1ba figure for this address, but a dedicated follow-up search found no direct listing or source actually naming 159 Wool St at that price — not adopted, still insufficient-data; re-checked 2026-11-04 (resurfaced via a Chandler Properties PM-site spot-check): same result, Zillow confirms the building exists with "available units" but no price recoverable | unknown | 2026-10-12
-- 29 Auburn St, 94133 (Nob Hill/Chinatown border) | insufficient-data — address confirmed to exist on Redfin's street directory (quoted $4,200/3bd/1ba in an aggregated search snippet) but no distinct listing page or corroborating source recoverable | $4,200 (unconfirmed) | 2026-10-12
 
 ## Watch (added 2026-10-11)
 - "Three-bedroom house in Visitacion Valley" (aptsearch.northeastern.edu) | insufficient-data — 3bd/1ba, ~1,200 sqft, $3,600 plus fees, available now; no street address recoverable despite repeated searches | $3,600 plus fees (unconfirmed address) | 2026-10-11
-- 360 Chester Ave, Ingleside Heights (offcampushousing.usfca.edu) | insufficient-data/possible address error — 3bd/1ba, $3,300 plus fees; Redfin's own Chester Ave street directory lists 88 addresses on the street and 360 is NOT among them (364, 368, 359 are) — the house number may be misreported by the aggregator; no 2nd source, no contact found; do not adopt until a correct, independently-findable address surfaces | $3,300 plus fees (unconfirmed address) | 2026-10-11
+- 360 Chester Ave, Ingleside Heights (offcampushousing.usfca.edu) | insufficient-data/possible address error — 3bd/1ba, $3,300 plus fees; Redfin's own Chester Ave street directory lists 88 addresses on the street and 360 is NOT among them (364, 368, 359 are) — the house number may be misreported by the aggregator; no 2nd source, no contact found; do not adopt until a correct, independently-findable address surfaces; re-checked 11-16 via a BanCal PM spot-check — a new single-source sighting surfaced at $3,500/mo (phone 415-290-3851, "available now"), still no 2nd-platform corroboration and the house-number concern remains unresolved, not adopted | $3,300-$3,500 (unconfirmed address) | 2026-10-11
 - "Spacious 3BR/2BA" near Homestead St & 24th St, Noe Valley (USF off-campus housing) | insufficient-data — in-unit laundry, shared backyard mentioned; no rent price recoverable despite repeated searches | unknown | 2026-10-11
 
 ## Watch (added 2026-10-13)
@@ -372,7 +373,6 @@
 ## Watch (added 2026-10-25)
 
 ## Watch (added 2026-10-27)
-- 29 Auburn St, 94133 (Nob Hill/Chinatown border) | insufficient-data, carried over from 2026-10-12 watch — address confirmed to exist (Redfin street directory, 16 addresses on Auburn St) but still no rent listing, price, or contact recoverable despite a dedicated re-search this run; nearby addresses on the same street are for-sale TIC condos (45/47/49A Auburn, $568K-$598K), not comparable | $4,200 (unconfirmed, carried from a prior aggregated snippet) | 2026-10-27
 
 ## Rejected (added 2026-10-29)
 - 23 Boardman Pl, 94103 (SOMA) | below-market, no stated reason — $3,800-$3,955 (Zillow/Apartments.com, Unit BP23B / Unit F) is ~42-48% below the SOMA 3BR median (~$6,816-$7,495 per prior corroborated SOMA comps in this ledger), exceeding the 25%-below exclusion threshold with no stated reason; building also carries a studio at $1,500 and a ground-floor commercial space, an unusual mix; no named landlord/PM found | $3,800-$3,955 | 2026-10-29
