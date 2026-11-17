@@ -25,15 +25,6 @@
 - "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
 - 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
-- 58 Latona St, 94124 (Bayview/Silver Terrace) | over-budget | $4,995 | 2026-09-17
-- Crocker Amazon "Spacious 3BR/2BA Gated Condo" (CL, excelsior/outer mission area) | over-budget | $4,900 | 2026-09-17
-- Excelsior/Outer Mission house, laundry + views (CL) | over-budget | $5,795 | 2026-09-17
-- 249 Topaz Way, 94131 (Diamond Heights) | over-budget/insufficient-data — property sold Feb 2025; no active rental listing found beyond an address-template page; Redfin rent estimate $6,725/mo, well over ceiling | $6,725 (estimate, not a live listing) | 2026-09-17
-- 1475 Hawes St #B, 94124 (Bayview/Hunters Point) | insufficient-data — unresolved price disagreement across sources for the nominally same unit ($3,175 / $4,175 / $5,050), spread straddles ceiling and contradicts itself; could not resolve to a single confident figure | $3,175-$5,050 (unresolved) | 2026-09-17
-- 3070 24th Ave, 94132 (Lakeside) | insufficient-data/stale — only reference found is a Craigslist post from ~June 2025 at $12,000 (stale); conflicts with property record (4bd/3ba, not 3bd/3ba as claimed) and Zillow rent Zestimate ($3,497); no live current listing located | unknown (stale) | 2026-09-17
-- "23rd Ave" furnished 3bd/4ba (CL, furnished-apartments section) | insufficient-data — no street number or listing URL recoverable; furnished nature also raises whole-unit-vs-corporate-share ambiguity | $3,200 | 2026-09-17
-- Sunnyside "renovated 3bd/2ba, 0.4mi from Glen Park BART" | insufficient-data — no address recoverable across repeated searches | $3,800 | 2026-09-17
-- "2161 N Valley St #A," Excelsior/Outer Mission (ADU) | insufficient-data — this street address could not be confirmed to exist in SF property records; likely a search-summarization error — do not add unless a real, verifiable address surfaces | $3,500 (unconfirmed address) | 2026-09-17
 - 362 Chenery St, Glen Park (Brown & Patki) | over-budget | $7,950 | 2026-09-22
 - 4344 17th St, Corona Heights | over-budget | $5,200 | 2026-09-22
 - 1017 Portola Dr | over-budget | $5,000-$5,200 | 2026-09-22
