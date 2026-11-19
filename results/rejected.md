@@ -154,12 +154,6 @@
 - "Spacious 3-Bedroom Portola Home with Private Yard & Remodeled Bath" (CL, quoted $2,230) | no address recoverable; $2,230 is far below any plausible Portola 3BR price (median ~$3,800) with no stated reason — presumed misattribution/stale or scam-adjacent; do not add unless a fuller listing with address surfaces | $2,230 (unconfirmed, likely misattributed) | 2026-09-16
 - Bennett Lofts, 530 Brannan St, 94107 (SOMA) | likely over-budget — building floor-plan range $4,359-$5,059 (studios from $3,577); no 3BR-specific price isolated but the range implies 3BR lofts sit above the $4,300 ceiling; watch for a confirmed 3BR digit before evaluating further | unknown (implied over-ceiling) | 2026-09-16
 - 1830 Alemany Blvd #301, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — price rose to $4,325 (2-source corroborated: Redfin + PadMapper, unit-specific 3bd/2ba/900sqft), exceeding the $4,300 ceiling; previously tracked in seen.md as negotiate at $4,150, moved to rejected 09-16; watch for a drop back to ≤$4,300 | $4,325 | 2026-09-16
-- 3869 26th St, Noe Valley | over-budget — resolves the 08-19 watch entry ("could not locate"); now found at $11,000/mo, far over ceiling | $11,000 | 2026-09-19
-- 445 Francisco St, North Beach | over-budget | $8,000 | 2026-09-19
-- Broadway & Franklin St, Pacific Heights | over-budget | $7,500 | 2026-09-19
-- 322 Stanyan St, Richmond District | over-budget | from $4,765 | 2026-09-19
-- 256 Putnam St, Bernal Heights | over-budget | $5,400 | 2026-09-19
-- 16 Montezuma St, Bernal Heights | over-budget | $9,400 | 2026-09-19
 - 1128 Valencia St, 94110 (Mission) | over-budget | $4,395 (Trulia) / $4,553 (Zillow Zestimate) | 2026-09-20
 - 755 21st Ave, 94121 (Richmond District) | over-budget | $5,450 | 2026-09-21
 - 1810 Polk St #307, 94109 (Nob Hill) | over-budget | $6,190 (Zestimate $6,653) | 2026-09-21
@@ -491,3 +485,9 @@
 - 43 Mangels Ave, Glen Park | over-budget + stale — "from $4,330," a RentHop page for the same listing shows "no longer available" | $4,330 | 2026-11-18
 - 901 Rivera St, 94116 (Central Sunset) | over-budget | $4,500 | 2026-11-18
 - 1430 32nd Ave, 94122 (Parkside West) | over-budget | $5,500 | 2026-11-18
+
+## Watch (added 2026-11-19)
+- 3549 Mission St, 94110 (Mission, near Bernal Heights/Noe Valley/Glen Park BART) | insufficient-data/likely-stale — $3,995, 3bd/2ba townhome (Apartments.com only, no 2nd platform corroboration); page shows "Check Back Soon for Upcoming Availability" — not currently available | $3,995 (unconfirmed availability) | 2026-11-19
+
+## Pruned (60-day, over-budget, 2026-11-19)
+- Removed 6 entries dated 2026-09-19 (3869 26th St $11,000; 445 Francisco St $8,000; Broadway & Franklin St $7,500; 322 Stanyan St from $4,765; 256 Putnam St $5,400; 16 Montezuma St $9,400) — all plain over-budget verdicts, now past the 60-day retention window
