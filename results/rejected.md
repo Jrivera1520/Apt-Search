@@ -154,11 +154,6 @@
 - "Spacious 3-Bedroom Portola Home with Private Yard & Remodeled Bath" (CL, quoted $2,230) | no address recoverable; $2,230 is far below any plausible Portola 3BR price (median ~$3,800) with no stated reason — presumed misattribution/stale or scam-adjacent; do not add unless a fuller listing with address surfaces | $2,230 (unconfirmed, likely misattributed) | 2026-09-16
 - Bennett Lofts, 530 Brannan St, 94107 (SOMA) | likely over-budget — building floor-plan range $4,359-$5,059 (studios from $3,577); no 3BR-specific price isolated but the range implies 3BR lofts sit above the $4,300 ceiling; watch for a confirmed 3BR digit before evaluating further | unknown (implied over-ceiling) | 2026-09-16
 - 1830 Alemany Blvd #301, 94112 (Outer Mission/Cayuga, Atlas Property Group) | over-budget — price rose to $4,325 (2-source corroborated: Redfin + PadMapper, unit-specific 3bd/2ba/900sqft), exceeding the $4,300 ceiling; previously tracked in seen.md as negotiate at $4,150, moved to rejected 09-16; watch for a drop back to ≤$4,300 | $4,325 | 2026-09-16
-- 755 21st Ave, 94121 (Richmond District) | over-budget | $5,450 | 2026-09-21
-- 1810 Polk St #307, 94109 (Nob Hill) | over-budget | $6,190 (Zestimate $6,653) | 2026-09-21
-- 4715 Balboa St, 94121 (Outer Richmond) | over-budget | $4,500 | 2026-09-21
-- 168 Bluxome St ("Loft 168"), 94107 (SOMA) | over-budget | $5,815 (Zestimate) | 2026-09-21
-- The Presidio Residences, 222 Halleck St, 94129 | over-budget — same complex as 3 units already sticky-rejected ($4,450-$5,050); this unit starts $4,850 | $4,850 | 2026-09-21
 - 1311 Palou Ave, 94124 (Bayview) | over-budget | $4,800, 3bd/2ba, in-unit W/D, annual lease | 2026-11-06
 - 823 Ingerson Ave, 94124 (Bayview) | over-budget | $4,900, 3bd/2ba remodeled | 2026-11-06
 - 8 Milton St, 94112 (Excelsior/Crocker Amazon) | over-budget/stale | $4,950 (Rentable), 3bd/2ba, 2,140 sqft, page shows "0 Available" | 2026-11-06
@@ -501,3 +496,9 @@
 
 ## Pruned (60-day, over-budget, 2026-11-20)
 - Removed 1 entry dated 2026-09-20 (1128 Valencia St, Mission, $4,395-$4,553) — plain over-budget verdict, now past the 60-day retention window
+
+## Watch (added 2026-11-21)
+- 433-437 Brazil Ave, 94112 (Excelsior) | insufficient-data/price-conflicted — multiple house numbers/units in the same small building surfaced conflicting figures ($3,885/$3,985/$4,685/$4,985) with no single unit cleanly isolated at one price; this building previously aged out of this file as a plain over-budget reject ($4,685, dated 09-15, pruned 2026-11-15) — the new lower figures aren't yet corroborated to a specific unit, needs a dedicated single-unit deep-dive before evaluating | $3,885-$4,985 (unresolved) | 2026-11-21
+
+## Pruned (60-day, over-budget, 2026-11-21)
+- Removed 5 entries dated 2026-09-21 (755 21st Ave $5,450; 1810 Polk St #307 $6,190; 4715 Balboa St $4,500; 168 Bluxome St $5,815; The Presidio Residences $4,850) — all plain over-budget verdicts, now past the 60-day retention window. The 2026-09-22-dated entries are exactly 60 days old today, not yet past the threshold — left for next run.
