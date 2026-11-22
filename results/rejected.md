@@ -24,12 +24,6 @@
 - "Available for 3 BR 1 BA apartment for rent!" near Marina Green (CL) | not-whole-unit, STICKY — turned out to be a $900/mo single-occupant room, not a whole-unit 3BR | $900 (room) | 2026-09-13
 
 - 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
-- 362 Chenery St, Glen Park (Brown & Patki) | over-budget | $7,950 | 2026-09-22
-- 4344 17th St, Corona Heights | over-budget | $5,200 | 2026-09-22
-- 1017 Portola Dr | over-budget | $5,000-$5,200 | 2026-09-22
-- 163 Rae Ave, 94112 (Outer Mission/Cayuga) | over-budget | $4,600 | 2026-09-22
-- 830 Sargent St, 94112 (Outer Mission/Cayuga) | over-budget | $5,500 | 2026-09-22
-- 175 Williams Ave, 94124 (Silver Terrace) | over-budget | $4,700 | 2026-09-22
 - 2547 38th Ave, 94116 (Parkside) | likely bed-count misattribution — Zumper lists as "3 Bedroom House" $3,500/mo, but Redfin and Zillow property records independently show 2bd/1ba, 995 sqft (sold 2020); same pattern as 418 Athens St / 3643 25th St, not a confirmed 3BR | $3,500 (unconfirmed, likely misattributed) | 2026-09-22
 - 55 Apollo St, 94124 (Silver Terrace/Bayview) | over-budget — price rose above the $4,300 ceiling; was tracked in seen.md as negotiate at a $4,288-$4,900 unresolved spread, now AMSI's own-domain listing shows $5,750 and other platforms show $4,800-$4,900, all over ceiling; contact also changed (new agent "Maureen Couture," 415-447-2048, replacing prior 650-796-2584) — mandatory hijack recheck run, came back clean (not for sale) | $4,800-$5,750 | 2026-09-23
 - "Updated and Remodeled 3 bed/2 bath w/Parking," Portola (J. Wavro, CL 7836920980) | over-budget | $4,500 | 2026-09-23
@@ -502,3 +496,10 @@
 
 ## Pruned (60-day, over-budget, 2026-11-21)
 - Removed 5 entries dated 2026-09-21 (755 21st Ave $5,450; 1810 Polk St #307 $6,190; 4715 Balboa St $4,500; 168 Bluxome St $5,815; The Presidio Residences $4,850) — all plain over-budget verdicts, now past the 60-day retention window. The 2026-09-22-dated entries are exactly 60 days old today, not yet past the threshold — left for next run.
+
+## Rejected (added 2026-11-22)
+- 2344 21st Ave, 94116 (Sunset/Parkside) | over-budget — price disagreement across sources ($4,400 vs $6,000), but even the low figure exceeds the ceiling | $4,400-$6,000 | 2026-11-22
+- 480 Euclid Ave Unit 480, 94118 (Inner Richmond) | over-budget — surfaced via a Cybus Management PM-site spot-check | $7,800 | 2026-11-22
+
+## Pruned (60-day, over-budget, 2026-11-22)
+- Removed 6 entries dated 2026-09-22 (362 Chenery St $7,950; 4344 17th St $5,200; 1017 Portola Dr $5,000-$5,200; 163 Rae Ave $4,600; 830 Sargent St $5,500; 175 Williams Ave $4,700) — all plain over-budget verdicts, now past the 60-day retention window.
