@@ -34,7 +34,6 @@
 - J. Wavro Dogpatch "Bright & Spacious Bi-Level 3BR Live/Work Loft" | over-budget | $6,295 | 2026-09-23
 - J. Wavro Pacific Heights (Jackson & Baker) 3BR/2BA condo | over-budget | $9,995 | 2026-09-23
 - J. Wavro Marina District full-floor penthouse 3BR/2BA | over-budget | $8,500 | 2026-09-23
-- 2272 Greenwich St, Cow Hollow | over-budget | $6,295 | 2026-09-24
 - "Sunny Noe 3-BR Sublet," Noe Valley (CL sublets & temporary category, not apa/hhh) | out-of-scope, short-term-adjacent — this is a sublet, not a standard whole-unit lease; falls outside the CL apa/hhh source pool and carries the same temporary character CLAUDE.md's weekly/nightly auto-reject rule is wary of, even though not an explicit weekly/nightly quote; no street address recoverable either; price disagreement $4,190 vs $4,600 across two snippets, unresolved | $4,190-$4,600 | 2026-09-24
 - 1379 Revere Ave #B, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
 - 1743 Revere Ave, Hunters Point, 94124 | over-budget | $4,350 | 2026-09-25
