@@ -25,15 +25,8 @@
 
 - 634 Cordova St, listed in some snippets as "Excelsior" | out-of-city, STICKY — Zumper's own geocode places this address in Daly City, CA 94014, not SF (per CLAUDE.md slug/city rule, judged by stated address not marketing copy) | — | 2026-09-14
 - 2547 38th Ave, 94116 (Parkside) | likely bed-count misattribution — Zumper lists as "3 Bedroom House" $3,500/mo, but Redfin and Zillow property records independently show 2bd/1ba, 995 sqft (sold 2020); same pattern as 418 Athens St / 3643 25th St, not a confirmed 3BR | $3,500 (unconfirmed, likely misattributed) | 2026-09-22
-- 55 Apollo St, 94124 (Silver Terrace/Bayview) | over-budget — price rose above the $4,300 ceiling; was tracked in seen.md as negotiate at a $4,288-$4,900 unresolved spread, now AMSI's own-domain listing shows $5,750 and other platforms show $4,800-$4,900, all over ceiling; contact also changed (new agent "Maureen Couture," 415-447-2048, replacing prior 650-796-2584) — mandatory hijack recheck run, came back clean (not for sale) | $4,800-$5,750 | 2026-09-23
-- "Updated and Remodeled 3 bed/2 bath w/Parking," Portola (J. Wavro, CL 7836920980) | over-budget | $4,500 | 2026-09-23
-- 88 Mill St, 94134 (Visitacion Valley) | over-budget/price-conflicted — $4,900 (3bd/2ba/2,200sqft) vs $5,995 (differently-configured 5bd/3ba at same address); either figure is over ceiling | $4,900-$5,995 | 2026-09-23
-- Excelsior/Outer Mission "whole house 3bd/1ba, steps from Mission Street" (CL) | over-budget, no address recoverable | $4,950 | 2026-09-23
 - 57 Dorado Ter, "Unit Downstairs," 94112 (West of Twin Peaks/Mount Davidson Manor) | insufficient-data — conflicting bed-count descriptions across sources (one says 1bd/1ba independent unit, another says 3bd/1ba master+2 rooms shared bath) and conflicting price ($3,500 vs $3,950); could not resolve to a single confident figure. Same street as tracked 59 Dorado Terrace (active) and rejected 41 Dorado Terrace (over-budget) | $3,500-$3,950 (unresolved) | 2026-09-23
 - Silver Terrace "3bd/1ba upstairs unit of SFH near Silver Terrace Playground and San Bruno Ave" | insufficient-data — no street address recoverable | unknown | 2026-09-23
-- J. Wavro Dogpatch "Bright & Spacious Bi-Level 3BR Live/Work Loft" | over-budget | $6,295 | 2026-09-23
-- J. Wavro Pacific Heights (Jackson & Baker) 3BR/2BA condo | over-budget | $9,995 | 2026-09-23
-- J. Wavro Marina District full-floor penthouse 3BR/2BA | over-budget | $8,500 | 2026-09-23
 - "Sunny Noe 3-BR Sublet," Noe Valley (CL sublets & temporary category, not apa/hhh) | out-of-scope, short-term-adjacent — this is a sublet, not a standard whole-unit lease; falls outside the CL apa/hhh source pool and carries the same temporary character CLAUDE.md's weekly/nightly auto-reject rule is wary of, even though not an explicit weekly/nightly quote; no street address recoverable either; price disagreement $4,190 vs $4,600 across two snippets, unresolved | $4,190-$4,600 | 2026-09-24
 - 1379 Revere Ave #B, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
 - 1743 Revere Ave, Hunters Point, 94124 | over-budget | $4,350 | 2026-09-25
@@ -502,3 +495,13 @@
 
 ## Pruned (60-day, over-budget, 2026-11-22)
 - Removed 6 entries dated 2026-09-22 (362 Chenery St $7,950; 4344 17th St $5,200; 1017 Portola Dr $5,000-$5,200; 163 Rae Ave $4,600; 830 Sargent St $5,500; 175 Williams Ave $4,700) — all plain over-budget verdicts, now past the 60-day retention window.
+
+## Pruned (60-day, over-budget, 2026-11-24)
+- Removed 7 entries dated 2026-09-23 (55 Apollo St $4,800-$5,750; "Updated and Remodeled 3 bed/2 bath w/Parking" Portola $4,500; 88 Mill St $4,900-$5,995; Excelsior/Outer Mission whole house $4,950; J. Wavro Dogpatch $6,295; J. Wavro Pacific Heights $9,995; J. Wavro Marina District $8,500) — all plain over-budget verdicts, now past the 60-day retention window. The 2026-09-24-dated entries are not yet past 60 days — left for next run.
+
+## Rejected (added 2026-11-24)
+- 730 San Jose Ave, 94110 (Noe Valley/Glen Park/Mission border) | over-budget | $5,995 | 2026-11-24
+- 1027 Treat Ave, 94110 (Bernal Heights/Mission border) | over-budget | $5,200 | 2026-11-24
+
+## Watch (added 2026-11-24)
+- 1431 Quesada Ave, 94124 (Bayview) | note update to the existing 2026-11-11 over-budget reject ($4,995 governing): a 3rd conflicting figure, $3,970 (Apartments.com, 3bd/1ba condo, low-rise building, city views, available now), surfaced this pass; single-source, discredited as a low outlier per the price-disagreement rule against the already-corroborated $4,995 confirmed-bed-count figure — not adopted, original verdict stands | $3,970 (discredited single-source) vs $4,995 (governing) | 2026-11-24
