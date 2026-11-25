@@ -28,9 +28,6 @@
 - 57 Dorado Ter, "Unit Downstairs," 94112 (West of Twin Peaks/Mount Davidson Manor) | insufficient-data — conflicting bed-count descriptions across sources (one says 1bd/1ba independent unit, another says 3bd/1ba master+2 rooms shared bath) and conflicting price ($3,500 vs $3,950); could not resolve to a single confident figure. Same street as tracked 59 Dorado Terrace (active) and rejected 41 Dorado Terrace (over-budget) | $3,500-$3,950 (unresolved) | 2026-09-23
 - Silver Terrace "3bd/1ba upstairs unit of SFH near Silver Terrace Playground and San Bruno Ave" | insufficient-data — no street address recoverable | unknown | 2026-09-23
 - "Sunny Noe 3-BR Sublet," Noe Valley (CL sublets & temporary category, not apa/hhh) | out-of-scope, short-term-adjacent — this is a sublet, not a standard whole-unit lease; falls outside the CL apa/hhh source pool and carries the same temporary character CLAUDE.md's weekly/nightly auto-reject rule is wary of, even though not an explicit weekly/nightly quote; no street address recoverable either; price disagreement $4,190 vs $4,600 across two snippets, unresolved | $4,190-$4,600 | 2026-09-24
-- 1379 Revere Ave #B, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
-- 1743 Revere Ave, Hunters Point, 94124 | over-budget | $4,350 | 2026-09-25
-- 981 Ingerson Ave, Hunters Point, 94124 | over-budget | $4,500 | 2026-09-25
 - 1121 Folsom St, 94103 (SOMA, J. Wavro Associates) | over-budget | $4,995 | 2026-09-26
 - 17 Kiska Rd, 94124 (Bayview) | over-budget | $4,725 | 2026-09-26
 - ~Excelsior/Outer Mission, 3bd/2ba, "rooftop deck views, BART/Muni access" (no address recoverable) | over-budget | $4,388 | 2026-09-27
@@ -294,7 +291,7 @@
 
 ## Watch (added 2026-10-11)
 - "Three-bedroom house in Visitacion Valley" (aptsearch.northeastern.edu) | insufficient-data — 3bd/1ba, ~1,200 sqft, $3,600 plus fees, available now; no street address recoverable despite repeated searches | $3,600 plus fees (unconfirmed address) | 2026-10-11
-- 360 Chester Ave, Ingleside Heights (offcampushousing.usfca.edu) | insufficient-data/possible address error — 3bd/1ba, $3,300 plus fees; Redfin's own Chester Ave street directory lists 88 addresses on the street and 360 is NOT among them (364, 368, 359 are) — the house number may be misreported by the aggregator; no 2nd source, no contact found; do not adopt until a correct, independently-findable address surfaces; re-checked 11-16 via a BanCal PM spot-check — a new single-source sighting surfaced at $3,500/mo (phone 415-290-3851, "available now"), still no 2nd-platform corroboration and the house-number concern remains unresolved, not adopted | $3,300-$3,500 (unconfirmed address) | 2026-10-11
+- 360 Chester Ave, Ingleside Heights (offcampushousing.usfca.edu) | insufficient-data/possible address error — 3bd/1ba, $3,300 plus fees; Redfin's own Chester Ave street directory lists 88 addresses on the street and 360 is NOT among them (364, 368, 359 are) — the house number may be misreported by the aggregator; no 2nd source, no contact found; do not adopt until a correct, independently-findable address surfaces; re-checked 11-16 via a BanCal PM spot-check — a new single-source sighting surfaced at $3,500/mo (phone 415-290-3851, "available now"), still no 2nd-platform corroboration and the house-number concern remains unresolved, not adopted; re-checked 11-25 via another BanCal PM spot-check — price now shown as $3,300/mo again (back to the original figure), still single-source, still no correct/findable address, not adopted | $3,300 (unconfirmed address) | 2026-10-11
 - "Spacious 3BR/2BA" near Homestead St & 24th St, Noe Valley (USF off-campus housing) | insufficient-data — in-unit laundry, shared backyard mentioned; no rent price recoverable despite repeated searches | unknown | 2026-10-11
 
 ## Watch (added 2026-10-13)
@@ -505,3 +502,12 @@
 
 ## Watch (added 2026-11-24)
 - 1431 Quesada Ave, 94124 (Bayview) | note update to the existing 2026-11-11 over-budget reject ($4,995 governing): a 3rd conflicting figure, $3,970 (Apartments.com, 3bd/1ba condo, low-rise building, city views, available now), surfaced this pass; single-source, discredited as a low outlier per the price-disagreement rule against the already-corroborated $4,995 confirmed-bed-count figure — not adopted, original verdict stands | $3,970 (discredited single-source) vs $4,995 (governing) | 2026-11-24
+
+## Pruned (60-day, over-budget, 2026-11-25)
+- Removed 3 entries dated 2026-09-25 (1379 Revere Ave #B, Hunters Point $4,500; 1743 Revere Ave, Hunters Point $4,350; 981 Ingerson Ave, Hunters Point $4,500) — all plain over-budget verdicts, now past the 60-day retention window. The 2026-09-26-dated entries (1121 Folsom St $4,995; 17 Kiska Rd $4,725) are exactly 60 days old today, not yet past the threshold — left for next run.
+
+## Watch (added 2026-11-25)
+- 3526 California St, 94118 (Lake St/Presidio Heights) | insufficient-data/bed-count-ambiguous — $3,950; listing describes the layout as "2 or 3BR," with a dining room that converts to a bedroom — not a confirmed 3BR | $3,950 (unconfirmed bed count) | 2026-11-25
+- 128 Parker Ave, 94118 (Jordan Park) | insufficient-data — 3bd/2ba flat confirmed to exist; no rent price recoverable despite search | unknown | 2026-11-25
+- 214 Miramar Ave, 94112 (Ingleside/Oceanview) | insufficient-data — 3bd, in-unit laundry per a thin snippet; no rent price recoverable despite search | unknown | 2026-11-25
+- 1144 Plymouth Ave, 94112 (Ingleside) | insufficient-data — 3bd/3ba duplex unit; no rent price recoverable despite search | unknown | 2026-11-25
