@@ -28,8 +28,6 @@
 - 57 Dorado Ter, "Unit Downstairs," 94112 (West of Twin Peaks/Mount Davidson Manor) | insufficient-data — conflicting bed-count descriptions across sources (one says 1bd/1ba independent unit, another says 3bd/1ba master+2 rooms shared bath) and conflicting price ($3,500 vs $3,950); could not resolve to a single confident figure. Same street as tracked 59 Dorado Terrace (active) and rejected 41 Dorado Terrace (over-budget) | $3,500-$3,950 (unresolved) | 2026-09-23
 - Silver Terrace "3bd/1ba upstairs unit of SFH near Silver Terrace Playground and San Bruno Ave" | insufficient-data — no street address recoverable | unknown | 2026-09-23
 - "Sunny Noe 3-BR Sublet," Noe Valley (CL sublets & temporary category, not apa/hhh) | out-of-scope, short-term-adjacent — this is a sublet, not a standard whole-unit lease; falls outside the CL apa/hhh source pool and carries the same temporary character CLAUDE.md's weekly/nightly auto-reject rule is wary of, even though not an explicit weekly/nightly quote; no street address recoverable either; price disagreement $4,190 vs $4,600 across two snippets, unresolved | $4,190-$4,600 | 2026-09-24
-- 1121 Folsom St, 94103 (SOMA, J. Wavro Associates) | over-budget | $4,995 | 2026-09-26
-- 17 Kiska Rd, 94124 (Bayview) | over-budget | $4,725 | 2026-09-26
 - ~Excelsior/Outer Mission, 3bd/2ba, "rooftop deck views, BART/Muni access" (no address recoverable) | over-budget | $4,388 | 2026-09-27
 - 3165 Mission St #302, 94110 (Bernal Heights/Mission border, Atlas Property Group) | over-budget/price-conflicted — $4,495 (Apartments.com) vs $5,995 (Rentler), both over ceiling either way; also carries a "Room for Rent" tag, moot since over-budget | $4,495-$5,995 | 2026-09-28
 - 405 22nd Ave, 94121 (Outer Richmond) | over-budget | $4,695 | 2026-09-28
@@ -511,3 +509,10 @@
 - 128 Parker Ave, 94118 (Jordan Park) | insufficient-data — 3bd/2ba flat confirmed to exist; no rent price recoverable despite search | unknown | 2026-11-25
 - 214 Miramar Ave, 94112 (Ingleside/Oceanview) | insufficient-data — 3bd, in-unit laundry per a thin snippet; no rent price recoverable despite search | unknown | 2026-11-25
 - 1144 Plymouth Ave, 94112 (Ingleside) | insufficient-data — 3bd/3ba duplex unit; no rent price recoverable despite search | unknown | 2026-11-25
+
+## Pruned (60-day, over-budget, 2026-11-26)
+- Removed 2 entries dated 2026-09-26 (1121 Folsom St, SOMA $4,995; 17 Kiska Rd, Bayview $4,725) — both plain over-budget verdicts, now past the 60-day retention window.
+
+## Watch (added 2026-11-26)
+- 241 Tingley St, 94112 (Mission Terrace/Glen Park border) | insufficient-data/bed-count-conflicted [SNIPPET-ONLY] — $3,250; Apartments.com places it in Mission Terrace with no stated bed count, Rentler calls the same address a 4bd/1.5ba in Glen Park — not a confirmed 3BR match, neighborhood also disputed | $3,250 (unconfirmed bed count) | 2026-11-26
+- 100 Hugo St, 94122 (Inner Sunset) | insufficient-data/likely-stale [SNIPPET-ONLY] — $3,950-$4,195 range across Redfin/Apartments.com Unit #1, but Zillow's own building page states "no available units" for this address, contradicting both price listings | $3,950-$4,195 (unconfirmed availability) | 2026-11-26
