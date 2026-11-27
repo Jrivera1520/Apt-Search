@@ -28,7 +28,6 @@
 - 57 Dorado Ter, "Unit Downstairs," 94112 (West of Twin Peaks/Mount Davidson Manor) | insufficient-data — conflicting bed-count descriptions across sources (one says 1bd/1ba independent unit, another says 3bd/1ba master+2 rooms shared bath) and conflicting price ($3,500 vs $3,950); could not resolve to a single confident figure. Same street as tracked 59 Dorado Terrace (active) and rejected 41 Dorado Terrace (over-budget) | $3,500-$3,950 (unresolved) | 2026-09-23
 - Silver Terrace "3bd/1ba upstairs unit of SFH near Silver Terrace Playground and San Bruno Ave" | insufficient-data — no street address recoverable | unknown | 2026-09-23
 - "Sunny Noe 3-BR Sublet," Noe Valley (CL sublets & temporary category, not apa/hhh) | out-of-scope, short-term-adjacent — this is a sublet, not a standard whole-unit lease; falls outside the CL apa/hhh source pool and carries the same temporary character CLAUDE.md's weekly/nightly auto-reject rule is wary of, even though not an explicit weekly/nightly quote; no street address recoverable either; price disagreement $4,190 vs $4,600 across two snippets, unresolved | $4,190-$4,600 | 2026-09-24
-- ~Excelsior/Outer Mission, 3bd/2ba, "rooftop deck views, BART/Muni access" (no address recoverable) | over-budget | $4,388 | 2026-09-27
 - 3165 Mission St #302, 94110 (Bernal Heights/Mission border, Atlas Property Group) | over-budget/price-conflicted — $4,495 (Apartments.com) vs $5,995 (Rentler), both over ceiling either way; also carries a "Room for Rent" tag, moot since over-budget | $4,495-$5,995 | 2026-09-28
 - 405 22nd Ave, 94121 (Outer Richmond) | over-budget | $4,695 | 2026-09-28
 - Unnamed Inner Richmond 3BR/2BA remodeled apartment, in-unit laundry, shared yard (no address recoverable) | over-budget | $4,799 | 2026-09-28
@@ -471,7 +470,7 @@
 - 1910 32nd Ave, 94116 (Parkside) | over-budget | $4,400 | 2026-11-20
 
 ## Watch (added 2026-11-20)
-- 304 Waller St, 94117 (Lower Haight/Duboce Triangle border) | insufficient-data — $3,995, 3bd, 2nd-floor unit, water/trash included, one month's rent credit advertised (Apartments.com only, no 2nd platform corroboration, no named landlord/PM found) | $3,995 (single-source) | 2026-11-20
+- 304 Waller St, 94117 (Lower Haight/Duboce Triangle border) | insufficient-data — $3,995, 3bd, 2nd-floor unit, water/trash included, one month's rent credit advertised (Apartments.com only, no 2nd platform corroboration, no named landlord/PM found); re-checked 11-27: unchanged, still single-source only | $3,995 (single-source) | 2026-11-20
 - 3189 Mission St, 94110 (Mission, near 24th St BART/MUNI) | insufficient-data — $4,250 (Apartments.com only, no 2nd platform corroboration, bed count not independently confirmed, no named landlord/PM found); same street as the already-rejected/watch-flagged 3163/3165/3181/3301/3320/3549 Mission St entries, treat with the same caution given this street's repeated misattribution pattern | $4,250 (single-source) | 2026-11-20
 - 5800 3rd St, Unit 1304, 94124 (Bayview) | insufficient-data — resolves part of the 2026-11-04 watch item ("5800 3rd St, '3rd Fl' unit"): Avail lists Unit 1304 at $3,850/3bd-2ba/1,309sqft; same building as the already-rejected #1119/#1418 units ($4,725-$5,200), single-source, no named landlord/PM found | $3,850 (single-source) | 2026-11-20
 
@@ -516,3 +515,9 @@
 ## Watch (added 2026-11-26)
 - 241 Tingley St, 94112 (Mission Terrace/Glen Park border) | insufficient-data/bed-count-conflicted [SNIPPET-ONLY] — $3,250; Apartments.com places it in Mission Terrace with no stated bed count, Rentler calls the same address a 4bd/1.5ba in Glen Park — not a confirmed 3BR match, neighborhood also disputed | $3,250 (unconfirmed bed count) | 2026-11-26
 - 100 Hugo St, 94122 (Inner Sunset) | insufficient-data/likely-stale [SNIPPET-ONLY] — $3,950-$4,195 range across Redfin/Apartments.com Unit #1, but Zillow's own building page states "no available units" for this address, contradicting both price listings | $3,950-$4,195 (unconfirmed availability) | 2026-11-26
+
+## Pruned (60-day, over-budget, 2026-11-27)
+- Removed 1 entry dated 2026-09-27 (~Excelsior/Outer Mission 3bd/2ba "rooftop deck views, BART/Muni access," no address, $4,388) — plain over-budget verdict, now past the 60-day retention window. The 2026-09-28-dated entries are exactly 60 days old today, not yet past the threshold — left for next run.
+
+## Watch (added 2026-11-27)
+- Saint Charles Ave (no street number), 94132 (Ingleside Heights) | insufficient-data — $3,950, 3bd/2ba per a Hotpads snippet, ~$297 below Hotpads' own cited Ingleside Heights 3BR market rate; no street number recoverable despite repeated searches (219 St Charles Ave at $5,000 and 190 St Charles Ave, a 1ba in-law unit at $2,350, are confirmed different addresses, not this listing) | $3,950 (unconfirmed address) | 2026-11-27
